@@ -2,11 +2,11 @@
 site_name: 'Material PUEBI'
 site_description: 'A short description of my project'
 site_author: 'John Doe'
-site_url: 'https://github.com/mughnimind/PUEBI/'
+site_url: 'https://mughnimind.github.io/Materi-PUEBI/'
 
 # Repository
-repo_name: 'mughnimind/PUEBI'
-repo_url: 'https://github.com/mughnimind/PUEBI'
+repo_name: 'mughnimind/Materi-PUEBI'
+repo_url: 'https://github.com/mughnimind/Materi-PUEBI'
 
 # Copyright
 copyright: 'Copyright &copy; 2016 - 2017 MughniMind'
