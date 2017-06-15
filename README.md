@@ -1,6 +1,9 @@
 ## Materi PUEBI
 
->[Panduan Umum Ejaan Bahasa Indonesia][id] dalam jaringan bernuansa [Desain Material][id]
+>[Panduan Umum Ejaan Bahasa Indonesia][puebi] dalam jaringan bernuansa [Desain Material][id]
+
+[puebi]: http://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf
+[material]: https://material.io
 
 ## Selayang Pandang
 
@@ -9,9 +12,9 @@ Ide pembuatan [**Materi PUEBI**][materi] tiba-tiba terbesit di kepala saya pada 
 [materi]: https://mughnimind.github.io/Materi-PUEBI/
 [squid]: https://github.com/squidfunk/mkdocs-material/blob/master/README.md
 
-Namun petangnya, saya menemukan repositori [PUEBI][puebi] di ladang [Github][github] dengan konten yang benar-benar sama. Hal ini sedikit mengganjal niatan untuk merealisasikan ide — yang ternyata tidak orisinil — dari kepala saya.
+Namun petangnya, saya menemukan repositori [PUEBI][gpuebi] di ladang [Github][github] dengan konten yang benar-benar sama. Hal ini sedikit mengganjal niatan untuk merealisasikan ide — yang ternyata tidak orisinil — dari kepala saya.
 
-[puebi]: https://github.com/search?utf8=✓&q=puebi
+[gpuebi]: https://github.com/search?utf8=✓&q=puebi
 [github]: https://github.com
 
 Meski demikian ide tersebut tetap saya realisasikan mengingat motivasi utama proyek **Materi PUEBI** adalah apa yang tertulis pada kalimat kedua paragraf pertama.
@@ -24,18 +27,24 @@ Kemunculan Materi PUEBI dilatarbelakangi oleh keinginan pribadi untuk menyajikan
 
 Penyusunan struktur _e-book_ PUEBI yang lebih ditujukan untuk pembaca [luring][lur] saya rasa belum cukup memenuhi tuntutan struktur penulisan dokumen berbasis web. Mulai dari pilihan penanda karakter, tajuk yang tidak terperinci hingga absennya fitur daftar isi.
 
+[lur]: https://id.m.wikipedia.org/wiki/Dalam_jaringan_dan_luar_jaringan
+
 ## Perkakas
 
 Perkakas yang saya gunakan untuk membuat Meteri PUEBI adalah:
 
 * Gawai
 
-   Semua proses pembuatan, penyuntingan dan penjsjjs dikerjakan dengan menggunakan ponsel cerdas bersistem operasi Android.
+   Semua proses pembuatan, penyuntingan dan penjsjjs dikerjakan dengan menggunakan [ponsel cerdas][pc] bersistem operasi [Android][an].
+
+[pc]: https://id.m.wikipedia.org/wiki/Ponsel_cerdas
+[an]: https://id.m.wikipedia.org/wiki/Android_(sistem_operasi)
 
 * Perangkat Lunak
 
-   Memanfaatkan Termux sebagai media utama pemasangan [git][git], [python][py], [MkDocs][mkdocs], serta [Material MkDocs][squid] dan beragam perangkat lunak lain.
+   Memanfaatkan [Termux][tmx] sebagai media utama pemasangan [git][git], [python][py], [MkDocs][mkdocs], serta [Material MkDocs][squid] dan beragam perangkat lunak lain.
 
+[tmx]: https://termux.com
 [git]: https://git-scm.com
 [py]: https://www.python.org
 [mkdocs]: http://www.mkdocs.org
