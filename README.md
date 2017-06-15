@@ -1,6 +1,6 @@
 ## Materi PUEBI
 
->[Panduan Umum Ejaan Bahasa Indonesia][puebi] dalam jaringan bernuansa [Desain Material][id]
+>[Panduan Umum Ejaan Bahasa Indonesia][puebi] dalam jaringan bernuansa [Desain Material][material]
 
 [puebi]: http://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf
 [material]: https://material.io
