@@ -1,76 +1,141 @@
-## Materi PUEBI
 
->[Panduan Umum Ejaan Bahasa Indonesia][puebi] dalam jaringan bernuansa [Desain Material][material]
 
-[puebi]: http://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf
-[material]: https://material.io
+# Materi PUEBI
+
+> **Pedoman Umum Ejaan Bahasa Indonesia** bernuansa _Material Design_
 
 ## Selayang Pandang
 
-Ide pembuatan [**Materi PUEBI**][materi] tiba-tiba terbesit di kepala saya pada waktu fajar 09/06/2017. Semata disebabkan karena berkeinginan untuk mencicipi tema [Mkdocs-Material][squid] yang menurut hemat saya baik tampilan, responsivitas, maupun dukukungan dan pembaruannya sangat menarik.
+**PUEBI** yang merupakan akronim dari Panduan Umum Ejaan Bahasa Indonesia, adalah upaya **Kemdikbud** untuk tetap terus menumbuh-kembangkan Bahasa Indonesia. Informasi menyeluruh mengenai PUEBI terdapat di halaman resmi [Kemdikbud][1].
 
-[materi]: https://mughnimind.github.io/Materi-PUEBI/
-[squid]: https://github.com/squidfunk/mkdocs-material/blob/master/README.md
+  [1]: http://badanbahasa.kemdikbud.go.id/lamanbahasa/
 
-Namun petangnya, saya menemukan repositori [PUEBI][gpuebi] di ladang [Github][github] dengan konten yang benar-benar sama. Hal ini sedikit mengganjal niatan untuk merealisasikan ide — yang ternyata tidak orisinil — dari kepala saya.
+Selanjutnya, Kemdikbud juga telah menyediakan [Buku elektronik PUEBI][2] yang dapat diunduh dengan mudah dan cuma-cuma sebagai upaya publikasi PUEBI pada masyarakat luas. Bahkan berkat seorang wikipediawan bernama [Ivan Lanin][3], kini telah tersedia [PUEBI Daring][4] yang dapat diakses secara_online_ kapan dan dimana saja.
 
-[gpuebi]: https://github.com/search?utf8=✓&q=puebi
-[github]: https://github.com
+  [2]: http://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf
+  [3]: https://id.wikipedia.org/wiki/Ivan_Lanin
+  [4]: https://ivanlanin.github.io/puebi/
 
-Meski demikian ide tersebut tetap saya realisasikan mengingat motivasi utama proyek **Materi PUEBI** adalah apa yang tertulis pada kalimat kedua paragraf pertama.
+## Materi PUEBI
 
-## Motif
+Sebagian besar konten [**Materi PUEBI**][5] adalah salinan dari buku elektronik PUEBI seperti apa yang dilakukan PUEBI Daring besutan Om Lanin, namun **disajikan dalam nuansa [Desain Material][6]**. Singkatnya, perbedaan utama antara Materi PUEBI dengan kedua pendahulunya terletak pada tampilan _Material Design_.
 
-Kemunculan Materi PUEBI dilatarbelakangi oleh keinginan pribadi untuk menyajikan _e-book_ PUEBI versi pdf dalam bentuk situs web yang bernuansa Desain Material.
+  [5]: https://mughnimind.github.io/Materi-PUEBI/
+  [6]: https://id.m.wikipedia.org/wiki/Desain_material
 
-## Konvensi
+>Pemilihan kata **Materi** pun selain karena bermakna kandungan/isi PUEBI, juga berkaitan dengan kalimat <strong>Materi</strong>al Design.
 
-Penyusunan struktur _e-book_ PUEBI yang lebih ditujukan untuk pembaca [luring][lur] saya rasa belum cukup memenuhi tuntutan struktur penulisan dokumen berbasis web. Mulai dari pilihan penanda karakter, tajuk yang tidak terperinci hingga absennya fitur daftar isi.
+Meski demikian, walaupun konten yang termuat dalam Materi PUEBI sangat menyerupai kedua leluhurnya, perlu ditegaskan bahwa Materi PUEBI adalah proyek yang dikerjakan dengan tanpa melibatkan campur tangan (berasosiasi) kedua leluhurnya.
 
-[lur]: https://id.m.wikipedia.org/wiki/Dalam_jaringan_dan_luar_jaringan
+### Latar Belakang
 
-## Perkakas
+Motivasi utama dibalik pengerjaan **Materi PUEBI** semata disebabkan karena keinginan untuk mencicipi tema [Mkdocs Material][7] yang menurut hemat saya baik tampilan, responsivitas, maupun dukukungan dan pembaruannya sangat menarik.
 
-Perkakas yang saya gunakan untuk membuat Meteri PUEBI adalah:
+  [7]: http://squidfunk.github.io/mkdocs-material/
 
-* Gawai
+Alasan sepele itulah yang mengakibatkan pengerjaan Materi PUEBI tetap dilakukan meski telah tersedia PUEBI Daring dengan konten yang benar-benar sama.
 
-   Semua proses pembuatan, penyuntingan dan penjsjjs dikerjakan dengan menggunakan [ponsel cerdas][pc] bersistem operasi [Android][an].
+### Pengerjaan & Pengatakan
 
-[pc]: https://id.m.wikipedia.org/wiki/Ponsel_cerdas
-[an]: https://id.m.wikipedia.org/wiki/Android_(sistem_operasi)
+>Pengerjaan Materi PUEBI, sepenuhnya dilakukan dari ponsel pintar bersistem operasi Android di genggaman tangan.
 
-* Perangkat Lunak
+#### Perkakas
 
-   Memanfaatkan [Termux][tmx] sebagai media utama pemasangan [git][git], [python][py], [MkDocs][mkdocs], serta [Material MkDocs][squid] dan beragam perangkat lunak lain.
+**Media Perilisan**  
+Materi PUEBI dirilis ke ranah internet dengan memanfaatkan [halaman Github][8] sebagai naungan utamanya, kemudian memakai [MkDocs][9] sebagai generator pemrosesannya, lalu mengenakan tema [Material MkDocs][7] untuk mengadopsi tampilan Material Design.
 
-[tmx]: https://termux.com
-[git]: https://git-scm.com
-[py]: https://www.python.org
-[mkdocs]: http://www.mkdocs.org
+  [8]: https://pages.github.com
+  [9]: http://www.mkdocs.org
 
-* Penyuntingan
 
-   Penyuntingan teks dilakukan menggunakan [QuickEdit][qedit].
+**Media Penyuntingan**  
+Konten Materi PUEBI sebagian besar ditulis mengenakan [Markdown][10], dengan menyisipkan pemarkahan [html][11] serta [css][12] dan [JavaScript][13] seperlunya. Penyuntingannya seringkali dikerjakan dengan memakai aplikasi [QuickEdit][14], lalu [MarkdownX][15] dan [Epsilon Notes][16] kerap jadi wadah beragam teks yang masih berupa konsep.
 
-* Dokumentasi
+  [10]: https://daringfireball.net/projects/markdown/
+  [11]: https://id.wikipedia.org/wiki/HTML
+  [12]: https://id.wikipedia.org/wiki/Cascading_Style_Sheets
+  [13]: https://www.mathjax.org
+  [14]: http://rhmsoft.com/?p=283
+  [15]: https://github.com/Ryeeeeee/MarkdownX
+  [16]: http://epsilon-k.blogspot.co.id/2016/09/epsilon-notes-for-markdown-commonmark.html
 
-   Sarana dokumentasi yang digunakan adalah [MkDocs][mkdocs]
+**Pemasangan & Pengujian**  
+Pengujian Materi PUEBI mampu dilakukan dari ponsel pintar berkat adanya aplikasi [**Termux**][17] yang sekaligus sebagai aplikasi utama proses pemasangan [git][18], [python][19], dan juga MkDocs beserta tema Material MkDocs.
 
-* Nuansa
+[17]: https://termux.com
+[18]: https://id.wikipedia.org/wiki/Git
+[19]: https://id.wikipedia.org/wiki/Python_(bahasa_pemrograman)
 
-   Nuansa atau tema yang digunakan adalah [Material MkDocs][squid].
+**Sumber Konten**  
+Konten utama Materi PUEBI kesemuanya diekstraksi dari buku elektronik PUEBI. Lantaran buku tersebut masih berbentuk pdf, maka proses ekstraksi teksnya dilakukan dengan memanfaatkan sarana [konversi pdf ke teks][20] secara daring.
 
-* Serba-serbi
+  [20]: http://go4convert.com
 
-   Materi PUEBI dibuat dengan sepenuh hati.
+#### Struktur Penulisan
 
-[qedit]: https://play.google.com/store/apps/details?id=com.rhmsoft.edit
+Baik buku elektronik PUEBI maupun PUEBI Daring adalah sebuah kemajuan besar bagi pelestarian dan pemugaran Bahasa Indonesia, keduanya diharapkan mampu memenuhi tuntutan perkembangan zaman yang semakin terjangkiti kemajuan teknologi.
+
+Namun sayangnya, karena konsep **struktur penulisan** yang dianut oleh keduanya lebih ditujukan untuk dimanfaatkan secara [luring][21], maka upaya untuk menyelaraskan PUEBI dengan struktur dokumen berorientasi web memaksa saya untuk menyematkan struktur penulisan yang sedikit berbeda pada Materi PUEBI.
+
+  [21]: https://id.m.wikipedia.org/wiki/Dalam_jaringan_dan_luar_jaringan
+
+Penyelarasan ini dengan tetap memperhatikan esensi dari setiap konten PUEBI, mengakibatkan adanya perbedaan struktur penulisan dalam Materi PUEBI. Perubahan struktur utama yang terdapat di Materi PUEBI yaitu:
+
+* Subbab Tambahan
+
+    Materi PUEBI sengaja menyisipkan subbab pada setiap butir klausul yang tertera di PUEBI agar fitur daftar isi otomatis yang tersedia pada MkDocs Material dapat dimanfaatkan sebagaimana mestinya, sehingga memberikan keleluasaan lebih bagi pembaca dalam menjelajahi uraian tersebut.
+
+* Penataan Klausul
+
+    Penambahan subbab seringkali menuntut perombakan susunan klausul dalam PUEBI, beberapa klausul yang memiliki keterkaitan bahkan dikelompokkan dalam subbab tersendiri.
+
+* Peniadaan Halaman
+
+    Beberapa halaman yang terdapat di PUEBI sengaja dihilangkan semata karena fungsi halaman tersebut mampu digantikan dengan fitur yang tersedia pada Materi PUEBI. Misalnya halaman Sampul, Daftar Isi, dan Indeks.
+
+* Warna Catatan
+
+    Pewarnaan dalam Catatan mengindikasikan maksud dan tujuan dari catatan tersebut, warna biru menandakan tambahan informasi; warna kuning berarti pengecualian; dan warna merah artinya peringatan.
+
+Perubahan lain hanya seputar hal-hal kecil terkait penyesuaian tipografi dan kerangka yang turut dirombak, baik demi kepentingan tampilan maupun tingkat keterbacaan, seperti penggunaan [aksen nontirus][22] berupa ==`== dan lain sebagainya.
+
+  [22]: https://id.wikipedia.org/wiki/Aksen_nontirus
+
+## Gotong Royong
+
+Pagi para pengguna Bahasa Indonesia, kontribusi Anda sangat dinanti-nantikan. Kontribusi dan partisipasi dapat dilakukan melalui kolom komentar pada situs Materi PUEBI. Saran dan terutama kritik sangat diharapkan, sehingga Materi PUEBI dapat terus di tumbuh-kembangkan.
+
+Kontribusi juga dapat dilakukan melalui [repositori Materi PUEBI][23] di [Github][24], dapat dilakukan melalui pull request dengan menggarpu (fork) repositori Materi PUEBI. Namun untuk saat ini perincian proses kontribusi malalu cara ini belum dapat saya uraikan, sebab saya sendiri masih seorang pendatang baru di Github. Mohon bantuannya ... :pray:.
+
+  [23]: https://github.com/mughnimind/Materi-PUEBI
+  [24]: https://github.com
+
+## Rekam Perilisan
+
+### 0.6.21 <small>_21 Juni 2017</small>
+
+* Kondisi: "beta"
+* Julukan: "Ruag"
+* Deskripsi: "Perilisan Awal"
+
+## Daftar Tugas
+
+* [ ] Merampungkan Penyuntingan
+* [ ] Membenahi halaman beranda
+* [ ] Memperbaiki halaman Tentang
+    * [ ] Memperjelas penjabaran;
+    * [ ] Pemisahan Judul:
+    * [ ] Penambahan panduan kontribusi;
+* [ ] Menambahkan _Screenshot_
+* [ ] Menyisipkan catatan kaki
+* [ ] Memperbaharui daftar tugas.
 
 ## Hak Cipta
 
-Materi PUEBI menganut lisensi [GNU GPLv3][lis]. Adapun Hak Cipta PUEBI sendiri digenggam oleh [Badan Pengembangan dan Pembinaan Bahasa Republik Indonesia][88].
+Sama halnya dengan apa yang tertera di PUEBI Daring,  Hak Cipta PUEBI digenggam oleh [Badan Pengembangan dan Pembinaan Bahasa Republik Indonesia][1].
 
-[lis]: LICENSE.md
-[88]: http://badanbahasa.kemdikbud.go.id/
+Sedangkan lisensi yang tersemat pada Materi PUEBI, yaitu [MIT license][25].
+
+[25]: https://github.com/mughnimind/Materi-PUEBI/blob/master/LICENSE
+
 
