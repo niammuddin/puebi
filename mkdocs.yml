@@ -1,40 +1,105 @@
-# Project information
-site_name: 'Material PUEBI'
-site_description: 'A short description of my project'
-site_author: 'John Doe'
+# Informasi Proyek
+site_name: 'Materi PUEBI'
+site_description: 'Panduan Umum Ejaan Bahasa Indonesia bernuansa Desain Material'
+site_author: 'MughniMind'
 site_url: 'https://mughnimind.github.io/Materi-PUEBI/'
 
-# Repository
+# Halaman
+pages:
+  - 'Beranda': 'index.md'
+  - 'Kata Pengantar': 'Halaman_Judul/Kata_Pengantar/index.md'
+  - 'Peraturan KEMDIKBUD': 'Halaman_Judul/Peraturan_KEMDIKBUD/index.md'
+  - 'Prakata': 'Halaman_Judul/Prakata/index.md'
+  - 'Pemakaian Huruf':
+    - 'Huruf Abjad': 'Konten/Pemakaian_Huruf/Huruf_Abjad/index.md'
+    - 'Huruf Vokal': 'Konten/Pemakaian_Huruf/Huruf_Vokal/index.md'
+    - 'Huruf Konsonan': 'Konten/Pemakaian_Huruf/Huruf_Konsonan/index.md'
+    - 'Huruf Diftong': 'Konten/Pemakaian_Huruf/Huruf_Diftong/index.md'
+    - 'Gabungan Huruf Konsonan': 'Konten/Pemakaian_Huruf/Gabungan_Huruf_Konsonan/index.md'
+    - 'Huruf Kapital': 'Konten/Pemakaian_Huruf/Huruf_Kapital/index.md'
+    - 'Huruf Miring': 'Konten/Pemakaian_Huruf/Huruf_Miring/index.md'
+    - 'Huruf Tebal': 'Konten/Pemakaian_Huruf/Huruf_Tebal/index.md'
+  - 'Penulisan Kata':
+    - 'Kata Dasar': 'Konten/Penulisan_Kata/Kata_Dasar/index.md'
+    - 'Kata Berimbuhan': 'Konten/Penulisan_Kata/Kata_Berimbuhan/index.md'
+    - 'Bentuk Ulang': 'Konten/Penulisan_Kata/Bentuk_Ulang/index.md'
+    - 'Gabungan Kata': 'Konten/Penulisan_Kata/Gabungan_Kata/index.md'
+    - 'Pemenggalan Kata': 'Konten/Penulisan_Kata/Pemenggalan_Kata/index.md'
+    - 'Kata Depan': 'Konten/Penulisan_Kata/Kata_Depan/index.md'
+    - 'Partikel': 'Konten/Penulisan_Kata/Partikel/index.md'
+    - 'Singkatan dan Akronim': 'Konten/Penulisan_Kata/Singkatan_dan_Akronim/index.md'
+    - 'Angka dan Bilangan': 'Konten/Penulisan_Kata/Angka_dan_Bilangan/index.md'
+    - 'Kata Ganti': 'Konten/Penulisan_Kata/Kata_Ganti/index.md'
+    - 'Kata Sandang': 'Konten/Penulisan_Kata/Kata_Sandang/index.md'
+  - 'Pemakaian Tanda Baca':
+    - 'Tanda Titik': 'Konten/Pemakaian_Tanda_Baca/Tanda_Titik/index.md'
+    - 'Tanda Koma': 'Konten/Pemakaian_Tanda_Baca/Tanda_Koma/index.md'
+    - 'Tanda Titik Koma': 'Konten/Pemakaian_Tanda_Baca/Tanda_Titik_Koma/index.md'
+    - 'Tanda Titik Dua': 'Konten/Pemakaian_Tanda_Baca/Tanda_Titik_Dua/index.md'
+    - 'Tanda Hubung': 'Konten/Pemakaian_Tanda_Baca/Tanda_Hubung/index.md'
+    - 'Tanda Pisah': 'Konten/Pemakaian_Tanda_Baca/Tanda_Pisah/index.md'
+    - 'Tanda Tanya': 'Konten/Pemakaian_Tanda_Baca/Tanda_Tanya/index.md'
+    - 'Tanda Seru': 'Konten/Pemakaian_Tanda_Baca/Tanda_Seru/index.md'
+    - 'Tanda Elipsis': 'Konten/Pemakaian_Tanda_Baca/Tanda_Elipsis/index.md'
+    - 'Tanda Petik': 'Konten/Pemakaian_Tanda_Baca/Tanda_Petik/index.md'
+    - 'Tanda Petik Tunggal': 'Konten/Pemakaian_Tanda_Baca/Tanda_Petik_Tunggal/index.md'
+    - 'Tanda Kurung': 'Konten/Pemakaian_Tanda_Baca/Tanda_Kurung/index.md'
+    - 'Tanda Kurung Siku': 'Konten/Pemakaian_Tanda_Baca/Tanda_Kurung_Siku/index.md'
+    - 'Tanda Garis Miring': 'Konten/Pemakaian_Tanda_Baca/Tanda_Garis_Miring/index.md'
+    - 'Tanda Penyingkat atau Apostrof': 'Konten/Pemakaian_Tanda_Baca/Tanda_Penyingkat_atau_Apostrof/index.md'
+  - 'Penulisan Unsur Serapan': 'Konten/Penulisan_Unsur_Serapan/index.md'
+  - 'Tentang':
+    - 'Tentang Materi PUEBI': 'Tentang/index.md'
+
+# Hak cipta
+copyright: 'Dibuat sepenuh hati oleh &copy; MughniMind'
+
+# Gudang
 repo_name: 'mughnimind/Materi-PUEBI'
 repo_url: 'https://github.com/mughnimind/Materi-PUEBI'
 
-# Copyright
-copyright: 'Copyright &copy; 2016 - 2017 MughniMind'
-
-# Documentation and theme
+# Dokumentasi dan Tema
 theme: 'material'
+theme_dir: 'tema'
+site_favicon: 'aset/gambar/favicon.ico'
 
-# Options
+# Pengaya
 extra:
-  logo: 'images/logo.svg'
+  feature:
+    tabs: true
+  logo: 'aset/gambar/logo.svg'
   palette:
-    primary: 'indigo'
+    primary: 'light blue'
     accent: 'red'
+## Kolom Komentar
+  disqus: 'acemughnie'
+## Aksara
   font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
+    text: 'Source Sans Pro'
+    code: 'Ubuntu Mono'
+## Media Sosial
   social:
-    - type: 'github'
+    - type: 'github-alt'
       link: 'https://github.com/mughnimind'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/acemughnie/'
     - type: 'twitter'
       link: 'https://twitter.com/acemughnie'
+    - type: 'google-plus'
+      link: 'https://plus.google.com/+AceMughnie'
+## Css & JavaScript Imbuhan
+extra_css:
+  - ekstra/css-ekstra.css
+  - ekstra/tulis-css.css
+extra_javascript:
+  - 'ekstra/js-ekstra.js'
 
-# Google Analytics
+# Google Analitik
 google_analytics:
   - 'UA-XXXXXXXX-X'
   - 'auto'
 
-# Extensions
+# Ekstensi
 markdown_extensions:
   - markdown.extensions.admonition
   - markdown.extensions.codehilite(guess_lang=false)
@@ -43,7 +108,6 @@ markdown_extensions:
   - markdown.extensions.meta
   - markdown.extensions.toc(permalink=true)
   - pymdownx.arithmatex
-  - pymdownx.betterem(smart_enable=all)
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.emoji:
@@ -55,3 +119,5 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist(custom_checkbox=true)
   - pymdownx.tilde
+  - pymdownx.details
+
