@@ -136,6 +136,6 @@ Sama halnya dengan apa yang tertera di PUEBI Daring,  Hak Cipta PUEBI digenggam 
 
 Sedangkan lisensi yang tersemat pada Materi PUEBI, yaitu [MIT license][25].
 
-[25]: https://github.com/mughnimind/Materi-PUEBI/blob/master/LICENSE
+[25]: https://github.com/mughnimind/Materi-PUEBI/blob/master/LICENSE.md
 
 
