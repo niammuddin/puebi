@@ -1,4 +1,4 @@
-<h1 style="text-align:center">PERATURAN<br>MENTERI PENDIDIKAN DAN KEBUDAYAAN<br>REPUBLIK INDONESIA</h1>
+<h1>PERATURAN<br>MENTERI PENDIDIKAN DAN KEBUDAYAAN<br>REPUBLIK INDONESIA</h1>
 
 <p class="uud-awal">NOMOR 50 TAHUN 2015</p>
 <p class="uud-tengah">TENTANG</p>
@@ -7,10 +7,7 @@
 <p class="uud-akhir">MENTERI PENDIDIKAN DAN KEBUDAYAAN REPUBLIK INDONESIA,
 </p>
 
-<div class="uud-daftar-awal">
-<p>Menimbang :</p>
-</div>
-
+<p class="uud-daftar-awal">Menimbang:</p>
 <div class="uud-daftar-isi">
   <ol type="a">
     <li>bahwa sebagai dampak kemajuan ilmu pengetahuan, teknologi, dan seni, penggunaan bahasa Indonesia dalam beragam ranah pemakaian, baik secara lisan maupun tulisan semakin luas;</li>
@@ -19,8 +16,9 @@
   </ol>
 </div>
 
+<div class="uud-sekat"></div>
 <div class="uud-daftar-awal">
-<p>Mengingat :</p>
+<p>Mengingat:</p>
 </div>
 <div class="uud-daftar-isi">
   <ol type="1">
@@ -38,22 +36,22 @@
 <p>MEMUTUSKAN :</p>
 </div>
 
-<div class="uud-daftar-awal">
+
+<div  class="uud-daftar-awal">
 <p>Menetapkan :</p>
 </div>
 
-<div class="uud-daftar-solo">
-<p>PERATURAN MENTERI PENDIDIKAN DAN KEBUDAYAAN TENTANG PEDOMAN UMUM EJAAN BAHASA INDONESIA.<p>
-</div>
-
+<p class="uud-daftar-solo">PERATURAN MENTERI PENDIDIKAN DAN KEBUDAYAAN TENTANG PEDOMAN UMUM EJAAN BAHASA INDONESIA.<p>
 
 <p class="pasal">Pasal 1</p>
+
 <div class="pasal-isi">
 <ol type="(1)">
     <li>Pedoman Umum Ejaan Bahasa Indonesia dipergunakan bagi instansi pemerintah, swasta, dan masyarakat dalam penggunaan bahasa Indonesia secara baik dan benar.</li>
     <li>Pedoman Umum Ejaan Bahasa Indonesia sebagaimana dimaksud pada ayat <b>1</b> tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.</li>
 </ol>
 </div>
+
 <div class="pasal">
 <p>Pasal 2<p>
 </div>
