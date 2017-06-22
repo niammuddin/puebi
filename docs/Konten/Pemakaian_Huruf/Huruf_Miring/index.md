@@ -7,10 +7,12 @@ majalah, atau nama surat kabar yang dikutip dalam tulisan,
 termasuk dalam daftar pustaka.
 
 ???+ tip "Misal"
-    Saya sudah membaca buku <em>Salah Asuhan</em> karangan Abdoel Moeis.  
-    Majalah <em>Poedjangga Baroe</em> menggelorakan semangat kebangsaan.  
-    Berita itu muncul dalam surat kabar <em>Cakrawala</em>.  
-    <p style="text-indent:-1.5em;margin-left:1.5em;">Pusat Bahasa. 2011. <em>Kamus Besar Bahasa Indonesia Pusat Bahasa</em>. Edisi Keempat (Cetakan Kedua). Jakarta: Gramedia Pustaka Utama.</p>
+    Saya sudah membaca buku *Salah Asuhan* karangan Abdoel Moeis.
+
+    Majalah *Poedjangga Baroe* menggelorakan semangat kebangsaan.
+
+    Berita itu muncul dalam surat kabar *Cakrawala*.  
+    <p class="pustaka">Pusat Bahasa. 2011. *Kamus Besar Bahasa Indonesia Pusat Bahasa*. Edisi Keempat (Cetakan Kedua). Jakarta: Gramedia Pustaka Utama.</p>
 
 ## Penegasan
 
@@ -19,10 +21,10 @@ mengkhususkan huruf, bagian kata, kata, atau kelompok
 kata dalam kalimat.
 
 ???+ tip "Misal"
-    Huruf terakhir kata <em>abad</em> adalah <em>d</em>.  
-    Dia tidak <em>di</em>antar, tetapi <em>meng</em>antar.  
-    Dalam bab ini <em>tidak</em> dibahas pemakaian tanda baca.  
-    Buatlah kalimat dengan menggunakan ungkapan <em>lepas tangan</em>.
+    Huruf terakhir kata *abad* adalah *d*.  
+    Dia tidak *di*antar, tetapi *meng*antar.  
+    Dalam bab ini *tidak* dibahas pemakaian tanda baca.  
+    Buatlah kalimat dengan menggunakan ungkapan *lepas tangan*.
 
 ## Istilah Asing
 
@@ -30,12 +32,12 @@ Huruf miring dipakai untuk menuliskan kata atau ungkapan
 dalam bahasa daerah atau bahasa asing.
 
 ???+ tip "Misal"
-    Upacara <em>peusijuek</em> (tepung tawar) menarik perhatian wisatawan asing yang berkunjung ke Aceh.  
-    Nama ilmiah buah manggis ialah <em>Garcinia mangostana</em>.  
+    Upacara *peusijuek* (tepung tawar) menarik perhatian wisatawan asing yang berkunjung ke Aceh.  
+    Nama ilmiah buah manggis ialah *Garcinia mangostana*.  
     *Weltanschauung* bermakna ‘pandangan dunia’.  
-    Ungkapan <em>bhinneka tunggal ika</em> dijadikan semboyan negara Indonesia.
+    Ungkapan *bhinneka tunggal ika* dijadikan semboyan negara Indonesia.
 
-???+ summary "Catatan:"
+???+ note "Catatan"
     !!! warning " "
         Nama diri, seperti nama orang, lembaga, atau organisasi, dalam bahasa asing atau bahasa daerah tidak ditulis dengan huruf miring.
 
