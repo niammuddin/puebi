@@ -1,15 +1,21 @@
 # Tanda Hubung <small>\``-`\`</small>
 
+## Pergantian Baris
+
 Tanda hubung dipakai untuk menandai bagian kata yang terpenggal oleh pergantian baris.
 
 ???+ tip "Misal"
-    Di samping cara lama, diterapkan juga cara baru …. 
- 
-    Nelayan pesisir itu berhasil membudidayakan rumput laut.
+    Di samping cara lama, diterapkan juga _ca-  
+    ra_ baru …. 
 
-    Kini ada cara yang baru untuk mengukur panas.
+    Nelayan pesisir itu berhasil membudidayakan _rum-  
+    put_ laut.
 
-    Parut jenis ini memudahkan kita mengukur kelapa.
+    Kini ada cara yang baru untuk _meng-  
+    ukur_ panas.
+
+    Parut jenis ini memudahkan kita _me-
+    ngukur_ kelapa.
 
 Tanda hubung dipakai untuk menyambung unsur kata ulang.
 
@@ -19,13 +25,24 @@ Tanda hubung dipakai untuk menyambung unsur kata ulang.
     kemerah-merahan  
     mengorek-ngorek
 
+## Penghubung <small>Tanggal & Pengejaan</small>
+
 Tanda hubung dipakai untuk menyambung tanggal, bulan, dan tahun yang dinyatakan dengan angka atau menyambung huruf dalam kata yang dieja satu-satu.
 
 ???+ tip "Misal"
     11-11-2013  
     p-a-n-i-t-i-a
 
+## Hubungan Kata/Ungkapan
+
 Tanda hubung dapat dipakai untuk memperjelas hubungan bagian kata atau ungkapan.
+
+
+  <!---------------
+  Menyisipkan _Mathjax JavaScript_ guna mengenakan  
+  **Arithmatex**.
+  --------------->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 ???+ tip "Misal"
     ber-evolusi  
@@ -33,7 +50,7 @@ Tanda hubung dapat dipakai untuk memperjelas hubungan bagian kata atau ungkapan.
 
     dua-puluh-lima ribuan (25 x 1.000)
 
-    ²³∕₂₅ (dua-puluh-tiga perdua-puluh-lima)
+    $\frac{23}{25}$ (dua-puluh-tiga perdua-puluh-lima)
 
     mesin hitung-tangan
 
@@ -45,45 +62,53 @@ Tanda hubung dapat dipakai untuk memperjelas hubungan bagian kata atau ungkapan.
 
     dua-puluh lima-ribuan (20 x 5.000)
 
-    20 ³∕₂₅ (dua-puluh tiga perdua-puluh-lima)
+    $20 \frac{3}{25}$ (dua-puluh tiga perdua-puluh-lima)
 
     mesin-hitung tangan
 
-Tanda hubung dipakai untuk merangkai
+## Perangkai
 
-a. se- dengan kata berikutnya yang dimulai dengan huruf     kapital ( se-Indonesia, se-Jawa Barat);  
-b. ke- dengan angka (peringkat ke-2);  
-c. angka dengan –an (tahun 1950- an);  
-d. kata atau imbuhan dengan singkatan yang berupa huruf kapital (hari- H, sinar- X, ber- KTP, di- SK-kan);  
-e. kata dengan kata ganti Tuhan (ciptaan- Nya, atas rahmat-Mu);  
-f. huruf dan angka (D-3, S-1, S-2); dan  
-g. kata ganti -ku, -mu, dan -nya dengan singkatan yang berupa huruf kapital (KTP- mu, SIM- nya, STNK- ku).
+<p class="sblm-dftr">Tanda hubung dipakai untuk merangkai</p>
+
+<ol type="a" style="margin-top:.15em" markdown="1">
+<li><em>se</em>- dengan kata berikutnya yang dimulai dengan huruf     kapital (<em>se</em>-Indonesia, <em>se</em>-Jawa Barat);</li>
+<li><em>ke</em>- dengan angka (peringkat <em>ke</em>-2);</li>
+<li>angka dengan -<em>an</em> (tahun 1950-<em>an</em>);</li>
+<li>kata atau imbuhan dengan singkatan yang berupa huruf kapital (hari-<em>H</em>, sinar-<em>X</em>, ber-<em>KTP</em>, di-<em>SK</em>-kan);</li>
+<li>kata dengan kata ganti Tuhan (ciptaan- Nya, atas rahmat-<em>Mu</em>);</li>
+<li>huruf dan angka (D-3, S-1, S-2); dan</li>
+<li>kata ganti -<em>ku</em>, -<em>mu</em>, dan -<em>nya</em> dengan singkatan yang berupa huruf kapital (KTP-<em>mu</em>, SIM-<em>nya</em>, STNK-<em>ku</em>).</li>
+</ol>
 
 ???+ summary "Catatan"
     Tanda hubung tidak dipakai di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf.
 
     !!! tip "Misal"
-        BNP2TKI ( B adan N asional P enempatan dan Perlindung-an T enaga K erja I ndonesia)
+        BNP2TKI (_B_adan _N_asional _P_enempatan dan _P_erlindungan _T_enaga _K_erja _I_ndonesia)
 
-        LP3I ( L embaga P endidikan dan P engembangan Profesi I ndonesia)
+        LP3I (_L_embaga _P_endidikan dan _P_engembangan _P_rofesi _I_ndonesia)
 
-        P3K ( p ertolongan p ertama p ada k ecelakaan)
+        P3K (_p_ertolongan _p_ertama _p_ada _k_ecelakaan)
+
+## Unsur Bahasa Asing
 
 Tanda hubung dipakai untuk merangkai unsur bahasa Indonesia dengan unsur bahasa daerah atau bahasa asing.
 
 ???+ tip "Misal"
-    di- sowan-i (bahasa Jawa, ‘didatangi’)
+    di_-sowan-_i (bahasa Jawa, ‘didatangi’)
 
-    ber- pariban (bahasa Batak, ‘bersaudara sepupu’)
+    ber_-pariban_ (bahasa Batak, ‘bersaudara sepupu’)
 
-    di- back up  
-    me -recall  
-    pen- tackle- an
+    di_-back up_  
+    me_-recall_  
+    pen_-tackle-_an
+
+## Bentuk Terikat
 
 Tanda hubung digunakan untuk menandai bentuk terikat yang menjadi objek bahasan.
 
 ???+ tip "Misal"
-    Kata pasca- berasal dari bahasa Sanskerta.  
-    Akhiran -isasi pada kata betonisasi sebaiknya diubah menjadi pembetonan.
+    Kata _pasca-_  berasal dari bahasa Sanskerta.  
+    Akhiran _-isasi_ pada kata betonisasi sebaiknya diubah menjadi _pembetonan_.
 
 

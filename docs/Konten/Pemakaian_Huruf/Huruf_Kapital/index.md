@@ -38,7 +38,7 @@ Huruf kapital dipakai sebagai huruf pertama unsur nama orang, termasuk julukan.
         5 <em>a</em>mpere  
         10 <em>v</em>olt
 
-    Huruf kapital tidak dipakai untuk menuliskan huruf pertama kata yang bermakna ‘anak dari’, seperti bin, binti, boru, dan van, atau huruf pertama kata tugas.
+    Huruf kapital tidak dipakai untuk menuliskan huruf pertama kata yang bermakna ‘anak dari’, seperti _bin_, _binti_, _boru_, dan _van_, atau huruf pertama kata tugas.
 
     !!! tip "Misal"
         Abdul Rahman <em>b</em>in Zaini  
@@ -127,7 +127,7 @@ Huruf kapital dipakai sebagai huruf pertama nama bangsa, suku bangsa, dan bahasa
     bahasa <em>B</em>ali
 
 ???+ summary "Catatan"
-    Nama bangsa, suku bangsa, dan bahasa yang dipakai sebagai bentuk dasar kata turunan tidak ditulis dengan huruf awal kapital.
+    Nama bangsa, suku bangsa, dan bahasa yang dipakai sebagai bentuk dasar kata turunan _tidak_ ditulis dengan huruf awal kapital.
 
     !!! tip "Misal"
         peng<em>i</em>ndonesiaan kata asing  
@@ -157,8 +157,8 @@ Huruf kapital dipakai sebagai huruf pertama unsur nama peristiwa sejarah.
     <em>P</em>erang <em>D</em>unia II  
     <em>P</em>roklamasi <em>K</em>emerdekaan Indonesia
 
-???+ summary "Catatan"
-    Huruf pertama peristiwa sejarah yang tidak dipakai sebagai nama tidak ditulis dengan huruf kapital.
+???+ note "Catatan"
+    Huruf pertama peristiwa sejarah yang _tidak_ dipakai sebagai nama tidak ditulis dengan huruf kapital.
 
     !!! tip "Misal"
         Soekarno dan Hatta mem<em>proklamasi</em>kan kemerdekaan bangsa Indonesia.  
@@ -193,7 +193,7 @@ Huruf kapital dipakai sebagai huruf pertama nama geografi.
     <em>K</em>elurahan <em>R</em>awamangun
 
 ???+ summary "Catatan"
-    Huruf pertama nama geografi yang bukan nama diri tidak ditulis dengan huruf kapital.
+    Huruf pertama nama geografi yang _bukan_ nama diri _tidak_ ditulis dengan huruf kapital.
 
     !!! tip "Misal"
         berlayar ke <em>t</em>eluk  
@@ -201,7 +201,7 @@ Huruf kapital dipakai sebagai huruf pertama nama geografi.
         menyeberangi <em>s</em>elat  
         berenang di <em>d</em>anau
 
-    Huruf pertama nama diri geografi yang dipakai sebagai nama jenis tidak ditulis dengan huruf kapital.
+    Huruf pertama nama diri geografi yang dipakai sebagai nama jenis _tidak_ ditulis dengan huruf kapital.
 
     !!! tip "Misal"
         jeruk <em>b</em>ali ( Citrus maxima)  
@@ -222,7 +222,7 @@ Huruf kapital dipakai sebagai huruf pertama nama geografi.
 
 ## Persekutuan
 
-Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur bentuk ulang sempurna) dalam nama negara, lembaga, badan, organisasi, atau dokumen, kecuali kata tugas, seperti di, ke, dari, dan, yang, dan untuk.
+Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur bentuk ulang sempurna) dalam nama negara, lembaga, badan, organisasi, atau dokumen, kecuali kata tugas, seperti _di_, _ke_, _dari_, _dan_, _yang_, dan _untuk_.
 
 ???+ tip "Misal"  
     <em>R</em>epublik <em>I</em>ndonesia  
@@ -234,7 +234,7 @@ Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur ben
 
 ## Judul
 
-Huruf kapital dipakai sebagai huruf pertama setiap kata (termasuk unsur kata ulang sempurna) di dalam judul buku, karangan, artikel, dan makalah serta nama majalah dan surat kabar, kecuali kata tugas, seperti di, ke, dari, dan, yang, dan untuk, yang tidak terletak pada posisi awal.
+Huruf kapital dipakai sebagai huruf pertama setiap kata (termasuk unsur kata ulang sempurna) di dalam judul buku, karangan, artikel, dan makalah serta nama majalah dan surat kabar, kecuali kata tugas, seperti _di_, _ke_, _dari_, _dan_, _yang_, dan _untuk_, yang tidak terletak pada posisi awal.
 
 ???+ tip "Misal"  
     Saya telah membaca buku Dari Ave Maria ke Jalan Lain ke Roma.  
@@ -270,7 +270,7 @@ Huruf kapital dipakai sebagai huruf pertama unsur singkatan nama gelar, pangkat,
 
 ## Penunjuk Kekerabatan
 
-Huruf kapital dipakai sebagai huruf pertama kata penunjuk hubungan kekerabatan, seperti bapak, ibu, kakak, adik, dan paman, serta kata atau ungkapan lain yang dipakai dalam penyapaan atau pengacuan.
+Huruf kapital dipakai sebagai huruf pertama kata penunjuk hubungan kekerabatan, seperti _bapak_, _ibu_, _kakak_, _adik_, dan _paman_, serta kata atau ungkapan lain yang dipakai dalam penyapaan atau pengacuan.
 
 ???+ tip "Misal"
     “Kapan <em>B</em>apak berangkat?” tanya Hasan.  
@@ -287,7 +287,7 @@ Huruf kapital dipakai sebagai huruf pertama kata penunjuk hubungan kekerabatan, 
         Kita harus menghormati <em>b</em>apak dan <em>i</em>bu kita.  
         Semua <em>k</em>akak dan <em>a</em>dik saya sudah berkeluarga.
 
-    Kata ganti \``Anda`\` ditulis dengan huruf awal kapital.
+    Kata ganti _Anda_ ditulis dengan huruf awal kapital.
 
     !!! tip "Misal"
         Sudahkah <em>A</em>nda tahu?  

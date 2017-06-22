@@ -13,14 +13,14 @@ Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilanga
 
 ## Kalimat Majemuk  <small>Setara</small>
 
-Tanda koma dipakai sebelum kata penghubung, seperti tetapi, melainkan, dan sedangkan, dalam kalimat majemuk (setara).
+Tanda koma dipakai sebelum kata penghubung, seperti _tetapi_, _melainkan_, dan _sedangkan_, dalam kalimat majemuk (setara).
 
 ???+ tip "Misal"
-    Saya ingin membeli kamera, tetapi uang saya belum cukup.
+    Saya ingin membeli kamera, _tetapi_ uang saya belum cukup.
 
-    Ini bukan milik saya, melainkan milik ayah saya.
+    Ini bukan milik saya, _melainkan_ milik ayah saya.
 
-    Dia membaca cerita pendek, sedangkan adiknya melukis panorama.
+    Dia membaca cerita pendek, _sedangkan_ adiknya melukis panorama.
 
 ## Pemisah <small>Anak Kalimat</small>
 
@@ -34,7 +34,7 @@ Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatny
     Agar memiliki wawasan yang luas, kita harus banyak membaca buku.
 
 ???+ summary "Catatan"
-    Tanda koma tidak dipakai jika induk kalimat mendahului anak kalimat.
+    Tanda koma _tidak_ dipakai jika induk kalimat mendahului anak kalimat.
 
     !!! tip "Misal"
         Saya akan datang kalau diundang.
@@ -77,7 +77,7 @@ Tanda koma dipakai untuk memisahkan petikan langsung dari bagian lain dalam kali
     “Kita harus berbagi dalam hidup ini,” kata nenek saya, “karena manusia adalah makhluk sosial.”
 
 ???+ summary "Catatan"
-    Tanda koma tidak dipakai untuk memisahkan petikan langsung yang berupa kalimat tanya, kalimat perintah, atau kalimat seru dari bagian lain yang mengikutinya.
+    Tanda koma _tidak_ dipakai untuk memisahkan petikan langsung yang berupa kalimat tanya, kalimat perintah, atau kalimat seru dari bagian lain yang mengikutinya.
 
     !!! tip "Misal"
         “Di mana Saudara tinggal?” tanya Pak Lurah.
@@ -88,7 +88,7 @@ Tanda koma dipakai untuk memisahkan petikan langsung dari bagian lain dalam kali
 
 ## Alamat
 
-Tanda koma dipakai di antara (a) nama dan alamat, (b) bagian-bagian alamat, (c) tempat dan tanggal, serta (d) nama tempat dan wilayah atau negeri yang ditulis berurutan.
+Tanda koma dipakai di antara (a) nama dan alamat, (b) bagian-bagian alamat, \(c) tempat dan tanggal, serta (d) nama tempat dan wilayah atau negeri yang ditulis berurutan.
 
 ???+ tip "Misal"
     Sdr. Abdullah, Jalan Kayumanis III/18, Kelurahan Kayumanis, Kecamatan Matraman, Jakarta 13130
@@ -103,11 +103,11 @@ Tanda koma dipakai di antara (a) nama dan alamat, (b) bagian-bagian alamat, (c) 
 Tanda koma dipakai untuk memisahkan bagian nama yang dibalik susunannya dalam daftar pustaka.
 
 ???+ tip "Misal"
-    <p style="text-indent:-2.5em;margin-left:2.5em;">Gunawan, Ilham. 1984. <em>Kamus Politik Internasional</em>. Jakarta: Restu Agung.</p>
+    <p class="pustaka">Gunawan, Ilham. 1984. <em>Kamus Politik Internasional</em>. Jakarta: Restu Agung.</p>
 
-    <p style="text-indent:-2.5em;margin-left:2.5em;">Halim, Amran (Ed.) 1976. <em>Politik Bahasa Nasional</em>. Jilid Jakarta: Pusat Bahasa.</p>
+    <p class="pustaka">Halim, Amran (Ed.) 1976. <em>Politik Bahasa Nasional</em>. Jilid Jakarta: Pusat Bahasa.</p>
 
-    <p style="text-indent:-2.5em;margin-left:2.5em;">Tulalessy, D. dkk. 2005. <em>Pengembangan Potensi Wisata Bahari di Wilayah Indonesia Timur</em>. Ambon: Mutiara Beta.</p>
+    <p class="pustaka">Tulalessy, D. dkk. 2005. <em>Pengembangan Potensi Wisata Bahari di Wilayah Indonesia Timur</em>. Ambon: Mutiara Beta.</p>
 
 ## Catatan Kaki
 

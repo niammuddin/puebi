@@ -1,13 +1,87 @@
-@import url('https://fonts.googleapis.com/css?family=Spectral:500');
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300i,400,400i,700i|Spectral:500');
+
+h1 {
+  text-align: center;
+}
 
 h1, h2 {
-  font-family: Spectral, serif;
-  font-weight: 500 !important;
+  font-family: Merriweather, Spectral, serif;
+  font-style: normal !important;
 }
 
 h3, h4, h5, h6 {
-  font-family: Roboto, san-serif;
+  font-family: "Merriweather Sans", san-serif;
 }
+
+p {
+  font-family: "Merriweather Sans", san-serif !important;
+}
+
+em {
+  font-family: Merriweather, serif !important;
+}
+
+.pustaka {
+  text-indent:-2.5em;
+  margin-left:2.5em !important;
+}
+
+.tab {
+  display:inline-block;
+  width: .5em;
+}
+
+/**** Daftar ****/
+
+.sblm-dftr {
+  margin: 1.5em 0em .15em 0em !important;
+}
+
+.mlai-dftr {
+  margin: .15em 0em 1.5em 0em !important;
+}
+
+ol.mlai-dftr li {
+  margin-bottom: .15em;
+}
+
+ol.kurung-a {
+  counter-reset: item !important;
+  margin: .15em 0em 1.5em 0em !important;
+  padding-left: 0 !important;
+}
+
+ol.kurung-a li:before {
+  content: "(" counter(item, lower-latin) ") " !important;
+  counter-increment: item !important;
+  margin-left: -1.5em;
+}
+
+ol.kurung-a li {
+  display: block;
+  margin-bottom: .15em;
+  margin-left: 1.5em;
+}
+
+ol.kurung-1 {
+  counter-reset: item !important;
+  margin: .15em 0em 1.5em 0em !important;
+  padding-left: 0 !important;
+}
+
+ol.kurung-1 li:before {
+  content: "(" counter(item, decimal) ") " !important;
+  counter-increment: item !important;
+  margin-left: -1.5em;
+}
+
+ol.kurung-1 li {
+  display: block;
+  margin-bottom: .15em;
+  margin-left: 1.5em;
+}
+
 .serif {
   font-family: Spectral, serif;
 }
@@ -76,4 +150,8 @@ h3, h4, h5, h6 {
   float: left;
   margin: 0em 0em 1.5em 0em;
   size: 50%;
+}
+
+.admonition {
+  font-size: 1.5rem !important;
 }

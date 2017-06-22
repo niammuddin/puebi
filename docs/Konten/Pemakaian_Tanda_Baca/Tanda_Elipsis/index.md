@@ -1,5 +1,8 @@
 # Tanda Elipsis <small>\``…`\`</small>
 
+
+## Kutipan
+
 Tanda elipsis dipakai untuk menunjukkan bahwa dalam suatu kalimat atau kutipan ada bagian yang dihilangkan.
 
 ???+ tip "Misal"
@@ -10,9 +13,11 @@ Tanda elipsis dipakai untuk menunjukkan bahwa dalam suatu kalimat atau kutipan a
       ..., lain lubuk lain ikannya.
 
 ???+ summary "Catatan"
-    Tanda elipsis itu didahului dan diikuti dengan spasi.
+    <ol class="kurung-1"><li>Tanda elipsis itu didahului dan diikuti dengan spasi.</li>
+    <li>Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).</li>
+    </ol>
 
-    Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).
+## Ujaran
 
 Tanda elipsis dipakai untuk menulis ujaran yang tidak selesai dalam dialog.
 
@@ -22,6 +27,8 @@ Tanda elipsis dipakai untuk menulis ujaran yang tidak selesai dalam dialog.
       “Jadi, simpulannya … oh, sudah saatnya istirahat.”
 
 ???+ summary "Catatan"
-    Tanda elipsis itu didahului dan diikuti dengan spasi.
+    <ol class="kurung-1"><li>Tanda elipsis itu didahului dan diikuti dengan spasi.</li>
+    <li>Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).</li>
+    </ol>
 
-    Tanda elipsis pada akhir kalimat diikuti oleh tanda titik (jumlah titik empat buah).
+

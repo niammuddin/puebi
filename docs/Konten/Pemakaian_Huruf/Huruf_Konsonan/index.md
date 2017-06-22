@@ -143,4 +143,4 @@ Huruf yang melambangkan konsonan dalam bahasa Indonesia terdiri atas 21 huruf, y
 </table>
 
 ???+ summary " * Keterangan"
-    Huruf `q` dan `x` khusus digunakan untuk nama diri dan keper-luan ilmu. Huruf x pada posisi awal kata diucapkan [s].
+    Huruf _q_ dan _x_ khusus digunakan untuk nama diri dan keper-luan ilmu. Huruf x pada posisi awal kata diucapkan \`s\`.

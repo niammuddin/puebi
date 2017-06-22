@@ -6,7 +6,7 @@ Huruf tebal dipakai untuk menegaskan bagian tulisan yang   sudah ditulis miring.
 
 ???+ tip "Misal"
     Huruf <em>dh</em>, seperti pada kata   <em>Rama<strong>dh</strong>an</em>, tidak terdapat   dalam Ejaan Bahasa Indonesia.  
-    Kata <em>et</em> dalam ungkapan <em>ora   <strong>et</strong> labora</em> berarti \``dan`\`.
+    Kata <em>et</em> dalam ungkapan <em>ora   <strong>et</strong> labora</em> berarti \`dan\`.
 
 ## Bagian-bagian Karangan
 

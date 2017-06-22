@@ -1,7 +1,7 @@
 # Huruf Vokal
 
 
-Huruf yang melambangkan vokal dalam bahasa Indonesia terdiri atas lima huruf, yaitu a, e, i, o, dan u.
+Huruf yang melambangkan vokal dalam bahasa Indonesia terdiri atas lima huruf, yaitu _a_, _e_, _i_, _o_, dan _u_.
 
 ## Tabel Huruf Vokal
 
@@ -23,7 +23,7 @@ Huruf yang melambangkan vokal dalam bahasa Indonesia terdiri atas lima huruf, ya
     <td style="text-align: center">lus<em>a</em></td>
   </tr>
   <tr style="background:#E1F5FE">
-    <td rowspan="3" style="text-align:center;vertical-align:middle;font-weight:700;">e*</td>
+    <td rowspan="3" style="text-align:center;vertical-align:middle;"><strong>e</strong>*</td>
     <td style="text-align: center"><em>e</em>nak</td>
     <td style="text-align: center">p<em>e</em>tak</td>
     <td style="text-align: center">sor<em>e</em></td>

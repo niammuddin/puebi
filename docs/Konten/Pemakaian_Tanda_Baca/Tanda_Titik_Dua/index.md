@@ -11,9 +11,10 @@ Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerin
     Hanya ada dua pilihan bagi para pejuang kemerdekaan:
       hidup atau mati.
 
-## ~~Pelengkap~~
+## Pelengkap
 
-Tanda titik dua tidak dipakai jika perincian atau penjelasan itu merupakan pelengkap yang mengakhiri pernyataan.
+???+ warning "Ikhtisar"
+    Tanda titik dua _tidak_ dipakai jika perincian atau penjelasan itu merupakan pelengkap yang mengakhiri pernyataan.
 
 ???+ tip "Misal"
     Kita memerlukan kursi, meja, dan lemari.
@@ -29,13 +30,13 @@ Tanda titik dua tidak dipakai jika perincian atau penjelasan itu merupakan pelen
 Tanda titik dua dipakai sesudah kata atau ungkapan yang memerlukan pemerian.
 
 ???+ tip "Misal"
-    a. Ketua : Ahmad Wijaya  
-    Sekretaris : Siti Aryani  
+    a. Ketua     : Ahmad Wijaya  
+    Sekretaris  : Siti Aryani  
     Bendahara : Aulia Arimbi
 
     b. Narasumber : Prof. Dr. Rahmat Effendi  
-    Pemandu : Abdul Gani, M.Hum.  
-    Pencatat : Sri Astuti Amelia, S.Pd.
+    Pemandu          : Abdul Gani, M.Hum.  
+    Pencatat           : Sri Astuti Amelia, S.Pd.
 
 ## Naskah Drama
 
@@ -48,13 +49,19 @@ Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku 
 
 ## Penomoran
 
-Tanda titik dua dipakai di antara (a) jilid atau nomor dan halaman, (b) surah dan ayat dalam kitab suci, \(c) judul dan anak judul suatu karangan, serta (d) nama kota dan penerbit dalam daftar pustaka.
+Tanda titik dua dipakai di antara:
+<ol class="kurung-a">
+  <li>jilid atau nomor dan halaman,</li>
+  <li>surah dan ayat dalam kitab suci,</li>
+  <li>judul dan anak judul suatu karangan, serta</li>
+  <li>nama kota dan penerbit dalam daftar pustaka.</li>
+</ol>
 
 ???+ tip "Misal"
-    Horison, XLIII, No. 8/2008: 8  
+    _Horison_, XLIII, No. 8/2008: 8  
     Surah Albaqarah: 2—5  
     Matius 2: 1—3
 
-    Dari Pemburu ke Terapeutik: Antologi Cerpen Nusantara Pedoman Umum Pembentukan Istilah. Jakarta: Pusat Bahasa.
+    _Dari Pemburu ke Terapeutik: Antologi Cerpen Nusantara Pedoman Umum Pembentukan Istilah_. Jakarta: Pusat Bahasa.
 
 

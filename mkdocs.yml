@@ -47,7 +47,8 @@ pages:
     - 'Tanda Kurung Siku': 'Konten/Pemakaian_Tanda_Baca/Tanda_Kurung_Siku/index.md'
     - 'Tanda Garis Miring': 'Konten/Pemakaian_Tanda_Baca/Tanda_Garis_Miring/index.md'
     - 'Tanda Penyingkat atau Apostrof': 'Konten/Pemakaian_Tanda_Baca/Tanda_Penyingkat_atau_Apostrof/index.md'
-  - 'Penulisan Unsur Serapan': 'Konten/Penulisan_Unsur_Serapan/index.md'
+  - 'Unsur Serapan':
+    - 'Penulisan Unsur Serapan': 'Konten/Penulisan_Unsur_Serapan/index.md'
   - 'Tentang':
     - 'Tentang Materi PUEBI': 'Tentang/index.md'
 
@@ -66,7 +67,7 @@ site_favicon: 'aset/gambar/favicon.ico'
 # Pengaya
 extra:
   feature:
-    tabs: true
+    tabs: false
   logo: 'aset/gambar/logo.svg'
   palette:
     primary: 'light blue'
@@ -75,8 +76,8 @@ extra:
   disqus: 'acemughnie'
 ## Aksara
   font:
-    text: 'Source Sans Pro'
-    code: 'Ubuntu Mono'
+    text: 'Roboto'
+    code: 'Roboto Mono'
 ## Media Sosial
   social:
     - type: 'github-alt'
@@ -89,14 +90,14 @@ extra:
       link: 'https://plus.google.com/+AceMughnie'
 ## Css & JavaScript Imbuhan
 extra_css:
-  - ekstra/css-ekstra.css
-  - ekstra/tulis-css.css
+  - 'ekstra/css-ekstra.css'
+  - 'ekstra/tulis-css.css'
 extra_javascript:
   - 'ekstra/js-ekstra.js'
 
 # Google Analitik
 google_analytics:
-  - 'UA-XXXXXXXX-X'
+  - 'UA-101415546-1'
   - 'auto'
 
 # Ekstensi
@@ -115,7 +116,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
-  - pymdownx.smartsymbols
+  - pymdownx.smartsymbols:
   - pymdownx.superfences
   - pymdownx.tasklist(custom_checkbox=true)
   - pymdownx.tilde

@@ -1,5 +1,7 @@
 # Tanda Garis Miring <small>\``/`\`</small>
 
+## Penomoran
+
 Tanda garis miring dipakai dalam nomor surat, nomor pada alamat, dan penandaan masa satu tahun yang terbagi dalam dua tahun takwim.
 
 ???+ tip "Misal"
@@ -7,17 +9,31 @@ Tanda garis miring dipakai dalam nomor surat, nomor pada alamat, dan penandaan m
       Jalan Kramat III/10  
       tahun ajaran 2012/2013
 
-Tanda garis miring dipakai sebagai pengganti kata dan, atau, serta setiap.
+## Pengganti
+
+Tanda garis miring dipakai sebagai pengganti kata _dan_, _atau_, serta _setiap_.
 
 ???+ tip "Misal"
-      mahasiswa/mahasiswi  
-      ‘mahasiswa dan mahasiswi’  
-      dikirimkan lewat darat/laut  
-      ‘dikirimkan lewat darat atau lewat laut’  
-      buku dan/atau majalah  
-      ‘buku dan majalah atau buku atau majalah’  
-      harganya Rp1.500,00/lembar
-      ‘harganya Rp1.500,00 setiap lembar’
+    <table>
+      <tr>
+        <td>mahasiswa/mahasiswi</td>
+        <td>‘mahasiswa dan mahasiswi’</td>
+      </tr>
+      <tr>
+        <td>dikirimkan lewat darat/laut</td>
+        <td>‘dikirimkan lewat darat <em>atau</em> lewat laut’</td>
+      </tr>
+      <tr>
+        <td>buku dan/atau majalah</td>
+        <td>‘buku dan majalah atau buku atau majalah’</td>
+      </tr>
+      <tr>
+        <td>harganya Rp1.500,00/lembar</td>
+        <td>‘harganya Rp1.500,00 setiap lembar’</td>
+      </tr>
+    </table>
+
+## Pengoreksian
 
 Tanda garis miring dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau pengurangan atas kesalahan atau kelebihan di dalam naskah asli yang ditulis orang lain.
 

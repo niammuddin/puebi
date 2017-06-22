@@ -52,7 +52,7 @@ Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, at
 
     ***
 
-    Tanda titik tidak dipakai di belakang angka atau angka terakhir dalam penomoran deret digital yang lebih dari satu angka dalam judul tabel, bagan, grafik, atau gambar.
+    Tanda titik _tidak_ dipakai di belakang angka atau angka terakhir dalam penomoran deret digital yang lebih dari satu angka dalam judul tabel, bagan, grafik, atau gambar.
 
     !!! tip "Misal"  
         Tabel _1_ Kondisi Kebahasaan di Indonesia  
@@ -97,43 +97,48 @@ Tanda titik dipakai untuk memisahkan angka jam, menit, dan detik yang menunjukka
 Tanda titik dipakai dalam daftar pustaka di antara nama penulis, tahun, judul tulisan (yang tidak berakhir dengan tanda tanya atau tanda seru), dan tempat terbit.
 
 ???+ tip "Misal"  
-    Pusat Bahasa, Departemen Pendidikan Nasional. 2008.
-    _Peta Bahasa di Negara Kesatuan Republik Indonesia_.
-    Jakarta.  
-    Moeliono, Anton M. 1989. _Kembara Bahasa_. Jakarta:
-    Gramedia.
+    <p class="pustaka">Pusat Bahasa, Departemen Pendidikan Nasional. 2008. _Peta Bahasa di Negara Kesatuan Republik Indonesia_. Jakarta.</p>
+
+    <p class="pustaka">Moeliono, Anton M. 1989. _Kembara Bahasa_. Jakarta: Gramedia.</p>
 
 ## Bilangan Jumlah
 
 Tanda titik dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang menunjukkan jumlah.
 
 ???+ tip "Misal"  
-    Indonesia memiliki lebih dari _13.000_ pulau.  
-    Penduduk kota itu lebih dari _7.000.000_ orang.  
+    Indonesia memiliki lebih dari _13.000_ pulau.
+
+    Penduduk kota itu lebih dari _7.000.000_ orang.
+
     Anggaran lembaga itu mencapai _Rp225.000.000.000,00_.
 
 ???+ warning "Catatan"
-    Tanda titik tidak dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang tidak menunjukkan jumlah.
+    Tanda titik _tidak_ dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang tidak menunjukkan jumlah.
 
     !!! tip "Misal"  
-        Dia lahir pada tahun _1956_ di Bandung.  
-        Kata _sila_ terdapat dalam _Kamus Besar Bahasa Indonesia Pusat Bahasa_ halaman _1305_.  
+        Dia lahir pada tahun _1956_ di Bandung.
+
+        Kata _sila_ terdapat dalam _Kamus Besar Bahasa Indonesia Pusat Bahasa_ halaman _1305_.
+
         Nomor rekening panitia seminar adalah _0015645678_.
 
     ***
 
-    Tanda titik tidak dipakai pada akhir judul yang merupakan kepala karangan, ilustrasi, atau tabel.
+    Tanda titik _tidak_ dipakai pada akhir judul yang merupakan kepala karangan, ilustrasi, atau tabel.
 
     !!! tip "Misal"  
-        Acara Kunjungan Menteri Pendidikan dan Kebudayaan  
-        Bentuk dan Kedaulatan (Bab I UUD 1945)  
-        Gambar 3 Alat Ucap Manusia  
+        Acara Kunjungan Menteri Pendidikan dan Kebudayaan
+
+        Bentuk dan Kedaulatan (Bab I UUD 1945)
+
+        Gambar 3 Alat Ucap Manusia
+
         Tabel 5 Sikap Bahasa Generasi Muda Berdasarkan
         Pendidikan
 
     ***
 
-    Tanda titik tidak dipakai di belakang (a) alamat penerima dan pengirim surat serta (b) tanggal surat.
+    Tanda titik _tidak_ dipakai di belakang (a) alamat penerima dan pengirim surat serta (b) tanggal surat.
 
     !!! tip "Misal"  
         Yth. Direktur Taman Ismail Marzuki  

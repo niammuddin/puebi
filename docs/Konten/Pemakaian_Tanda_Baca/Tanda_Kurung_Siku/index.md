@@ -1,5 +1,7 @@
 # Tanda Kurung Siku <small>\``[...]`\`</small>
 
+## Pengoreksian
+
 Tanda kurung siku dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau tambahan atas kesalahan atau kekurangan di dalam naskah asli yang ditulis orang lain.
 
 ???+ tip "Misal"
@@ -8,6 +10,8 @@ Tanda kurung siku dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai
     Penggunaan bahasa dalam karya ilmiah harus sesuai [dengan] kaidah bahasa Indonesia.
 
     Ulang tahun [Proklamasi Kemerdekaan] Republik Indonesia dirayakan secara khidmat.
+
+## Penjelas
 
 Tanda kurung siku dipakai untuk mengapit keterangan dalam kalimat penjelas yang terdapat dalam tanda kurung.
 

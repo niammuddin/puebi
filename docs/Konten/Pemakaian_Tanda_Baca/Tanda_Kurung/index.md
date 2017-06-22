@@ -1,5 +1,7 @@
 # Tanda Kurung <small>\``(...)`\`</small>
 
+## Penjabaran
+
 Tanda kurung dipakai untuk mengapit tambahan keterangan atau penjelasan.
 
 ???+ tip "Misal"
@@ -7,7 +9,9 @@ Tanda kurung dipakai untuk mengapit tambahan keterangan atau penjelasan.
 
     Warga baru itu belum memiliki KTP (kartu tanda penduduk).
  
-    Lokakarya ( workshop) itu diadakan di Manado.
+    Lokakarya (_workshop_) itu diadakan di Manado.
+
+## Keterangan Tambahan
 
 Tanda kurung dipakai untuk mengapit keterangan atau penjelasan yang bukan bagian utama kalimat.
 
@@ -16,12 +20,16 @@ Tanda kurung dipakai untuk mengapit keterangan atau penjelasan yang bukan bagian
 
     Keterangan itu (lihat Tabel 10) menunjukkan arus perkembangan baru pasar dalam negeri.
 
+## Ketidakmutlakan
+
 Tanda kurung dipakai untuk mengapit huruf atau kata yang keberadaannya di dalam teks dapat dimunculkan atau dihilangkan.
 
 ???+ tip "Misal"
     Dia berangkat ke kantor selalu menaiki (bus) Transjakarta.
  
     Pesepak bola kenamaan itu berasal dari (Kota) Padang.
+
+## Pemerincian
 
 Tanda kurung dipakai untuk mengapit huruf atau angka yang digunakan sebagai penanda pemerincian.
 
