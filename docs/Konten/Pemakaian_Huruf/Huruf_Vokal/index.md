@@ -17,13 +17,13 @@ Huruf yang melambangkan vokal dalam bahasa Indonesia terdiri atas lima huruf, ya
     <th style="font-weight:700;background:#03A9F4;">Posisi Akhir</th>
   </tr>
   <tr>
-    <td style="text-align: center;font-weight:700;">a</td>
+    <td style="text-align: center;"><strong>a</strong></td>
     <td style="text-align: center"><em>a</em>pi</td>
     <td style="text-align: center">p<em>a</em>di</td>
     <td style="text-align: center">lus<em>a</em></td>
   </tr>
   <tr style="background:#E1F5FE">
-    <td rowspan="3" style="text-align:center;vertical-align:middle;"><strong>e</strong>*</td>
+    <td rowspan="3" style="text-align:center;vertical-align:middle;"><strong>e</strong><a href="#ket">*</a></td>
     <td style="text-align: center"><em>e</em>nak</td>
     <td style="text-align: center">p<em>e</em>tak</td>
     <td style="text-align: center">sor<em>e</em></td>
@@ -39,19 +39,19 @@ Huruf yang melambangkan vokal dalam bahasa Indonesia terdiri atas lima huruf, ya
     <td style="text-align: center">tip<em>e</em></td>
   </tr>
   <tr>
-    <td style="text-align: center;font-weight:700;">i</td>
+    <td style="text-align: center;"><strong>i</strong></td>
     <td style="text-align: center"><em>i</em>tu</td>
     <td style="text-align: center">s<em>i</em>mpan</td>
     <td style="text-align: center">murn<em>i</em></td>
   </tr>
   <tr style="background:#E1F5FE">
-    <td style="text-align: center;font-weight:700;">o</td>
+    <td style="text-align: center;"><strong>o</strong></td>
     <td style="text-align: center"><em>o</em>leh</td>
     <td style="text-align: center">k<em>o</em>ta</td>
     <td style="text-align: center">radi<em>o</em></td>
   </tr>
   <tr>
-    <td style="text-align: center;font-weight:700;">u</td>
+    <td style="text-align: center;"><strong>u</strong></td>
     <td style="text-align: center"><em>u</em>lang</td>
     <td style="text-align: center">b<em>u</em>mi</td>
     <td style="text-align: center">ib<em>u</em></td>
@@ -60,7 +60,7 @@ Huruf yang melambangkan vokal dalam bahasa Indonesia terdiri atas lima huruf, ya
 
 ## Diakritik
 
-Untuk pengucapan (pelafalan) kata yang benar, diakritik berikut ini dapat digunakan jika ejaan kata itu dapat menimbulkan keraguan.
+<a name="ket">*</a>Untuk pengucapan (pelafalan) kata yang benar, diakritik berikut ini dapat digunakan jika ejaan kata itu dapat menimbulkan keraguan.
 
 ### Diakritik <big>``é``</big>
 
