@@ -1,66 +1,148 @@
-@import url('https://fonts.googleapis.com/css?family=Spectral:500');
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300i,400,400i,700i|Libre+Baskerville:400,400i,500');
+
+h1 {
+  text-align: center;
+}
 
 h1, h2 {
-  font-family: Spectral, serif;
-  font-weight: 500 !important;
+  font-family: Merriweather, serif;
+  font-style: normal !important;
 }
 
 h3, h4, h5, h6 {
-  font-family: Roboto, san-serif;
+  font-family: "Merriweather Sans", san-serif;
 }
+
+p {
+  font-family: "Merriweather Sans", san-serif;
+}
+
+em {
+  font-family: "Libre Baskerville", serif !important;
+  font-style: italic !important;
+}
+
+.pustaka {
+  text-indent:-2.5em;
+  margin-left:2.5em !important;
+}
+
+.tab {
+  display:inline-block;
+  width: .5em;
+}
+
+/**** Daftar ****/
+
+.sblm-dftr {
+  margin: 1.5em 0em .15em 0em !important;
+}
+
+.mlai-dftr {
+  margin: .15em 0em 1.5em 0em !important;
+}
+
+ol.mlai-dftr li {
+  margin-bottom: .15em;
+}
+
+ol.kurung-a {
+  counter-reset: item !important;
+  margin: .15em 0em 1.5em 0em !important;
+  padding-left: 0 !important;
+}
+
+ol.kurung-a li:before {
+  content: "(" counter(item, lower-latin) ") " !important;
+  counter-increment: item !important;
+  margin-left: -1.5em;
+}
+
+ol.kurung-a li {
+  display: block;
+  margin-bottom: .15em;
+  margin-left: 1.5em;
+}
+
+ol.kurung-1 {
+  counter-reset: item !important;
+  margin: .15em 0em 1.5em 0em !important;
+  padding-left: 0 !important;
+}
+
+ol.kurung-1 li:before {
+  content: "(" counter(item, decimal) ") " !important;
+  counter-increment: item !important;
+  margin-left: -1.5em;
+}
+
+ol.kurung-1 li {
+  display: block;
+  margin-bottom: .15em;
+  margin-left: 1.5em;
+}
+
 .serif {
   font-family: Spectral, serif;
 }
+
+  /* ## Halaman Judul ## */
 .uud-awal {
-  font-family: Spectral, serif;
+  font-family: Merriweather, serif !important;
+  font-style: normal !important;
   text-align: center;
   margin: 3em 0em 0em 0em !important;
 }
 
 .uud-tengah {
-  font-family: Spectral, serif;
+  font-family: Merriweather, serif !important;
+  font-style: normal !important;
   text-align: center;
   margin: 0.5em 0em 0.5em 0em !important;
 }
 
 .uud-akhir {
-  font-family: Spectral, serif;
+  font-family: Merriweather, serif !important;
+  font-style: normal !important;
   text-align: center;
   margin: 0em 0em 3em 0em !important;
 }
 
 .uud-daftar-awal {
   float: left;
-  width: 28% !important;
-  clear: both;
-}
-
-.uud-daftar-akhir {
-  clear: both;
+  width: 35% !important;
+  clear: left;
 }
 
 .uud-sekat {
-  font-family: Spectral, serif;
+  font-family: Merriweather, serif !important;
+  font-style: normal !important;
   text-align: center;
+  margin-top: 2em !important;
   clear: both;
 }
 
 .uud-daftar-isi {
   float: right;
-  width: 70% !important;
-  clear: right;
+  width: 65% !important;
+  margin-top: 0em !important;
+  margin-bottom: 2.5em !important;
 }
 
 .uud-daftar-solo {
-  font-family: Spectral, serif;
+  font-family: Merriweather, serif !important;
+  font-style: normal !important;
   float: right;
-  width: 70% !important;
+  width: 65% !important;
 }
 
 .pasal {
   text-align: center;
   clear: both;
 }
+
+  /* ~~~ */
 
 .pasal-isi {
   margin-top: 0em !important;
@@ -76,4 +158,8 @@ h3, h4, h5, h6 {
   float: left;
   margin: 0em 0em 1.5em 0em;
   size: 50%;
+}
+
+.admonition {
+  font-size: 1.5rem !important;
 }
