@@ -21,9 +21,12 @@ mengkhususkan huruf, bagian kata, kata, atau kelompok
 kata dalam kalimat.
 
 ???+ tip "Misal"
-    Huruf terakhir kata *abad* adalah *d*.  
-    Dia tidak *di*antar, tetapi *meng*antar.  
-    Dalam bab ini *tidak* dibahas pemakaian tanda baca.  
+    Huruf terakhir kata *abad* adalah *d*.
+
+    Dia tidak *di*antar, tetapi *meng*antar.
+
+    Dalam bab ini *tidak* dibahas pemakaian tanda baca.
+
     Buatlah kalimat dengan menggunakan ungkapan *lepas tangan*.
 
 ## Istilah Asing
@@ -32,9 +35,11 @@ Huruf miring dipakai untuk menuliskan kata atau ungkapan
 dalam bahasa daerah atau bahasa asing.
 
 ???+ tip "Misal"
-    Upacara *peusijuek* (tepung tawar) menarik perhatian wisatawan asing yang berkunjung ke Aceh.  
+    Upacara *peusijuek* (tepung tawar) menarik perhatian wisatawan asing yang berkunjung ke Aceh.
+
     Nama ilmiah buah manggis ialah *Garcinia mangostana*.  
-    *Weltanschauung* bermakna ‘pandangan dunia’.  
+    *Weltanschauung* bermakna ‘pandangan dunia’.
+
     Ungkapan *bhinneka tunggal ika* dijadikan semboyan negara Indonesia.
 
 ???+ note "Catatan"
@@ -44,7 +49,7 @@ dalam bahasa daerah atau bahasa asing.
     !!! success " "
         Dalam naskah tulisan tangan atau mesin tik (bukan komputer), bagian yang akan dicetak miring ditandai dengan garis bawah.
 
-    !!! summary " "
+    !!! quote " "
         Kalimat atau teks berbahasa asing atau berbahasa daerah yang dikutip secara langsung dalam teks berbahasa Indonesia ditulis dengan huruf miring.
 
 

@@ -29,7 +29,7 @@ Huruf kapital dipakai sebagai huruf pertama unsur nama orang, termasuk julukan.
     *M*ujair  
     *R*udolf *D*iesel
 
-???+ summary "Catatan"
+???+ note "Catatan"
     Huruf kapital tidak dipakai sebagai huruf pertama nama orang yang merupakan nama jenis atau satuan ukuran.
 
     !!! tip "Misal"
@@ -134,7 +134,7 @@ Huruf kapital dipakai sebagai huruf pertama nama bangsa, suku bangsa, dan bahasa
     suku *D*ani  
     bahasa *B*ali
 
-???+ summary "Catatan"
+???+ note "Catatan"
     Nama bangsa, suku bangsa, dan bahasa yang dipakai sebagai bentuk dasar kata turunan _tidak_ ditulis dengan huruf awal kapital.
 
     !!! tip "Misal"
@@ -201,7 +201,7 @@ Huruf kapital dipakai sebagai huruf pertama nama geografi.
     *G*ang *K*elinci  
     *K*elurahan *R*awamangun
 
-???+ summary "Catatan"
+???+ note "Catatan"
     Huruf pertama nama geografi yang _bukan_ nama diri _tidak_ ditulis dengan huruf kapital.
 
     !!! tip "Misal"
@@ -305,7 +305,7 @@ Huruf kapital dipakai sebagai huruf pertama kata penunjuk hubungan kekerabatan, 
 
     “*B*u, saya sudah melaporkan hal ini kepada *B*apak.”
 
-???+ summary "Catatan"
+???+ note "Catatan"
     Istilah kekerabatan berikut bukan merupakan penyapaan atau pengacuan.
 
     !!! tip "Misal"

@@ -5,9 +5,11 @@
 Tanda petik dipakai untuk mengapit petikan langsung yang berasal dari pembicaraan, naskah, atau bahan tertulis lain.
 
 ???+ tip "Misal"
-    **“**Merdeka atau mati!**”** seru Bung Tomo dalam pidatonya. **“**Kerjakan tugas ini sekarang!**”** perintah atasannya.
+    **“**Merdeka atau mati!**”** seru Bung Tomo dalam pidatonya.
 
-      **“**Be-sok akan dibahas dalam rapat.**”**
+    **“**Kerjakan tugas ini sekarang!**”** perintah atasannya.
+
+    **“**Besok akan dibahas dalam rapat.**”**
 
     Menurut Pasal 31 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, **“**Setiap warga negara berhak memperoleh pendidikan.**”**
 

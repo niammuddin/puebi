@@ -13,14 +13,14 @@ Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilanga
 
 ## Kalimat Majemuk  <small>Setara</small>
 
-Tanda koma dipakai sebelum kata penghubung, seperti _tetapi_, _melainkan_, dan _sedangkan_, dalam kalimat majemuk (setara).
+Tanda koma dipakai sebelum kata penghubung, seperti *tetapi*, *melainkan*, dan *sedangkan*, dalam kalimat majemuk (setara).
 
 ???+ tip "Misal"
-    Saya ingin membeli kamera, _tetapi_ uang saya belum cukup.
+    Saya ingin membeli kamera, *tetapi* uang saya belum cukup.
 
-    Ini bukan milik saya, _melainkan_ milik ayah saya.
+    Ini bukan milik saya, *melainkan* milik ayah saya.
 
-    Dia membaca cerita pendek, _sedangkan_ adiknya melukis panorama.
+    Dia membaca cerita pendek, *sedangkan* adiknya melukis panorama.
 
 ## Pemisah <small>Anak Kalimat</small>
 
@@ -34,7 +34,7 @@ Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatny
     Agar memiliki wawasan yang luas, kita harus banyak membaca buku.
 
 ???+ summary "Catatan"
-    Tanda koma _tidak_ dipakai jika induk kalimat mendahului anak kalimat.
+    Tanda koma *tidak* dipakai jika induk kalimat mendahului anak kalimat.
 
     !!! tip "Misal"
         Saya akan datang kalau diundang.
@@ -45,27 +45,27 @@ Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatny
 
 ## Ungkapan <small>Penghubung</small>
 
-Tanda koma dipakai di belakang kata atau ungkapan penghubung antarkalimat, seperti _oleh karena itu_, _jadi_, _dengan demikian_, _sehubungan dengan itu_, dan _meskipun demikian_.
+Tanda koma dipakai di belakang kata atau ungkapan penghubung antarkalimat, seperti *oleh karena itu*, *jadi*, *dengan demikian*, *sehubungan dengan itu*, dan *meskipun demikian*.
 
 ???+ tip "Misal"
-    Mahasiswa itu rajin dan pandai. _Oleh karena itu_, dia memperoleh beasiswa belajar di luar negeri.
+    Mahasiswa itu rajin dan pandai. *Oleh karena itu*, dia memperoleh beasiswa belajar di luar negeri.
 
-    Anak itu memang rajin membaca sejak kecil. _Jadi_, wajar kalau dia menjadi bintang pelajar.
+    Anak itu memang rajin membaca sejak kecil. *Jadi*, wajar kalau dia menjadi bintang pelajar.
 
-    Orang tuanya kurang mampu. _Meskipun demikian_,
+    Orang tuanya kurang mampu. *Meskipun demikian*,
     anak-anaknya berhasil menjadi sarjana.
 
 ## Seruan <small>atau</small> Sapaan
 
-Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti _o_, _ya_, _wah_, _aduh_, atau _hai_, dan kata yang dipakai sebagai sapaan, seperti _Bu_, _Dik_, atau _Nak_.
+Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti *o*, *ya*, *wah*, *aduh*, atau *hai*, dan kata yang dipakai sebagai sapaan, seperti *Bu*, *Dik*, atau *Nak*.
 
 ???+ tip "Misal"
-    _O_, begitu?  
-    _Wah_, bukan main!  
-    Hati-hati, _ya_, jalannya licin!  
-    _Nak_, kapan selesai kuliahmu?  
-    Siapa namamu, _Dik_?  
-    Dia baik sekali, _Bu_.
+    *O*, begitu?  
+    *Wah*, bukan main!  
+    Hati-hati, *ya*, jalannya licin!  
+    *Nak*, kapan selesai kuliahmu?  
+    Siapa namamu, *Dik*?  
+    Dia baik sekali, *Bu*.
 
 ## Petikan Langsung
 
@@ -77,7 +77,7 @@ Tanda koma dipakai untuk memisahkan petikan langsung dari bagian lain dalam kali
     “Kita harus berbagi dalam hidup ini,” kata nenek saya, “karena manusia adalah makhluk sosial.”
 
 ???+ summary "Catatan"
-    Tanda koma _tidak_ dipakai untuk memisahkan petikan langsung yang berupa kalimat tanya, kalimat perintah, atau kalimat seru dari bagian lain yang mengikutinya.
+    Tanda koma *tidak* dipakai untuk memisahkan petikan langsung yang berupa kalimat tanya, kalimat perintah, atau kalimat seru dari bagian lain yang mengikutinya.
 
     !!! tip "Misal"
         “Di mana Saudara tinggal?” tanya Pak Lurah.
@@ -114,11 +114,11 @@ Tanda koma dipakai untuk memisahkan bagian nama yang dibalik susunannya dalam da
 Tanda koma dipakai di antara bagian-bagian dalam catatan kaki atau catatan akhir.
 
 ???+ tip "Misal"
-    Sutan Takdir Alisjahbana, _Tata Bahasa Baru Bahasa Indonesia_, Jilid 2 (Jakarta: Pustaka Rakyat, 1950), hlm. 25.
+    Sutan Takdir Alisjahbana, *Tata Bahasa Baru Bahasa Indonesia*, Jilid 2 (Jakarta: Pustaka Rakyat, 1950), hlm. 25.
 
-    Hadikusuma Hilman, _Ensiklopedi Hukum Adat dan Adat Budaya Indonesia_ (Bandung: Alumni, 1977), hlm. 12.
+    Hadikusuma Hilman, *Ensiklopedi Hukum Adat dan Adat Budaya Indonesia* (Bandung: Alumni, 1977), hlm. 12.
 
-    W.J.S. Poerwadarminta, _Bahasa Indonesia untuk Karang-mengarang_ (Jogjakarta: UP Indonesia, 1967), hlm. 4.
+    W.J.S. Poerwadarminta, *Bahasa Indonesia untuk Karang-mengarang* (Jogjakarta: UP Indonesia, 1967), hlm. 4.
 
 ## Singkatan Gelar
 
@@ -131,7 +131,7 @@ Tanda koma dipakai di antara nama orang dan singkatan gelar akademis yang mengik
     Siti Aminah, S.H., M.H.
 
 ???+ summary "Catatan"
-    Bandingkan _Siti Khadijah_, M.A. dengan _Siti Khadijah M.A._ (_Siti Khadijah Mas Agung_).
+    **Bandingkan** *Siti Khadijah*, M.A. dengan *Siti Khadijah M.A.* (*Siti Khadijah Mas Agung*).
 
 ## Angka
 
@@ -148,19 +148,19 @@ Tanda koma dipakai sebelum angka desimal atau di antara rupiah dan sen yang diny
 Tanda koma dipakai untuk mengapit keterangan tambahan atau keterangan aposisi.
 
 ???+ tip "Misal"
-    Di daerah kami, _misalnya_, masih banyak bahan tambang yang belum diolah.
+    Di daerah kami, *misalnya*, masih banyak bahan tambang yang belum diolah.
 
-    Semua siswa, _baik laki-laki maupun perempuan_, harus mengikuti latihan paduan suara.
+    Semua siswa, *baik laki-laki maupun perempuan*, harus mengikuti latihan paduan suara.
 
-    Soekarno, _Presiden I RI_, merupakan salah seorang pendiri Gerakan Nonblok.
+    Soekarno, *Presiden I RI*, merupakan salah seorang pendiri Gerakan Nonblok.
 
-    Pejabat yang bertanggung jawab, _sebagaimana dimaksud pada ayat (3)_, wajib menindaklanjuti laporan dalam waktu paling lama tujuh hari.
+    Pejabat yang bertanggung jawab, *sebagaimana dimaksud pada ayat (3)*, wajib menindaklanjuti laporan dalam waktu paling lama tujuh hari.
 
     ***
 
     **Bandingkan** dengan keterangan pewatas yang pemakaiannya tidak diapit tanda koma!  
 
-    Siswa _yang lulus dengan nilai tinggi_ akan diterima di perguruan tinggi itu tanpa melalui tes.
+    Siswa *yang lulus dengan nilai tinggi* akan diterima di perguruan tinggi itu tanpa melalui tes.
 
 ## Keterangan
 
@@ -172,8 +172,8 @@ Tanda koma dapat dipakai di belakang keterangan yang terdapat pada awal kalimat 
     Atas perhatian Saudara, kami ucapkan terima kasih.
 
     ***
-
-    **Bandingkan dengan**:
+    **Bandingkan** dengan:
+    ***
 
     Dalam pengembangan bahasa kita dapat memanfaatkan bahasa daerah.
 

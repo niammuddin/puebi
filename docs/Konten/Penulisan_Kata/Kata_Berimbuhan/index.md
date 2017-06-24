@@ -5,22 +5,22 @@
 Imbuhan (awalan, sisipan, akhiran, serta gabungan awalan dan akhiran) ditulis serangkai dengan bentuk dasarnya.
 
 ???+ tip "Misal"
-    <em>ber</em>jalan
-    <em>ber</em>kelanjutan  
-    <em>mem</em>permudah  
-    g</em>em</em>etar  
-    lukis</em>an</em>  
-    <em>ke</em>mau</em>an</em>  
-    <em>per</em>baik</em>an</em>
+    *ber*jalan  
+    *ber*kelanjutan  
+    *mem*permudah  
+    g*em*etar  
+    lukis*an*  
+    *ke*mau*an*  
+    *per*baik*an*
 
-???+ summary "Catatan"
-    Imbuhan yang diserap dari unsur asing, seperti -<em>isme</em>, -<em>man</em>, -<em>wan</em>, atau -<em>wi</em>, ditulis serangkai dengan bentuk dasarnya.
+???+ note "Catatan"
+    Imbuhan yang diserap dari unsur asing, seperti -*isme*, -*man*, -*wan*, atau -*wi*, ditulis serangkai dengan bentuk dasarnya.
 
     !!! tip "Misal"
-        suku</em>isme</em>  
-        seni <em>man</em>  
-        kamera</em>wan</em>  
-        gereja</em>wi</em>
+        suku*isme*  
+        seni *man*  
+        kamera*wan*  
+        gereja*wi*
 
 ## Terikat
 
@@ -89,31 +89,33 @@ Bentuk terikat ditulis serangkai dengan kata yang mengikutinya.
     </tr>    
     </table>
 
-???+ summary "Catatan"
+???+ note "Catatan"
 
     Bentuk terikat yang diikuti oleh kata yang berhuruf awal
     kapital atau singkatan yang berupa huruf kapital
     dirangkaikan dengan tanda hubung \``-`\`.
 
     !!! tip "Misal"
-        <em>non</em>-Indonesia  
-        <em>pan</em>-Afrikanisme  
-        <em>pro</em>-Barat  
-        <em>non</em>-ASEAN  
-        <em>anti</em>-PKI
+        *non*-Indonesia  
+        *pan*-Afrikanisme  
+        *pro*-Barat  
+        *non*-ASEAN  
+        *anti*-PKI
 
-    Bentuk <em>maha</em> yang diikuti kata turunan yang mengacu
+    Bentuk *maha* yang diikuti kata turunan yang mengacu
     pada nama atau sifat Tuhan ditulis terpisah dengan huruf
     awal kapital.
 
     !!! tip "Misal"
-        Marilah kita bersyukur kepada Tuhan Yang <em>M</em>aha Pengasih.  
-        Kita berdoa kepada Tuhan Yang <em>M</em>aha Pengampun .
+        Marilah kita bersyukur kepada Tuhan Yang *M*aha Pengasih.
 
-    Bentuk maha yang diikuti kata dasar yang mengacu kepada nama atau sifat Tuhan, kecuali kata esa, ditulis serangkai.
+        Kita berdoa kepada Tuhan Yang *M*aha Pengampun .
+
+    Bentuk maha yang diikuti kata dasar yang mengacu kepada nama atau sifat Tuhan, kecuali kata *esa*, ditulis serangkai.
 
     !!! tip "Misal"
-        Tuhan Yang <em>Mahakuasa</em> menentukan arah hidup kita.  
-        Mudah-mudahan Tuhan Yang <em>Maha Esa</em> melindungi kita.
+        Tuhan Yang *Mahakuasa* menentukan arah hidup kita.
+
+        Mudah-mudahan Tuhan Yang *Maha Esa* melindungi kita.
 
 

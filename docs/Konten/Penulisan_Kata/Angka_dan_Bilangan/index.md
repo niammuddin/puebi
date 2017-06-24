@@ -36,10 +36,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 
 #### Bilangan Pecahan
 
-  <!---------------
-  Menyisipkan _Mathjax JavaScript_ guna mengenakan  
-  **Arithmatex**.
-  --------------->
+  <!-- ## Menyisipkan _Mathjax JavaScript_ guna mengenakan **Arithmatex**. ## -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 ???+ tip "Misal"
@@ -79,12 +76,12 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 Bilangan dalam teks yang dapat dinyatakan dengan satu atau dua kata ditulis dengan huruf, kecuali jika dipakai secara berurutan seperti dalam perincian.
 
 ???+ tip "Misal"
-    Mereka menonton drama itu sampai <em>tiga</em> kali.
-    Koleksi perpustakaan itu lebih dari <em>satu juta</em> buku.
+    Mereka menonton drama itu sampai *tiga* kali.
+    Koleksi perpustakaan itu lebih dari *satu juta* buku.
 
-    Di antara <em>72</em> anggota yang hadir, <em>52</em> orang setuju, <em>15</em> orang tidak setuju, dan <em>5</em> orang abstain.
+    Di antara *72* anggota yang hadir, *52* orang setuju, *15* orang tidak setuju, dan *5* orang abstain.
 
-    Kendaraan yang dipesan untuk angkutan umum terdiri atas <em>50</em> bus, <em>100</em> minibus, dan <em>250</em> sedan.
+    Kendaraan yang dipesan untuk angkutan umum terdiri atas *50* bus, *100* minibus, dan *250* sedan.
     
 
 ### Awal Kalimat
@@ -92,48 +89,51 @@ Bilangan dalam teks yang dapat dinyatakan dengan satu atau dua kata ditulis deng
 Bilangan pada awal kalimat ditulis dengan huruf.
 
 ???+ tip "Misal"
-    <em>Lima puluh</em> siswa teladan mendapat beasiswa dari pemerintah daerah.  
-    <em>Tiga</em> pemenang sayembara itu diundang ke Jakarta.
+    *Lima puluh* siswa teladan mendapat beasiswa dari pemerintah daerah.
+
+    *Tiga* pemenang sayembara itu diundang ke Jakarta.
     
 ???+ warning "Catatan"
     Penulisan berikut dihindari.
 
-    <em>50</em> siswa teladan mendapat beasiswa dari pemerintah daerah.  
-    <em>3</em> pemenang sayembara itu diundang ke Jakarta.
+    *50* siswa teladan mendapat beasiswa dari pemerintah daerah.  
+    *3* pemenang sayembara itu diundang ke Jakarta.
 
     Apabila bilangan pada awal kalimat tidak dapat dinyatakan dengan satu atau dua kata, susunan kalimatnya diubah.
 
     !!! tip "Misal"
-        Panitia mengundang <em>250</em> orang peserta.  
-        Di lemari itu tersimpan <em>25</em> naskah kuno.
+        Panitia mengundang *250* orang peserta.
+
+        Di lemari itu tersimpan *25* naskah kuno.
     
     !!! warning "Catatan"
         Penulisan berikut dihindari.
 
-        <em>250</em> orang peserta diundang panitia.  
-        <em>25</em> naskah kuno tersimpan di lemari itu.
+        *250* orang peserta diundang panitia.
+
+        *25* naskah kuno tersimpan di lemari itu.
 
 ### Bilangan Besar
 
 Angka yang menunjukkan bilangan besar dapat ditulis sebagian dengan huruf supaya lebih mudah dibaca.
 
 ???+ tip "Misal"
-    Dia mendapatkan bantuan <em>250 juta</em> rupiah untuk mengembangkan usahanya.
+    Dia mendapatkan bantuan *250 juta* rupiah untuk mengembangkan usahanya.
 
-    Perusahaan itu baru saja mendapat pinjaman <em>550 miliar</em> rupiah.
+    Perusahaan itu baru saja mendapat pinjaman *550 miliar* rupiah.
 
-    Proyek pemberdayaan ekonomi rakyat itu memerlukan biaya <em>10 triliun</em> rupiah.
+    Proyek pemberdayaan ekonomi rakyat itu memerlukan biaya *10 triliun* rupiah.
     
 ### Memuat Unsur Geografi
 
 Bilangan yang digunakan sebagai unsur nama geografi ditulis dengan huruf.
 
 ???+ tip "Misal"
-    Kelapa<em>dua</em>  
-    Kotonan<em>ampek</em>  
-    Raja<em>ampat</em>  
-    Simpang<em>lima</em>  
-    Tiga<em>raksa</em>
+    Kelapa*dua*  
+    Kotonan*ampek*  
+    Raja*ampat*  
+    Simpang*lima*  
+    Tiga*raksa*
     
 ## Ditulis Dengan Angka
 
@@ -144,16 +144,16 @@ Bilangan yang digunakan sebagai unsur nama geografi ditulis dengan huruf.
 Penulisan bilangan tingkat dapat dilakukan dengan cara berikut.
 
 ???+ tip "Misal"
-    abad <em>XX</em>  
-    abad <em>ke-20</em>  
-    abad <em>kedua puluh</em>  
-    Perang Dunia <em>II</em>  
-    Perang Dunia <em>Ke-2</em>  
-    Perang Dunia <em>Kedua</em>  
+    abad *XX*  
+    abad *ke-20*  
+    abad *kedua puluh*  
+    Perang Dunia *II*  
+    Perang Dunia *Ke-2*  
+    Perang Dunia *Kedua*  
     
 #### Sufiks \``-an`\`
 
-Penulisan angka yang mendapat akhiran <em>-an</em> dilakukan dengan cara berikut.
+Penulisan angka yang mendapat akhiran *-an* dilakukan dengan cara berikut.
 
 ???+ tip "Misal"
     <table>
@@ -167,7 +167,7 @@ Penulisan angka yang mendapat akhiran <em>-an</em> dilakukan dengan cara berikut
       </tr>
       <tr>
         <td>uang <em>5.000-an</em></td>
-        <td>(uang <em>lima ribuan</em>)</td>
+        <td>(uang <em>lima ribuan*<em></em>)</td>
       </tr>
     </table>
 
@@ -209,14 +209,14 @@ Angka dipakai untuk menomori bagian karangan atau ayat kitab suci.
 Penulisan bilangan dengan angka dan huruf sekaligus dilakukan dalam peraturan perundang-undangan, akta, dan kuitansi.
 
 ???+ tip "Misal"
-    Setiap orang yang menyebarkan atau mengedarkan rupiah tiruan, sebagaimana dimaksud dalam Pasal 23 ayat (2), dipidana dengan pidana kurungan paling lama <em>1</em> (<em>satu</em>) tahun dan pidana denda paling banyak <em>Rp200.000.000,00</em> (<em>dua ratus juta rupiah</em>).
+    Setiap orang yang menyebarkan atau mengedarkan rupiah tiruan, sebagaimana dimaksud dalam Pasal 23 ayat (2), dipidana dengan pidana kurungan paling lama *1* (*satu*) tahun dan pidana denda paling banyak *Rp200.000.000,00* (*dua ratus juta rupiah*).
 
-    Telah diterima uang sebanyak <em>Rp2.950.000,00</em> (<em>dua juta sembilan ratus lima puluh ribu rupiah</em>) untuk pembayaran satu unit televisi.
+    Telah diterima uang sebanyak *Rp2.950.000,00* (*dua juta sembilan ratus lima puluh ribu rupiah*) untuk pembayaran satu unit televisi.
     
 Penulisan bilangan yang dilambangkan dengan angka dan diikuti huruf dilakukan seperti berikut.
 
 ???+ tip "Misal"
-    Saya lampirkan tanda terima uang sebesar <em>Rp900.500,50</em> (<em>sembilan ratus ribu lima ratus rupiah lima puluh sen</em>).
+    Saya lampirkan tanda terima uang sebesar *Rp900.500,50* (*sembilan ratus ribu lima ratus rupiah lima puluh sen*).
 
-    Bukti pembelian barang seharga <em>Rp5.000.000,00</em> (<em>lima juta rupiah</em>) ke atas harus dilampirkan pada laporan pertanggungjawaban.
+    Bukti pembelian barang seharga *Rp5.000.000,00* (*lima juta rupiah*) ke atas harus dilampirkan pada laporan pertanggungjawaban.
     

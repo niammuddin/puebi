@@ -1,6 +1,6 @@
 # Tanda Titik Koma <small>\``;`\`</small>
 
-## Penghubung Kalimat Majemuk
+## Kalimat Majemuk
 
 Tanda titik koma dapat dipakai sebagai pengganti kata penghubung untuk memisahkan kalimat setara yang satu dari kalimat setara yang lain di dalam kalimat majemuk.
 
@@ -9,7 +9,7 @@ Tanda titik koma dapat dipakai sebagai pengganti kata penghubung untuk memisahka
 
     Ayah menyelesaikan pekerjaan; Ibu menulis makalah; Adik membaca cerita pendek.
 
-## Perincian
+## Pemerincian
 
 ### Berupa Klausa
 
@@ -24,7 +24,7 @@ Tanda titik koma dipakai pada akhir perincian yang berupa klausa.
       <li>bersedia ditempatkan di seluruh wilayah Negara Kesatuan Republik Indonesia.</li>
     </ol>
 
-### Pemisah
+### Sebagai Pemisah
 
 Tanda titik koma dipakai untuk memisahkan bagian-bagian pemerincian dalam kalimat yang sudah menggunakan tanda koma.
 

@@ -210,9 +210,10 @@ Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu d
 Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara unsur-unsurnya.
 
 ???+ tip "Misal"
-    Lagu “Indonesia Raya” digubah oleh Wage Rudolf
-    Supratman.  
-    Buku <em>Layar Terkembang</em> dikarang oleh Sutan Takdir
+    Lagu “Indonesia Raya” digubah oleh Wage Rudolf  
+    Supratman.
+
+    Buku  *Layar Terkembang* dikarang oleh Sutan Takdir  
     Alisjahbana.
 
 ## Singkatan Nama
@@ -220,14 +221,16 @@ Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di 
 Singkatan nama diri dan gelar yang terdiri atas dua huruf atau lebih tidak dipenggal.
 
 ???+ tip "Misal"
-    Ia bekerja di DLLAJR.  
+    Ia bekerja di DLLAJR.
+
     Pujangga terakhir Keraton Surakarta bergelar R.Ng.
     Rangga Warsita.
 
 ???+ warning "Catatan"
     Penulisan berikut dihindari.
 
-    Ia bekerja di DLL-AJR.  
+    Ia bekerja di DLL-AJR.
+
     Pujangga terakhir Keraton Surakarta bergelar R.Ng. Rangga Warsita.
 
 

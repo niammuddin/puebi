@@ -62,25 +62,25 @@ Huruf yang melambangkan vokal dalam bahasa Indonesia terdiri atas lima huruf, ya
 
 <a name="ket">*</a>Untuk pengucapan (pelafalan) kata yang benar, diakritik berikut ini dapat digunakan jika ejaan kata itu dapat menimbulkan keraguan.
 
-### Diakritik <big>``é``</big>
+### Diakritik <small>\``é`\`</small>
 
-Diakritik ``é`` dilafalkan [e].
+Diakritik \``é`\` dilafalkan [e].
 
 ???+ tip "Misal"
     Anak-anak bermain di _teras_ (téras).  
     Kedelai merupakan bahan pokok _kecap_ (kécap).
 
-### Diakritik <big>``è``</big>
+### Diakritik <small>\``è`\`</small>
 
-Diakritik ``è`` dilafalkan [ɛ].
+Diakritik \``è`\` dilafalkan [ɛ].
 
 ???+ tip "Misal" 
     Kami menonton film _seri_ (sèri).  
     Pertahanan _militer_ (militèr) Indonesia cukup kuat.
 
-### Diakritik <big>``ê``</big>
+### Diakritik <small>\``ê`\`</small>
 
-Diakritik ``ê`` dilafalkan [ə].
+Diakritik \``ê`\` dilafalkan [ə].
 
 ???+ tip "Misal"
     Pertandingan itu berakhir _seri_ (sêri).  

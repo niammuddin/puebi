@@ -5,17 +5,17 @@
 Tanda hubung dipakai untuk menandai bagian kata yang terpenggal oleh pergantian baris.
 
 ???+ tip "Misal"
-    Di samping cara lama, diterapkan juga _ca-  
-    ra_ baru …. 
+    Di samping cara lama, diterapkan juga  *ca-  
+    ra* baru …. 
 
-    Nelayan pesisir itu berhasil membudidayakan _rum-  
-    put_ laut.
+    Nelayan pesisir itu berhasil membudidayakan  *rum-  
+    put* laut.
 
-    Kini ada cara yang baru untuk _meng-  
-    ukur_ panas.
+    Kini ada cara yang baru untuk  *meng-  
+    ukur* panas.
 
-    Parut jenis ini memudahkan kita _me-
-    ngukur_ kelapa.
+    Parut jenis ini memudahkan kita  *me-
+    ngukur* kelapa.
 
 Tanda hubung dipakai untuk menyambung unsur kata ulang.
 
@@ -39,7 +39,7 @@ Tanda hubung dapat dipakai untuk memperjelas hubungan bagian kata atau ungkapan.
 
 
   <!---------------
-  Menyisipkan _Mathjax JavaScript_ guna mengenakan  
+  Menyisipkan  *Mathjax JavaScript* guna mengenakan  
   **Arithmatex**.
   --------------->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
@@ -84,31 +84,31 @@ Tanda hubung dapat dipakai untuk memperjelas hubungan bagian kata atau ungkapan.
     Tanda hubung tidak dipakai di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf.
 
     !!! tip "Misal"
-        BNP2TKI (_B_adan _N_asional _P_enempatan dan _P_erlindungan _T_enaga _K_erja _I_ndonesia)
+        BNP2TKI ( *B*adan  *N*asional  *P*enempatan dan  *P*erlindungan  *T*enaga  *K*erja  *I*ndonesia)
 
-        LP3I (_L_embaga _P_endidikan dan _P_engembangan _P_rofesi _I_ndonesia)
+        LP3I ( *L*embaga  *P*endidikan dan  *P*engembangan  *P*rofesi  *I*ndonesia)
 
-        P3K (_p_ertolongan _p_ertama _p_ada _k_ecelakaan)
+        P3K ( *p*ertolongan  *p*ertama  *p*ada  *k*ecelakaan)
 
 ## Unsur Bahasa Asing
 
 Tanda hubung dipakai untuk merangkai unsur bahasa Indonesia dengan unsur bahasa daerah atau bahasa asing.
 
 ???+ tip "Misal"
-    di_-sowan-_i (bahasa Jawa, ‘didatangi’)
+    di*-sowan-*i (bahasa Jawa, ‘didatangi’)
 
-    ber_-pariban_ (bahasa Batak, ‘bersaudara sepupu’)
+    ber-*pariban* (bahasa Batak, ‘bersaudara sepupu’)
 
-    di_-back up_  
-    me_-recall_  
-    pen_-tackle-_an
+    di-*back up*  
+    me-*recall*  
+    pen-*tackle*-an
 
 ## Bentuk Terikat
 
 Tanda hubung digunakan untuk menandai bentuk terikat yang menjadi objek bahasan.
 
 ???+ tip "Misal"
-    Kata _pasca-_  berasal dari bahasa Sanskerta.  
-    Akhiran _-isasi_ pada kata betonisasi sebaiknya diubah menjadi _pembetonan_.
+    Kata  *pasca*-  berasal dari bahasa Sanskerta.  
+    Akhiran  -*isasi* pada kata betonisasi sebaiknya diubah menjadi *pembetonan*.
 
 

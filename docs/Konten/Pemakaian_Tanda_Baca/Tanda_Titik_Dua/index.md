@@ -2,7 +2,8 @@
 
 ## Pernyataan Lengkap
 
-Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerincian atau penjelasan.
+!!! success " "
+    Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerincian atau penjelasan.
 
 ???+ tip "Misal"
     Mereka memerlukan perabot rumah tangga: kursi, meja,
@@ -13,7 +14,7 @@ Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerin
 
 ## Pelengkap
 
-???+ warning "Ikhtisar"
+!!! warning " "
     Tanda titik dua _tidak_ dipakai jika perincian atau penjelasan itu merupakan pelengkap yang mengakhiri pernyataan.
 
 ???+ tip "Misal"
@@ -27,7 +28,8 @@ Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerin
 
 ## Ungkapan
 
-Tanda titik dua dipakai sesudah kata atau ungkapan yang memerlukan pemerian.
+!!! success " "
+    Tanda titik dua dipakai sesudah kata atau ungkapan yang memerlukan pemerian.
 
 ???+ tip "Misal"
     a. Ketua     : Ahmad Wijaya  
@@ -40,7 +42,8 @@ Tanda titik dua dipakai sesudah kata atau ungkapan yang memerlukan pemerian.
 
 ## Naskah Drama
 
-Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku dalam percakapan.
+!!! success " "
+    Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku dalam percakapan.
 
 ???+ tip "Misal"
     Ibu : “Bawa koper ini, Nak!”  
@@ -49,13 +52,14 @@ Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku 
 
 ## Penomoran
 
-Tanda titik dua dipakai di antara:
-<ol class="kurung-a">
-  <li>jilid atau nomor dan halaman,</li>
-  <li>surah dan ayat dalam kitab suci,</li>
-  <li>judul dan anak judul suatu karangan, serta</li>
-  <li>nama kota dan penerbit dalam daftar pustaka.</li>
-</ol>
+!!! success " "
+    Tanda titik dua dipakai di antara:
+    <ol class="kurung-a">
+    <li>jilid atau nomor dan halaman,</li>
+    <li>surah dan ayat dalam kitab suci,</li>
+    <li>judul dan anak judul suatu karangan, serta</li>
+    <li>nama kota dan penerbit dalam daftar pustaka.</li>
+    </ol>
 
 ???+ tip "Misal"
     _Horison_, XLIII, No. 8/2008: 8  

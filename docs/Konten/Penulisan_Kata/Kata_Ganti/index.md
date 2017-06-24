@@ -1,7 +1,7 @@
-# Kata Ganti <br><small>`ku-`, `kau-`, `-ku`, `-mu`, dan `–nya`</small>
+# Kata Ganti <br><small>*ku–*, *kau–*, *–ku*, *–mu*, <big>dan</big> *–nya*</small>
 
-Kata ganti _ku-_ dan _kau-_ ditulis serangkai dengan kata yang
-mengikutinya, sedangkan _-ku_, _-mu_, dan _-nya_ ditulis
+Kata ganti *ku–* dan *kau–* ditulis serangkai dengan kata yang
+mengikutinya, sedangkan *–ku*, *–mu*, dan *–nya* ditulis
 serangkai dengan kata yang mendahuluinya.
 
 ???+ tip "Misal"

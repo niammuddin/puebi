@@ -6,11 +6,11 @@
 Tanda elipsis dipakai untuk menunjukkan bahwa dalam suatu kalimat atau kutipan ada bagian yang dihilangkan.
 
 ???+ tip "Misal"
-    Penyebab kemerosotan ... akan diteliti lebih lanjut.
+    Penyebab kemerosotan … akan diteliti lebih lanjut.
 
     Dalam Undang-Undang Dasar 1945 disebutkan bahwa bahasa negara ialah ….
 
-      ..., lain lubuk lain ikannya.
+      …, lain lubuk lain ikannya.
 
 ???+ summary "Catatan"
     <ol class="kurung-1"><li>Tanda elipsis itu didahului dan diikuti dengan spasi.</li>

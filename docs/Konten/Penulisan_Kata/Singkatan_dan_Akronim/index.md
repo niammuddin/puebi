@@ -25,7 +25,7 @@ Singkatan nama orang, gelar, sapaan, jabatan, atau pangkat diikuti dengan tanda 
       </tr>
       <tr>
         <td><em>M.B.A.</em></td>
-        <td>master of business administration</td>
+        <td><em>master of business administration</em></td>
       </tr>
       <tr>
         <td><em>M.Hum.</em></td>

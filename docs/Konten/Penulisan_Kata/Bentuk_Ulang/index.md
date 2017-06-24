@@ -43,7 +43,7 @@ antara unsur-unsurnya.
       </tr>
     </table>
     
-???+ summary "Catatan"
+???+ note "Catatan"
     Bentuk ulang gabungan kata ditulis dengan mengulang unsur pertama.
 
     !!! tip "Misal"
