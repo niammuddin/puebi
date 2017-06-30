@@ -10,7 +10,7 @@
 
   [1]: http://badanbahasa.kemdikbud.go.id/lamanbahasa/
 
-Selanjutnya, Kemdikbud juga telah menyediakan [Buku elektronik PUEBI][2] yang dapat diunduh dengan mudah dan cuma-cuma sebagai upaya publikasi PUEBI pada masyarakat luas. Bahkan berkat seorang wikipediawan bernama [Ivan Lanin][3], kini telah tersedia [PUEBI Daring][4] yang dapat diakses secara_online_ kapan dan dimana saja.
+Selanjutnya, Kemdikbud juga telah menyediakan [Buku elektronik PUEBI][2] yang dapat diunduh dengan mudah dan cuma-cuma sebagai upaya publikasi PUEBI pada masyarakat luas. Bahkan berkat seorang wikipediawan bernama [Ivan Lanin][3], kini telah tersedia [PUEBI Daring][4] yang dapat diakses secara *online* kapan dan dimana saja.
 
   [2]: http://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf
   [3]: https://id.wikipedia.org/wiki/Ivan_Lanin
@@ -120,7 +120,8 @@ Kontribusi juga dapat dilakukan melalui [repositori Materi PUEBI][23] di [Github
 
 ## Daftar Tugas
 
-* [ ] Merampungkan Penyuntingan
+* [x] Merampungkan Penyuntingan
+* [ ] Merapikan suntingan
 * [ ] Membenahi halaman beranda
 * [ ] Memperbaiki halaman Tentang
     * [ ] Memperjelas penjabaran;
