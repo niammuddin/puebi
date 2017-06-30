@@ -55,50 +55,29 @@
 <div class="pasal">
 <p>Pasal 2<p>
 </div>
-
-Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Pendidikan Nasional Nomor 46 Tahun 2009 tentang Pedoman Umum Ejaan Bahasa Indonesia yang Disempurnakan dicabut dan dinyatakan tidak berlaku.
+<p>Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Pendidikan Nasional Nomor 46 Tahun 2009 tentang Pedoman Umum Ejaan Bahasa Indonesia yang Disempurnakan dicabut dan dinyatakan tidak berlaku.</p>
 
 <div class="pasal">
 <p>Pasal 3<p>
 </div>
-
-Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
-
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri Pendidikan dan Kebudayaan ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+<p>Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.</p>
+<p>Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri Pendidikan dan Kebudayaan ini dengan penempatannya dalam Berita Negara Republik Indonesia.</p>
 
 <div style="float:right;margin:3em 0em 5em 0em;clear:both;">
 <p style="margin-bottom:3em">Ditetapkan di Jakarta  
 <br>pada tanggal 26 November 2015</p>
 <p class="serif">MENTERI PENDIDIKAN DAN <br>KEBUDAYAAN  
-REPUBLIK INDONESIA,<br><br><br>TTD. <br><br>ANIES BASWEDAN</p>
-</div>
+REPUBLIK INDONESIA,<br><br><br>TTD. <br><br>ANIES BASWEDAN</p></div>
 
 <hr class="uud-sekat">
 
-Diundangkan di Jakarta  
-pada tanggal 30 November 2015
+<p>Diundangkan di Jakarta <br>pada tanggal 30 November 2015</p>
 
-<p class="serif">
-DIREKTUR JENDERAL <br>
-PERATURAN PERUNDANG-UNDANGAN <br>
-KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA  
-REPUBLIK INDONESIA,
-</p>
+<p class="serif">DIREKTUR JENDERAL <br>PERATURAN PERUNDANG-UNDANGAN <br>KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,</p>
 
-<p class="serif">
-TTD.
-<br><br>
-WIDODO EKATJAHJANA
-</p>
+<p class="serif">TTD. <br><br>WIDODO EKATJAHJANA</p>
 
-<p class="serif" style="margin-bottom:0em">
-BERITA NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 1788
-</p>
-<p style=margin:"0em 0em 2.5em 0em">
-Salinan sesuai dengan aslinya.<br>
-Kepala Biro Hukum dan Organisasi<br>
-Kementerian Pendidikan dan Kebudayaan,<br>
-</p>
+<p class="serif" style="margin-bottom:0em">BERITA NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 1788</p>
+<p style=margin:"0em 0em 2.5em 0em">Salinan sesuai dengan aslinya. <br>Kepala Biro Hukum dan Organisasi <br>Kementerian Pendidikan dan Kebudayaan,</p>
 
-Aris Soviyani  
-NIP 196112071986031001
+<p>Aris Soviyani <br>NIP 196112071986031001</p>

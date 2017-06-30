@@ -10,3 +10,5 @@ Semoga penerbitan _Pedoman Umum Ejaan Bahasa Indonesia_ secara langsung atau tid
 <p style="margin-bottom:3em">Jakarta, Maret 2016</p>
 <p>Prof. Dr. Dadang Sunendar, M.Hum.</p>
 </div>
+
+<div class="uud-sekat"></div>
