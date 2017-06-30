@@ -70,14 +70,14 @@ extra:
     tabs: false
   logo: 'aset/gambar/logo.svg'
   palette:
-    primary: 'light blue'
+    primary: 'blue'
     accent: 'red'
 ## Kolom Komentar
   disqus: 'acemughnie'
 ## Aksara
   font:
     text: 'Roboto'
-    code: 'Roboto Mono'
+    code: 'Ubuntu'
 ## Media Sosial
   social:
     - type: 'github-alt'
@@ -92,6 +92,7 @@ extra:
 extra_css:
   - 'ekstra/css-ekstra.css'
   - 'ekstra/tulis-css.css'
+  - 'ekstra/label.css'
 extra_javascript:
   - 'ekstra/js-ekstra.js'
 
