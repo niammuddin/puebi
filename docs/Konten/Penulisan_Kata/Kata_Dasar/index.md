@@ -1,6 +1,7 @@
 # Kata Dasar
 
-Kata dasar ditulis sebagai satu kesatuan.
+!!! summary " "
+    Kata dasar ditulis sebagai satu kesatuan.
 
 ???+ tip "Misal"
     Kantor pajak penuh sesak.  

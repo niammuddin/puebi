@@ -1,6 +1,7 @@
 # Huruf Konsonan
 
-Huruf yang melambangkan konsonan dalam bahasa Indonesia terdiri atas 21 huruf, yaitu _b_, _c_, _d_, _f_, _g_, _h_, _j_, _k_, _l_, _m_, _n_, _p_, _q_, _r_, _s_, _t_, _v_, _w_, _x_, _y_, dan _z_.
+!!! summary " "
+    Huruf yang melambangkan konsonan dalam bahasa Indonesia terdiri atas 21 huruf, yaitu *b*, *c*, *d*, *f*, *g*, *h*, *j*, *k*, *l*, *m*, *n*, *p*, *q*, *r*, *s*, *t*, *v*, *w*, *x*, *y*, dan *z*.
 
 <table>
   <colgroup>
@@ -143,4 +144,6 @@ Huruf yang melambangkan konsonan dalam bahasa Indonesia terdiri atas 21 huruf, y
 </table>
 
 ???+ note " * Keterangan"
-    Huruf _q_ dan _x_ khusus digunakan untuk nama diri dan keperluan ilmu. Huruf x pada posisi awal kata diucapkan \`s\`.
+    Huruf <span class="penanda">**q**</span> dan <span class="penanda">**x**</span> khusus digunakan untuk nama diri dan keperluan ilmu. Huruf <span class="penanda">**x**</span> pada posisi awal kata diucapkan <span class="penanda">**s**</span>.
+
+

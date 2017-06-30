@@ -1,10 +1,11 @@
-# Tanda Kurung <small>\``(...)`\`</small>
+# Tanda Kurung <small><span class="penanda">(...)</span></small>
 
 ## Keterangan
 
 ### Penjelas
 
-Tanda kurung dipakai untuk mengapit tambahan keterangan atau penjelasan.
+!!! summary " "
+    Tanda kurung dipakai untuk mengapit tambahan keterangan atau penjelasan.
 
 ???+ tip "Misal"
     Dia memperpanjang surat izin mengemudi (SIM).
@@ -13,18 +14,20 @@ Tanda kurung dipakai untuk mengapit tambahan keterangan atau penjelasan.
  
     Lokakarya (_workshop_) itu diadakan di Manado.
 
-### Penambahan
+### Tambahan
 
-Tanda kurung dipakai untuk mengapit keterangan atau penjelasan yang bukan bagian utama kalimat.
+!!! summary " "
+    Tanda kurung dipakai untuk mengapit keterangan atau penjelasan yang bukan bagian utama kalimat.
 
 ???+ tip "Misal"
     Sajak Tranggono yang berjudul “Ubud” (nama tempat yang terkenal di Bali) ditulis pada tahun 1962.
 
     Keterangan itu (lihat Tabel 10) menunjukkan arus perkembangan baru pasar dalam negeri.
 
-### Ketidakmutlakan
+### Tidak Mutlak
 
-Tanda kurung dipakai untuk mengapit huruf atau kata yang keberadaannya di dalam teks dapat dimunculkan atau dihilangkan.
+!!! summary " "
+    Tanda kurung dipakai untuk mengapit huruf atau kata yang keberadaannya di dalam teks dapat dimunculkan atau dihilangkan.
 
 ???+ tip "Misal"
     Dia berangkat ke kantor selalu menaiki (bus) Transjakarta.
@@ -33,7 +36,8 @@ Tanda kurung dipakai untuk mengapit huruf atau kata yang keberadaannya di dalam 
 
 ## Pemerincian
 
-Tanda kurung dipakai untuk mengapit huruf atau angka yang digunakan sebagai penanda pemerincian.
+!!! summary " "
+    Tanda kurung dipakai untuk mengapit huruf atau angka yang digunakan sebagai penanda pemerincian.
 
 ???+ tip "Misal"
     Faktor produksi menyangkut (a) bahan baku, (b) biaya produksi, dan \(c) tenaga kerja.

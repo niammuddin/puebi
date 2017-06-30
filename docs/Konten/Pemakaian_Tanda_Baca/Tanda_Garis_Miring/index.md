@@ -1,8 +1,9 @@
-# Tanda Garis Miring <small>\``/`\`</small>
+# Tanda Garis Miring <small><span class="penanda">/</span></small>
 
 ## Penomoran
 
-Tanda garis miring dipakai dalam nomor surat, nomor pada alamat, dan penandaan masa satu tahun yang terbagi dalam dua tahun takwim.
+!!! summary " "
+    Tanda garis miring dipakai dalam nomor surat, nomor pada alamat, dan penandaan masa satu tahun yang terbagi dalam dua tahun takwim.
 
 ???+ tip "Misal"
       Nomor: 7/PK/II/2013  
@@ -11,7 +12,8 @@ Tanda garis miring dipakai dalam nomor surat, nomor pada alamat, dan penandaan m
 
 ## Pengganti
 
-Tanda garis miring dipakai sebagai pengganti kata _dan_, _atau_, serta _setiap_.
+!!! summary " "
+    Tanda garis miring dipakai sebagai pengganti kata _dan_, _atau_, serta _setiap_.
 
 ???+ tip "Misal"
     <table>
@@ -35,7 +37,8 @@ Tanda garis miring dipakai sebagai pengganti kata _dan_, _atau_, serta _setiap_.
 
 ## Pengoreksian
 
-Tanda garis miring dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau pengurangan atas kesalahan atau kelebihan di dalam naskah asli yang ditulis orang lain.
+!!! summary " "
+    Tanda garis miring dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau pengurangan atas kesalahan atau kelebihan di dalam naskah asli yang ditulis orang lain.
 
 ???+ tip "Misal"
       Buku Pengantar _Ling/g/uistik_ karya Verhaar dicetak
@@ -44,6 +47,6 @@ Tanda garis miring dipakai untuk mengapit huruf, kata, atau kelompok kata sebaga
       _Asmara/n/dana_ merupakan salah satu tembang
         maca-pat budaya Jawa.
 
-      Dia sedang menyelesaikan /h/utangnya di bank.
+      Dia sedang menyelesaikan */h/utangnya* di bank.
 
 

@@ -1,6 +1,7 @@
 # Gabungan Huruf Konsonan
 
-Gabungan huruf konsonan _kh_, _ng_, _ny_, dan _sy_ masing-masing melambangkan satu bunyi konsonan.
+!!! summary " "
+    Gabungan huruf konsonan _kh_, _ng_, _ny_, dan _sy_ masing-masing melambangkan satu bunyi konsonan.
 
 <table>
   <colgroup>

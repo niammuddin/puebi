@@ -1,8 +1,9 @@
-# Tanda Hubung <small>\``-`\`</small>
+# Tanda Hubung <small><span class="penanda">-</span></small>
 
 ## Pergantian Baris
 
-Tanda hubung dipakai untuk menandai bagian kata yang terpenggal oleh pergantian baris.
+!!! summary " "
+    Tanda hubung dipakai untuk menandai bagian kata yang terpenggal oleh pergantian baris.
 
 ???+ tip "Misal"
     Di samping cara lama, diterapkan juga  *ca-  
@@ -17,7 +18,8 @@ Tanda hubung dipakai untuk menandai bagian kata yang terpenggal oleh pergantian 
     Parut jenis ini memudahkan kita  *me-
     ngukur* kelapa.
 
-Tanda hubung dipakai untuk menyambung unsur kata ulang.
+!!! summary " "
+    Tanda hubung dipakai untuk menyambung unsur kata ulang.
 
 ???+ tip "Misal"
     anak-anak  
@@ -25,74 +27,79 @@ Tanda hubung dipakai untuk menyambung unsur kata ulang.
     kemerah-merahan  
     mengorek-ngorek
 
-## Penghubung <small>Tanggal & Pengejaan</small>
+## Tanggal & Pengejaan
 
-Tanda hubung dipakai untuk menyambung tanggal, bulan, dan tahun yang dinyatakan dengan angka atau menyambung huruf dalam kata yang dieja satu-satu.
+!!! summary " "
+    Tanda hubung dipakai untuk menyambung tanggal, bulan, dan tahun yang dinyatakan dengan angka atau menyambung huruf dalam kata yang dieja satu-satu.
 
 ???+ tip "Misal"
     11-11-2013  
     p-a-n-i-t-i-a
 
-## Hubungan Kata/Ungkapan
+## Kata atau Ungkapan
 
-Tanda hubung dapat dipakai untuk memperjelas hubungan bagian kata atau ungkapan.
+!!! summary " "
+    Tanda hubung dapat dipakai untuk memperjelas hubungan bagian kata atau ungkapan.
 
 
-  <!---------------
-  Menyisipkan  *Mathjax JavaScript* guna mengenakan  
-  **Arithmatex**.
-  --------------->
+  <!--- Menyisipkan *Mathjax.js* guna memakai **Arithmatex**. --->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
+
 ???+ tip "Misal"
-    ber-evolusi  
-    meng-ukur
+    ber-*evolusi*  
+    meng-*ukur*
 
-    dua-puluh-lima ribuan (25 x 1.000)
+    *dua-puluh-lima* ribuan ($25 x 1.000$)
 
-    $\frac{23}{25}$ (dua-puluh-tiga perdua-puluh-lima)
+    $\frac{23}{25}$ (*dua-puluh-tiga* *perdua-puluh-lima*)
 
-    mesin hitung-tangan
+    mesin *hitung-tangan*
 
     ***
 
     **Bandingkan** dengan  
-    be-revolusi  
-    me-ngukur
+    be-*revolusi*  
+    me-*ngukur*
 
-    dua-puluh lima-ribuan (20 x 5.000)
+    dua-puluh *lima-ribuan* ($20 x 5.000$)
 
-    $20 \frac{3}{25}$ (dua-puluh tiga perdua-puluh-lima)
+    $20 \frac{3}{25}$ (dua-puluh *tiga* perdua-puluh-lima)
 
-    mesin-hitung tangan
+    *mesin-hitung* tangan
 
 ## Perangkai
 
-<p class="sblm-dftr">Tanda hubung dipakai untuk merangkai</p>
+### Imbuhan
 
-<ol type="a" style="margin-top:.15em" markdown="1">
-<li><em>se</em>- dengan kata berikutnya yang dimulai dengan huruf     kapital (<em>se</em>-Indonesia, <em>se</em>-Jawa Barat);</li>
-<li><em>ke</em>- dengan angka (peringkat <em>ke</em>-2);</li>
-<li>angka dengan -<em>an</em> (tahun 1950-<em>an</em>);</li>
-<li>kata atau imbuhan dengan singkatan yang berupa huruf kapital (hari-<em>H</em>, sinar-<em>X</em>, ber-<em>KTP</em>, di-<em>SK</em>-kan);</li>
-<li>kata dengan kata ganti Tuhan (ciptaan- Nya, atas rahmat-<em>Mu</em>);</li>
-<li>huruf dan angka (D-3, S-1, S-2); dan</li>
-<li>kata ganti -<em>ku</em>, -<em>mu</em>, dan -<em>nya</em> dengan singkatan yang berupa huruf kapital (KTP-<em>mu</em>, SIM-<em>nya</em>, STNK-<em>ku</em>).</li>
-</ol>
+!!! summary " "
+    <p class="sblm-dftr">Tanda hubung dipakai untuk merangkai</p>
 
-???+ summary "Catatan"
-    Tanda hubung tidak dipakai di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf.
+    <ol type="a" style="margin-top:.15em">
+    <li><em>se</em>- dengan kata berikutnya yang dimulai dengan huruf kapital (<em>se</em>-Indonesia, <em>se</em>-Jawa Barat);</li>
+    <li><em>ke</em>- dengan angka (peringkat <em>ke</em>-2);</li>
+    <li>angka dengan -<em>an</em> (tahun 1950-<em>an</em>);</li>
+    <li>kata atau imbuhan dengan singkatan yang berupa huruf kapital (hari-<em>H</em>, sinar-<em>X</em>, ber-<em>KTP</em>, di-<em>SK</em>-kan);</li>
+    <li>kata dengan kata ganti Tuhan (ciptaan- Nya, atas rahmat-<em>Mu</em>);</li>
+    <li>huruf dan angka (D-3, S-1, S-2); dan</li>
+    <li>kata ganti -<em>ku</em>, -<em>mu</em>, dan -<em>nya</em> dengan singkatan yang berupa huruf kapital (KTP-<em>mu</em>, SIM-<em>nya</em>, STNK-<em>ku</em>).</li>
+    </ol>
 
-    !!! tip "Misal"
-        BNP2TKI ( *B*adan  *N*asional  *P*enempatan dan  *P*erlindungan  *T*enaga  *K*erja  *I*ndonesia)
+???+ note "Catatan"
+    !!! warning " "
+        Tanda hubung tidak dipakai di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf.
 
-        LP3I ( *L*embaga  *P*endidikan dan  *P*engembangan  *P*rofesi  *I*ndonesia)
+    **Misal**  
+    BNP2TKI ( *B*adan  *N*asional  *P*enempatan dan  *P*erlindungan  *T*enaga  *K*erja  *I*ndonesia)
 
-        P3K ( *p*ertolongan  *p*ertama  *p*ada  *k*ecelakaan)
+    LP3I ( *L*embaga  *P*endidikan dan  *P*engembangan  *P*rofesi  *I*ndonesia)
 
-## Unsur Bahasa Asing
+    P3K ( *p*ertolongan  *p*ertama  *p*ada  *k*ecelakaan)
 
-Tanda hubung dipakai untuk merangkai unsur bahasa Indonesia dengan unsur bahasa daerah atau bahasa asing.
+### Unsur Bahasa Asing
+
+!!! summary " "
+    Tanda hubung dipakai untuk merangkai unsur bahasa Indonesia dengan unsur bahasa daerah atau bahasa asing.
 
 ???+ tip "Misal"
     di*-sowan-*i (bahasa Jawa, ‘didatangi’)
@@ -105,7 +112,8 @@ Tanda hubung dipakai untuk merangkai unsur bahasa Indonesia dengan unsur bahasa 
 
 ## Bentuk Terikat
 
-Tanda hubung digunakan untuk menandai bentuk terikat yang menjadi objek bahasan.
+!!! summary " "
+    Tanda hubung digunakan untuk menandai bentuk terikat yang menjadi objek bahasan.
 
 ???+ tip "Misal"
     Kata  *pasca*-  berasal dari bahasa Sanskerta.  

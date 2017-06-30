@@ -1,8 +1,9 @@
-# Tanda Pisah <small>\``—`\`</small>
+# Tanda Pisah <small><span class="penanda">—</span></small>
 
 ## Penjelas
 
-Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang memberi penjelasan di luar bangun kalimat.
+!!! summary " "
+    Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang memberi penjelasan di luar bangun kalimat.
 
 ???+ tip "Misal"
     Kemerdekaan bangsa itu—saya yakin akan tercapai—diperjuangkan oleh bangsa itu sendiri.
@@ -11,7 +12,8 @@ Tanda pisah dapat dipakai untuk membatasi penyisipan kata atau kalimat yang memb
 
 ## Penegas
 
-Tanda pisah dapat dipakai juga untuk menegaskan adanya keterangan aposisi atau keterangan yang lain.
+!!! summary " "
+    Tanda pisah dapat dipakai juga untuk menegaskan adanya keterangan aposisi atau keterangan yang lain.
 
 ???+ tip "Misal"
     Soekarno-Hatta—Proklamator Kemerdekaan RI—diabadikan menjadi nama bandar udara internasional.
@@ -22,7 +24,8 @@ Tanda pisah dapat dipakai juga untuk menegaskan adanya keterangan aposisi atau k
 
 ## Bermakna <small>Sampai ke/dengan</small>
 
-Tanda pisah dipakai di antara dua bilangan, tanggal, atau tempat yang berarti ‘sampai dengan’ atau ‘sampai ke’.
+!!! summary " "
+    Tanda pisah dipakai di antara dua bilangan, tanggal, atau tempat yang berarti ‘sampai dengan’ atau ‘sampai ke’.
 
 ???+ tip "Misal"
     Tahun 2010—2013  

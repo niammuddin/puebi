@@ -3,7 +3,8 @@
 
 ## Nama Orang
 
-Singkatan nama orang, gelar, sapaan, jabatan, atau pangkat diikuti dengan tanda titik pada setiap unsur singkatan itu.
+!!! summary " "
+    Singkatan nama orang, gelar, sapaan, jabatan, atau pangkat diikuti dengan tanda titik pada setiap unsur singkatan itu.
 
 ???+ tip "Misal"
     <table>
@@ -63,7 +64,8 @@ Singkatan nama orang, gelar, sapaan, jabatan, atau pangkat diikuti dengan tanda 
 
 ## Nama Kelembagaan
 
-Singkatan yang terdiri atas huruf awal setiap kata nama lembaga pemerintah dan ketatanegaraan, lembaga pendidikan, badan atau organisasi, serta nama dokumen resmi ditulis dengan huruf kapital tanpa tanda titik.
+!!! summary " "
+    Singkatan yang terdiri atas huruf awal setiap kata nama lembaga pemerintah dan ketatanegaraan, lembaga pendidikan, badan atau organisasi, serta nama dokumen resmi ditulis dengan huruf kapital tanpa tanda titik.
 
 ???+ tip "Misal"
     <table>
@@ -95,7 +97,8 @@ Singkatan yang terdiri atas huruf awal setiap kata nama lembaga pemerintah dan k
 
 ## Huruf Awal & Nama Diri
 
-Singkatan yang terdiri atas huruf awal setiap kata yang bukan nama diri ditulis dengan huruf kapital tanpa tanda titik.
+!!! summary " "
+    Singkatan yang terdiri atas huruf awal setiap kata yang bukan nama diri ditulis dengan huruf kapital tanpa tanda titik.
 
 ???+ tip "Misal"
     <table>
@@ -127,7 +130,8 @@ Singkatan yang terdiri atas huruf awal setiap kata yang bukan nama diri ditulis 
 
 ## Terdiri Dari Tiga Huruf
 
-Singkatan yang terdiri atas tiga huruf atau lebih diikuti dengan tanda titik.
+!!! summary " "
+    Singkatan yang terdiri atas tiga huruf atau lebih diikuti dengan tanda titik.
 
 ???+ tip "Misal"
     <table>
@@ -171,7 +175,8 @@ Singkatan yang terdiri atas tiga huruf atau lebih diikuti dengan tanda titik.
 
 ## Dua Huruf
 
-Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat masing-masing diikuti oleh tanda titik.
+!!! summary " "
+    Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat masing-masing diikuti oleh tanda titik.
 
 ???+ tip "Misal"
     <table>
@@ -199,7 +204,8 @@ Singkatan yang terdiri atas dua huruf yang lazim dipakai dalam surat-menyurat ma
 
 ## Lambang Kimia & Satuan Ukuran
 
-Lambang kimia, singkatan satuan ukuran, takaran, timbangan, dan mata uang tidak diikuti tanda titik.
+!!! summary " "
+    Lambang kimia, singkatan satuan ukuran, takaran, timbangan, dan mata uang tidak diikuti tanda titik.
 
 ???+ tip "Misal"
     <table>
@@ -235,7 +241,8 @@ Lambang kimia, singkatan satuan ukuran, takaran, timbangan, dan mata uang tidak 
 
 #### Huruf Awal
 
-Akronim nama diri yang terdiri atas huruf awal setiap kata ditulis dengan huruf kapital tanpa tanda titik.
+!!! summary " "
+    Akronim nama diri yang terdiri atas huruf awal setiap kata ditulis dengan huruf kapital tanpa tanda titik.
 
 ???+ tip "Misal"
     <table>
@@ -263,7 +270,8 @@ Akronim nama diri yang terdiri atas huruf awal setiap kata ditulis dengan huruf 
 
 #### Gabungan Suku Kata
 
-Akronim nama diri yang berupa gabungan suku kata atau gabungan huruf dan suku kata dari deret kata ditulis dengan huruf awal kapital.
+!!! summary " "
+    Akronim nama diri yang berupa gabungan suku kata atau gabungan huruf dan suku kata dari deret kata ditulis dengan huruf awal kapital.
 
 ???+ tip "Misal"
     <table>
@@ -296,7 +304,8 @@ Akronim nama diri yang berupa gabungan suku kata atau gabungan huruf dan suku ka
 
 ### Bukan Nama Diri
 
-Akronim bukan nama diri yang berupa gabungan huruf awal dan suku kata atau gabungan suku kata ditulis dengan huruf kecil.
+!!! summary " "
+    Akronim bukan nama diri yang berupa gabungan huruf awal dan suku kata atau gabungan suku kata ditulis dengan huruf kecil.
 
 ???+ tip "Misal"
     <table>

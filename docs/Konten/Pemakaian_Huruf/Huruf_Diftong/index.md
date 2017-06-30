@@ -1,6 +1,7 @@
 # Huruf Diftong
 
-Di dalam bahasa Indonesia terdapat empat diftong yang dilambangkan dengan gabungan huruf vokal _ai_, _au_, _ei_, dan _oi_.
+!!! summary " "
+    Di dalam bahasa Indonesia terdapat empat diftong yang dilambangkan dengan gabungan huruf vokal _ai_, _au_, _ei_, dan _oi_.
 
 <table>
   <colgroup>

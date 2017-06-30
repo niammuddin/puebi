@@ -1,6 +1,7 @@
 # Kata Depan
 
-Kata depan, seperti _di_, _ke_, dan _dari_, ditulis terpisah dari kata yang mengikutinya.
+!!! summary " "
+    Kata depan, seperti _di_, _ke_, dan _dari_, ditulis terpisah dari kata yang mengikutinya.
 
 ???+ tip "Misal"
     _Di_ mana dia sekarang?

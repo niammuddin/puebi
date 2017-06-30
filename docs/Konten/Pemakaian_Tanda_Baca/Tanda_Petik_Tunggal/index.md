@@ -1,8 +1,11 @@
-# Tanda Petik Tunggal <small>\``‘...’`\`</small>
+
+
+# Tanda Petik Tunggal <small><span class="penanda">‘...’</span></small>
 
 ## Petikan Bersarang
 
-Tanda petik tunggal dipakai untuk mengapit petikan yang terdapat dalam petikan lain.
+!!! summary " "
+    Tanda petik tunggal dipakai untuk mengapit petikan yang terdapat dalam petikan lain.
 
 ???+ tip "Misal"
     Tanya dia, “Kaudengar bunyi ‘kring-kring’ tadi?”
@@ -13,7 +16,8 @@ Tanda petik tunggal dipakai untuk mengapit petikan yang terdapat dalam petikan l
 
 ## Penjelas
 
-Tanda petik tunggal dipakai untuk mengapit makna, terjemahan, atau penjelasan kata atau ungkapan.
+!!! summary " "
+    Tanda petik tunggal dipakai untuk mengapit makna, terjemahan, atau penjelasan kata atau ungkapan.
 
 ???+ tip "Misal"
     <table>
@@ -54,5 +58,4 @@ Tanda petik tunggal dipakai untuk mengapit makna, terjemahan, atau penjelasan ka
         <td>‘politik uang’</td>
       </tr>
     </table>
-
 

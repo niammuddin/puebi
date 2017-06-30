@@ -1,8 +1,9 @@
-# Tanda Tanya <small>\``?`\`</small>
+# Tanda Tanya <small><span class="penanda">?</span></small>
 
 ## Kalimat Tanya
 
-Tanda tanya dipakai pada akhir kalimat tanya.
+!!! summary " "
+    Tanda tanya dipakai pada akhir kalimat tanya.
 
 ???+ tip "Misal"
       Kapan Hari Pendidikan Nasional diperingati?
@@ -11,7 +12,8 @@ Tanda tanya dipakai pada akhir kalimat tanya.
 
 ## Kesangsian
 
-Tanda tanya dipakai di dalam tanda kurung untuk menyatakan bagian kalimat yang disangsikan atau yang kurang dapat dibuktikan kebenarannya.
+!!! summary " "
+    Tanda tanya dipakai di dalam tanda kurung untuk menyatakan bagian kalimat yang disangsikan atau yang kurang dapat dibuktikan kebenarannya.
 
 ???+ tip "Misal"
     Monumen Nasional mulai dibangun pada tahun 1961 (?).

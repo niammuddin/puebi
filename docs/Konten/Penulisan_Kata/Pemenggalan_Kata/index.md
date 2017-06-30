@@ -4,78 +4,87 @@
 
 Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 
-???+ success " "
+### Huruf Vokal
+
+!!! summary " "
     Jika di tengah kata terdapat huruf vokal yang berurutan, pemenggalannya dilakukan di antara kedua huruf vokal itu.
 
-    !!! tip "Misal"
-        b<em>u-a</em>h  
-        m<em>a-i</em>n  
-        n<em>i-a</em>t  
-        s<em>a-a</em>t
+???+ tip "Misal"
+    b<em>u-a</em>h  
+    m<em>a-i</em>n  
+    n<em>i-a</em>t  
+    s<em>a-a</em>t
 
+### Huruf Diftong
+
+!!! summary " "
     Huruf diftong <em>ai</em>, <em>au</em> <em>ei</em>, dan <em>oi</em> tidak dipenggal.
 
-    !!! tip "Misal"
-        pan-d<em>ai</em>  
-        <em>au</em>-la  
-        s<em>au</em>-da-ra  
-        sur-v<em>ei</em>  
-        am-b<em>oi</em>
+???+ tip "Misal"
+    pan-d<em>ai</em>  
+    <em>au</em>-la  
+    s<em>au</em>-da-ra  
+    sur-v<em>ei</em>  
+    am-b<em>oi</em>
 
-    Jika di tengah kata dasar terdapat huruf konsonan 
-    (termasuk gabungan huruf konsonan) di antara dua
-    huruf vokal, pemenggalannya dilakukan sebelum huruf
-    konsonan itu.
+### Huruf Konsonan
 
-    !!! tip "Misal"
-        b<em>a-p</em>ak  
-        l<em>a-w</em>an  
-        d<em>e-n</em>gan  
-        k<em>e-n</em>yang  
-        m<em>u-ta-kh</em>ir  
-        m<em>u-sya</em>-wa-<em>r</em>ah
+#### Antara Dua Vokal
 
-    Jika di tengah kata dasar terdapat dua huruf konsonan
-    yang berurutan, pemenggalannya dilakukan di antara kedua
-    huruf konsonan itu.
+!!! summary " "
+    Jika di tengah kata dasar terdapat huruf konsonan (termasuk gabungan huruf konsonan) di antara dua huruf vokal, pemenggalannya dilakukan sebelum huruf konsonan itu.
 
-    !!! tip "Misal"
-        A<em>p-r</em>il  
-        ca<em>p-l</em>ok  
-        ma<em>kh-l</em>uk  
-        ma<em>n-d</em>i  
-        sa<em>ng-g</em>up  
-        so<em>m-b</em>ong  
-        swa<em>s-t</em>a
+???+ tip "Misal"
+    b<em>a-p</em>ak  
+    l<em>a-w</em>an  
+    d<em>e-n</em>gan  
+    k<em>e-n</em>yang  
+    m<em>u-ta-kh</em>ir  
+    m<em>u-sya</em>-wa-<em>r</em>ah
 
-    Jika di tengah kata dasar terdapat tiga huruf konsonan
-    atau lebih yang masing-masing melambangkan satu
-    bunyi, pemenggalannya dilakukan di antara huruf kon-
-    sonan yang pertama dan huruf konsonan yang kedua.
+#### Dua Konsonan Berurutan
 
-    !!! tip "Misal"
-        u<em>l-t</em>ra  
-        i<em>n-f</em>ra  
-        be<em>n-t</em>rok  
-        i<em>n-s</em>tru-men
+!!! summary " "
+    Jika di tengah kata dasar terdapat dua huruf konsonan yang berurutan, pemenggalannya dilakukan di antara kedua huruf konsonan itu.
 
-    !!! summary "Catatan"
-        Gabungan huruf konsonan yang melambangkan satu
-        bunyi tidak dipenggal.
+???+ tip "Misal"
+    A<em>p-r</em>il  
+    ca<em>p-l</em>ok  
+    ma<em>kh-l</em>uk  
+    ma<em>n-d</em>i  
+    sa<em>ng-g</em>up  
+    so<em>m-b</em>ong  
+    swa<em>s-t</em>a
 
-        ???+ tip "Misal"
-            ba<em>ng</em>-krut  
-            ba<em>ng</em>-sa  
-            ba-<em>ny</em>ak  
-            i<em>kh</em>-las  
-            ko<em>ng</em>-res  
-            ma<em>kh</em>-luk  
-            ma<em>sy</em>-hur  
-            sa<em>ng</em>-gup
+#### Tiga Konsonan
+
+!!! summary " "
+    Jika di tengah kata dasar terdapat tiga huruf konsonan atau lebih yang masing-masing melambangkan satu bunyi, pemenggalannya dilakukan di antara huruf konsonan yang pertama dan huruf konsonan yang kedua.
+
+???+ tip "Misal"
+    u<em>l-t</em>ra  
+    i<em>n-f</em>ra  
+    be<em>n-t</em>rok  
+    i<em>n-s</em>tru-men
+
+???+ note "Catatan"
+    !!! warning " "
+        Gabungan huruf konsonan yang melambangkan satu bunyi tidak dipenggal.
+
+        **Misal**  
+        ba<em>ng</em>-krut  
+        ba<em>ng</em>-sa  
+        ba-<em>ny</em>ak  
+        i<em>kh</em>-las  
+        ko<em>ng</em>-res  
+        ma<em>kh</em>-luk  
+        ma<em>sy</em>-hur  
+        sa<em>ng</em>-gup
 
 ## Kata Turunan
 
-Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan unsur pembentuknya.
+!!! summary " "
+    Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan unsur pembentuknya.
 
 ???+ tip "Misal"
     <table>
@@ -119,11 +128,12 @@ Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan u
         <td>kekuat-an</td>
       </tr>
     </table>
-???+ summary "Catatan"
-    Pemenggalan kata berimbuhan yang bentuk dasarnya  
-    mengalami perubahan dilakukan seperti pada kata dasar.
 
-    !!! tip "Misal"
+???+ note "Catatan"
+    !!! summary " "
+        Pemenggalan kata berimbuhan yang bentuk dasarnya mengalami perubahan dilakukan seperti pada kata dasar.
+
+        **Misal**  
         <em>me-nu</em>-tup  
         <em>me-ma</em>-kai  
         <em>me-nya</em>-pu  
@@ -134,28 +144,28 @@ Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan u
         <em>pe-nge</em>-tik  
         <em>pe-nye</em>-but
 
-    Pemenggalan kata bersisipan dilakukan seperti pada
-    kata dasar.
+    !!! summary " "
+        Pemenggalan kata bersisipan dilakukan seperti pada kata dasar.
 
-    !!! tip "Misal"
+        **Misal**  
         ge-lem-bung  
         ge-mu-ruh  
         ge-ri-gi  
         si-nam-bung  
         te-lun-juk
 
-    Pemenggalan kata yang menyebabkan munculnya satu
-    huruf di awal atau akhir baris tidak dilakukan.
+    !!! summary " "
+        Pemenggalan kata yang menyebabkan munculnya satu huruf di awal atau akhir baris tidak dilakukan.
 
-    !!! tip "Misal"
-        Beberapa pendapat mengenai masalah <em>i</em>tu telah
-        disampaikan ….  
-        Walaupun cuma-cuma, mereka tidak ma<em>u</em>
-        mengambil makanan itu.
+        **Misal**  
+        Beberapa pendapat mengenai masalah <em>i</em>tu telah disampaikan ….
+
+        Walaupun cuma-cuma, mereka tidak ma<em>u</em> mengambil makanan itu.
 
 ## Dua Unsur Kata
 
-Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu dapat bergabung dengan unsur lain, pemenggalannya dilakukan di antara unsur-unsur itu. Tiap unsur gabungan itu dipenggal seperti pada kata dasar.
+!!! summary " "
+    Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu dapat bergabung dengan unsur lain, pemenggalannya dilakukan di antara unsur-unsur itu. Tiap unsur gabungan itu dipenggal seperti pada kata dasar.
 
 ???+ tip "Misal"
     <table>
@@ -207,7 +217,8 @@ Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu d
     </table>
 ## Nama Orang
 
-Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara unsur-unsurnya.
+!!! summary " "
+    Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara unsur-unsurnya.
 
 ???+ tip "Misal"
     Lagu “Indonesia Raya” digubah oleh Wage Rudolf  
@@ -218,19 +229,23 @@ Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di 
 
 ## Singkatan Nama
 
-Singkatan nama diri dan gelar yang terdiri atas dua huruf atau lebih tidak dipenggal.
+!!! summary " "
+    Singkatan nama diri dan gelar yang terdiri atas dua huruf atau lebih tidak dipenggal.
 
 ???+ tip "Misal"
-    Ia bekerja di DLLAJR.
+    !!! success " "
+        Ia bekerja di *DLLAJR*.
 
-    Pujangga terakhir Keraton Surakarta bergelar R.Ng.
-    Rangga Warsita.
+        Pujangga terakhir Keraton Surakarta bergelar *R.Ng.*
+        Rangga Warsita.
 
-???+ warning "Catatan"
-    Penulisan berikut dihindari.
+    !!! warning " "
+        **Penulisan berikut dihindari.**
 
-    Ia bekerja di DLL-AJR.
+        Ia bekerja di *DLL-  
+        AJR*.
 
-    Pujangga terakhir Keraton Surakarta bergelar R.Ng. Rangga Warsita.
+        Pujangga terakhir Keraton Surakarta bergelar *R.  
+        Ng.* Rangga Warsita.
 
 

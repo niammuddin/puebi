@@ -1,8 +1,9 @@
-# Tanda Koma <small>\``,`\`</small>
+# Tanda Koma <small><span class="penanda">,</span></small>
 
 ## Perincian
 
-Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilangan.
+!!! summary " "
+    Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilangan.
 
 ???+ tip "Misal"
     Telepon seluler, komputer, atau internet bukan barang asing lagi.
@@ -13,7 +14,8 @@ Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilanga
 
 ## Kalimat Majemuk  <small>Setara</small>
 
-Tanda koma dipakai sebelum kata penghubung, seperti *tetapi*, *melainkan*, dan *sedangkan*, dalam kalimat majemuk (setara).
+!!! summary " "
+    Tanda koma dipakai sebelum kata penghubung, seperti *tetapi*, *melainkan*, dan *sedangkan*, dalam kalimat majemuk (setara).
 
 ???+ tip "Misal"
     Saya ingin membeli kamera, *tetapi* uang saya belum cukup.
@@ -24,7 +26,8 @@ Tanda koma dipakai sebelum kata penghubung, seperti *tetapi*, *melainkan*, dan *
 
 ## Pemisah <small>Anak Kalimat</small>
 
-Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatnya.
+!!! summary " "
+    Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatnya.
 
 ???+ tip "Misal"
     Kalau diundang, saya akan datang.
@@ -33,10 +36,11 @@ Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatny
 
     Agar memiliki wawasan yang luas, kita harus banyak membaca buku.
 
-???+ summary "Catatan"
-    Tanda koma *tidak* dipakai jika induk kalimat mendahului anak kalimat.
+???+ note "Catatan"
+    !!! warning " "
+        Tanda koma *tidak* dipakai jika induk kalimat mendahului anak kalimat.
 
-    !!! tip "Misal"
+        **Misal**  
         Saya akan datang kalau diundang.
 
         Dia mempunyai banyak teman karena baik hati.
@@ -45,7 +49,8 @@ Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatny
 
 ## Ungkapan <small>Penghubung</small>
 
-Tanda koma dipakai di belakang kata atau ungkapan penghubung antarkalimat, seperti *oleh karena itu*, *jadi*, *dengan demikian*, *sehubungan dengan itu*, dan *meskipun demikian*.
+!!! summary " "
+    Tanda koma dipakai di belakang kata atau ungkapan penghubung antarkalimat, seperti *oleh karena itu*, *jadi*, *dengan demikian*, *sehubungan dengan itu*, dan *meskipun demikian*.
 
 ???+ tip "Misal"
     Mahasiswa itu rajin dan pandai. *Oleh karena itu*, dia memperoleh beasiswa belajar di luar negeri.
@@ -57,7 +62,8 @@ Tanda koma dipakai di belakang kata atau ungkapan penghubung antarkalimat, seper
 
 ## Seruan <small>atau</small> Sapaan
 
-Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti *o*, *ya*, *wah*, *aduh*, atau *hai*, dan kata yang dipakai sebagai sapaan, seperti *Bu*, *Dik*, atau *Nak*.
+!!! summary " "
+    Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti *o*, *ya*, *wah*, *aduh*, atau *hai*, dan kata yang dipakai sebagai sapaan, seperti *Bu*, *Dik*, atau *Nak*.
 
 ???+ tip "Misal"
     *O*, begitu?  
@@ -69,17 +75,19 @@ Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti *o*, *ya*, *wah*,
 
 ## Petikan Langsung
 
-Tanda koma dipakai untuk memisahkan petikan langsung dari bagian lain dalam kalimat.
+!!! summary " "
+    Tanda koma dipakai untuk memisahkan petikan langsung dari bagian lain dalam kalimat.
 
 ???+ tip "Misal"
     Kata nenek saya, “Kita harus berbagi dalam hidup ini.”
 
     “Kita harus berbagi dalam hidup ini,” kata nenek saya, “karena manusia adalah makhluk sosial.”
 
-???+ summary "Catatan"
-    Tanda koma *tidak* dipakai untuk memisahkan petikan langsung yang berupa kalimat tanya, kalimat perintah, atau kalimat seru dari bagian lain yang mengikutinya.
+???+ note "Catatan"
+    !!! warning " "
+        Tanda koma *tidak* dipakai untuk memisahkan petikan langsung yang berupa kalimat tanya, kalimat perintah, atau kalimat seru dari bagian lain yang mengikutinya.
 
-    !!! tip "Misal"
+        **Misal**  
         “Di mana Saudara tinggal?” tanya Pak Lurah.
 
         “Masuk ke dalam kelas sekarang!” perintahnya.
@@ -88,7 +96,8 @@ Tanda koma dipakai untuk memisahkan petikan langsung dari bagian lain dalam kali
 
 ## Alamat
 
-Tanda koma dipakai di antara (a) nama dan alamat, (b) bagian-bagian alamat, \(c) tempat dan tanggal, serta (d) nama tempat dan wilayah atau negeri yang ditulis berurutan.
+!!! summary " "
+    Tanda koma dipakai di antara (a) nama dan alamat, (b) bagian-bagian alamat, \(c) tempat dan tanggal, serta (d) nama tempat dan wilayah atau negeri yang ditulis berurutan.
 
 ???+ tip "Misal"
     Sdr. Abdullah, Jalan Kayumanis III/18, Kelurahan Kayumanis, Kecamatan Matraman, Jakarta 13130
@@ -100,7 +109,8 @@ Tanda koma dipakai di antara (a) nama dan alamat, (b) bagian-bagian alamat, \(c)
 
 ## Daftar Pustaka
 
-Tanda koma dipakai untuk memisahkan bagian nama yang dibalik susunannya dalam daftar pustaka.
+!!! summary " "
+    Tanda koma dipakai untuk memisahkan bagian nama yang dibalik susunannya dalam daftar pustaka.
 
 ???+ tip "Misal"
     <p class="pustaka">Gunawan, Ilham. 1984. <em>Kamus Politik Internasional</em>. Jakarta: Restu Agung.</p>
@@ -111,7 +121,8 @@ Tanda koma dipakai untuk memisahkan bagian nama yang dibalik susunannya dalam da
 
 ## Catatan Kaki
 
-Tanda koma dipakai di antara bagian-bagian dalam catatan kaki atau catatan akhir.
+!!! summary " "
+    Tanda koma dipakai di antara bagian-bagian dalam catatan kaki atau catatan akhir.
 
 ???+ tip "Misal"
     Sutan Takdir Alisjahbana, *Tata Bahasa Baru Bahasa Indonesia*, Jilid 2 (Jakarta: Pustaka Rakyat, 1950), hlm. 25.
@@ -122,7 +133,8 @@ Tanda koma dipakai di antara bagian-bagian dalam catatan kaki atau catatan akhir
 
 ## Singkatan Gelar
 
-Tanda koma dipakai di antara nama orang dan singkatan gelar akademis yang mengikutinya untuk membedakannya dari singkatan nama diri, keluarga, atau marga.
+!!! summary " "
+    Tanda koma dipakai di antara nama orang dan singkatan gelar akademis yang mengikutinya untuk membedakannya dari singkatan nama diri, keluarga, atau marga.
 
 ???+ tip "Misal"
     B. Ratulangi, S.E.  
@@ -130,12 +142,13 @@ Tanda koma dipakai di antara nama orang dan singkatan gelar akademis yang mengik
     Bambang Irawan, M.Hum.  
     Siti Aminah, S.H., M.H.
 
-???+ summary "Catatan"
-    **Bandingkan** *Siti Khadijah*, M.A. dengan *Siti Khadijah M.A.* (*Siti Khadijah Mas Agung*).
+    !!! warning "Catatan"  
+        Bandingkan *Siti Khadijah, M.A.* dengan *Siti Khadijah M.A.* (*Siti Khadijah Mas Agung*).
 
 ## Angka
 
-Tanda koma dipakai sebelum angka desimal atau di antara rupiah dan sen yang dinyatakan dengan angka.
+!!! summary " "
+    Tanda koma dipakai sebelum angka desimal atau di antara rupiah dan sen yang dinyatakan dengan angka.
 
 ???+ tip "Misal"
     12,5 m  
@@ -145,7 +158,8 @@ Tanda koma dipakai sebelum angka desimal atau di antara rupiah dan sen yang diny
 
 ## Aposisi
 
-Tanda koma dipakai untuk mengapit keterangan tambahan atau keterangan aposisi.
+!!! summary " "
+    Tanda koma dipakai untuk mengapit keterangan tambahan atau keterangan aposisi.
 
 ???+ tip "Misal"
     Di daerah kami, *misalnya*, masih banyak bahan tambang yang belum diolah.
@@ -158,25 +172,24 @@ Tanda koma dipakai untuk mengapit keterangan tambahan atau keterangan aposisi.
 
     ***
 
-    **Bandingkan** dengan keterangan pewatas yang pemakaiannya tidak diapit tanda koma!  
+    !!! warning " "
+        **Bandingkan** dengan keterangan pewatas yang pemakaiannya tidak diapit tanda koma!  
 
-    Siswa *yang lulus dengan nilai tinggi* akan diterima di perguruan tinggi itu tanpa melalui tes.
+        Siswa *yang lulus dengan nilai tinggi* akan diterima di perguruan tinggi itu tanpa melalui tes.
 
 ## Keterangan
 
-Tanda koma dapat dipakai di belakang keterangan yang terdapat pada awal kalimat untuk menghindari salah baca/salah pengertian.
+!!! summary " "
+    Tanda koma dapat dipakai di belakang keterangan yang terdapat pada awal kalimat untuk menghindari salah baca/salah pengertian.
 
 ???+ tip "Misal"
     Dalam pengembangan bahasa, kita dapat memanfaatkan bahasa daerah.
 
     Atas perhatian Saudara, kami ucapkan terima kasih.
 
-    ***
-    **Bandingkan** dengan:
-    ***
+    !!! warning "Bandingkan dengan:"
+        Dalam pengembangan bahasa kita dapat memanfaatkan bahasa daerah.
 
-    Dalam pengembangan bahasa kita dapat memanfaatkan bahasa daerah.
-
-    Atas perhatian Saudara kami ucapkan terima kasih.
+        Atas perhatian Saudara kami ucapkan terima kasih.
 
 

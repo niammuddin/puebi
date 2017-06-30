@@ -1,8 +1,7 @@
 # Kata Ganti <br><small>*ku–*, *kau–*, *–ku*, *–mu*, <big>dan</big> *–nya*</small>
 
-Kata ganti *ku–* dan *kau–* ditulis serangkai dengan kata yang
-mengikutinya, sedangkan *–ku*, *–mu*, dan *–nya* ditulis
-serangkai dengan kata yang mendahuluinya.
+!!! success " "
+    Kata ganti *ku–* dan *kau–* ditulis serangkai dengan kata yang mengikutinya, sedangkan *–ku*, *–mu*, dan *–nya* ditulis serangkai dengan kata yang mendahuluinya.
 
 ???+ tip "Misal"
     Rumah itu telah <em>ku</em>jual.  

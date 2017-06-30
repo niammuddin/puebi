@@ -1,7 +1,7 @@
 # Huruf Vokal
 
-
-Huruf yang melambangkan vokal dalam bahasa Indonesia terdiri atas lima huruf, yaitu _a_, _e_, _i_, _o_, dan _u_.
+!!! summary " "
+    Huruf yang melambangkan vokal dalam bahasa Indonesia terdiri atas lima huruf, yaitu _a_, _e_, _i_, _o_, dan _u_.
 
 ## Tabel Huruf Vokal
 
@@ -60,30 +60,38 @@ Huruf yang melambangkan vokal dalam bahasa Indonesia terdiri atas lima huruf, ya
 
 ## Diakritik
 
-<a name="ket">*</a>Untuk pengucapan (pelafalan) kata yang benar, diakritik berikut ini dapat digunakan jika ejaan kata itu dapat menimbulkan keraguan.
+!!! summary " "
+    <a name="ket">*</a>Untuk pengucapan (pelafalan) kata yang benar, diakritik berikut ini dapat digunakan jika ejaan kata itu dapat menimbulkan keraguan.
 
-### Diakritik <small>\``é`\`</small>
+### Diakritik <small><span class="penanda">é</span></small>
 
-Diakritik \``é`\` dilafalkan [e].
+!!! summary " "
+    Diakritik <span class="penanda">é</span> dilafalkan [e].
 
 ???+ tip "Misal"
-    Anak-anak bermain di _teras_ (téras).  
+    Anak-anak bermain di _teras_ (téras).
+
     Kedelai merupakan bahan pokok _kecap_ (kécap).
 
-### Diakritik <small>\``è`\`</small>
+### Diakritik <small><span class="penanda">è</span></small>
 
-Diakritik \``è`\` dilafalkan [ɛ].
+!!! summary " "
+    Diakritik <span class="penanda">è</span> dilafalkan [ɛ].
 
 ???+ tip "Misal" 
-    Kami menonton film _seri_ (sèri).  
+    Kami menonton film _seri_ (sèri).
+
     Pertahanan _militer_ (militèr) Indonesia cukup kuat.
 
-### Diakritik <small>\``ê`\`</small>
+### Diakritik <small><span class="penanda">ê</span></small>
 
-Diakritik \``ê`\` dilafalkan [ə].
+!!! summary " "
+    Diakritik <span class="penanda">ê</span> dilafalkan [ə].
 
 ???+ tip "Misal"
-    Pertandingan itu berakhir _seri_ (sêri).  
-    Upacara itu dihadiri pejabat _teras_ (têras) Bank Indonesia.  
+    Pertandingan itu berakhir _seri_ (sêri).
+
+    Upacara itu dihadiri pejabat _teras_ (têras) Bank Indonesia.
+
     _Kecap_ (k<em>ê</em>cap) dulu makanan itu.
 

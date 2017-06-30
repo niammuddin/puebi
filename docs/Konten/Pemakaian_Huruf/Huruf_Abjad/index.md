@@ -1,6 +1,7 @@
 # Huruf Abjad
 
-Abjad yang dipakai dalam ejaan bahasa Indonesia terdiri atas 26 huruf berikut.
+!!! summary " "
+    Abjad yang dipakai dalam ejaan bahasa Indonesia terdiri atas 26 huruf berikut.
 
 <table>
   <tr>

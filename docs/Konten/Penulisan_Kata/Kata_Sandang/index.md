@@ -1,6 +1,7 @@
 # Kata Sandang <small>*si* &amp; *sang*</small>
 
-Kata <em>si</em> dan <em>sang</em> ditulis terpisah dari kata yang mengikutinya.
+!!! summary " "
+    Kata <em>si</em> dan <em>sang</em> ditulis terpisah dari kata yang mengikutinya.
 
 ???+ tip "Misal"
     Surat itu dikembalikan kepada <em>si</em> pengirim.
@@ -16,9 +17,10 @@ Kata <em>si</em> dan <em>sang</em> ditulis terpisah dari kata yang mengikutinya.
     Dalam cerita itu <em>si</em> Buta berhasil menolong kekasihnya.
 
 ???+ note "Catatan"
-    Huruf awal <em>sang</em> ditulis dengan huruf kapital jika <em>sang</em> merupakan unsur nama Tuhan.
+    !!! summary " "
+        Huruf awal <em>sang</em> ditulis dengan huruf kapital jika <em>sang</em> merupakan unsur nama Tuhan.
 
-    !!! tip "Misal"
+        **Misal**  
         Kita harus berserah diri kepada <em>Sang</em> Pencipta.
 
         Pura dibangun oleh umat Hindu untuk memuja <em>Sang</em> Hyang Widhi Wasa.

@@ -2,7 +2,8 @@
 
 ## Serangkai
 
-Partikel *-lah*, *-kah*, dan *-tah* ditulis serangkai dengan kata yang mendahuluinya.
+!!! summary " "
+    Partikel *-lah*, *-kah*, dan *-tah* ditulis serangkai dengan kata yang mendahuluinya.
 
 ???+ tip "Misal"
     Baca*lah* buku itu baik-baik!  
@@ -12,7 +13,10 @@ Partikel *-lah*, *-kah*, dan *-tah* ditulis serangkai dengan kata yang mendahulu
 
 ## Terpisah
 
-Partikel *pun* ditulis terpisah dari kata yang mendahuluinya.
+### Partikel \`pun\`
+
+!!! summary " "
+    Partikel *pun* ditulis terpisah dari kata yang mendahuluinya.
 
 ???+ tip "Misal"
     Apa *pun* permasalahan yang muncul, dia dapat
@@ -25,10 +29,10 @@ Partikel *pun* ditulis terpisah dari kata yang mendahuluinya.
     berkunjung ke rumahku.
 
 ???+ warning "Catatan"
-    Partikel *pun* yang merupakan unsur kata penghubung
-    ditulis serangkai.
+    !!! warning " "
+        Partikel *pun* yang merupakan unsur kata penghubung ditulis serangkai.
 
-    !!! tip "Misal"
+        **Misal**  
         Meski*pun* sibuk, dia dapat menyelesaikan tugas tepat pada waktunya.
 
         Dia tetap bersemangat walau*pun* lelah.
@@ -37,7 +41,10 @@ Partikel *pun* ditulis terpisah dari kata yang mendahuluinya.
 
         Bagaimana*pun* pekerjaan itu harus selesai minggu depan.
 
-Partikel per yang berarti ‘demi’, ‘tiap’, atau ‘mulai’ ditulis terpisah dari kata yang mengikutinya.
+### Partikel \`per\`
+
+!!! summary " "
+    Partikel per yang berarti ‘demi’, ‘tiap’, atau ‘mulai’ ditulis terpisah dari kata yang mengikutinya.
 
 ???+ tip "Misal"
     Mereka masuk ke dalam ruang rapat satu *per* satu.

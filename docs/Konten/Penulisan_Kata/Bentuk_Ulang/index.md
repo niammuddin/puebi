@@ -1,7 +1,7 @@
 # Bentuk Ulang
 
-Bentuk ulang ditulis dengan menggunakan tanda hubung \``-`\` di
-antara unsur-unsurnya.
+!!! summary " "
+    Bentuk ulang ditulis dengan menggunakan tanda hubung \``-`\` di antara unsur-unsurnya.
 
 ???+ tip "Misal"
     <table>
@@ -44,7 +44,8 @@ antara unsur-unsurnya.
     </table>
     
 ???+ note "Catatan"
-    Bentuk ulang gabungan kata ditulis dengan mengulang unsur pertama.
+    !!! summary " "
+        Bentuk ulang gabungan kata ditulis dengan mengulang unsur pertama.
 
     !!! tip "Misal"
         surat kabar  

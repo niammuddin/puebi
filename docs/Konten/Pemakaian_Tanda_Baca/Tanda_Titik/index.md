@@ -1,8 +1,9 @@
-# Tanda Titik <small>\``.`\`</small>
+# Tanda Titik <small><span class="penanda">.</span></small>
 
 ## Akhir Pernyataan
 
-Tanda titik dipakai pada akhir kalimat pernyataan.
+!!! summary " "
+    Tanda titik dipakai pada akhir kalimat pernyataan.
 
 ???+ tip "Misal"  
     Mereka duduk di sana.  
@@ -10,7 +11,8 @@ Tanda titik dipakai pada akhir kalimat pernyataan.
 
 ## Seusai Angka
 
-Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar.
+!!! summary " "
+    Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar.
 
 ???+ tip "Misal"
     a. I. Kondisi Kebahasaan di Indonesia  
@@ -33,12 +35,12 @@ Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, at
     ...  
     ...
 
-???+ warning "Catatan"
+???+ note "Catatan"
+    !!! warning " "
+        Tanda titik _tidak_ dipakai pada angka atau huruf yang
+        sudah bertanda kurung dalam suatu perincian.
 
-    Tanda titik _tidak_ dipakai pada angka atau huruf yang
-    sudah bertanda kurung dalam suatu perincian.
-
-    !!! tip "Misal"  
+        **Misal**  
         Bahasa Indonesia berkedudukan sebagai  
         1) bahasa nasional yang berfungsi, antara lain,  
         <span style="margin-left:1em">_a_) lambang kebanggaan nasional,</span>  
@@ -46,15 +48,13 @@ Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, at
         <span style="margin-left:1em">_c_) alat pemersatu bangsa;</span>  
         2) bahasa negara ….
 
-    ***
+    !!! warning " "
+        Tanda titik _tidak_ dipakai pada akhir penomoran digital yang lebih dari satu angka (seperti pada [2b](#2b)).
 
-    Tanda titik _tidak_ dipakai pada akhir penomoran digital yang lebih dari satu angka (seperti pada [2b](#2b)).
+    !!! warning " "
+        Tanda titik _tidak_ dipakai di belakang angka atau angka terakhir dalam penomoran deret digital yang lebih dari satu angka dalam judul tabel, bagan, grafik, atau gambar.
 
-    ***
-
-    Tanda titik _tidak_ dipakai di belakang angka atau angka terakhir dalam penomoran deret digital yang lebih dari satu angka dalam judul tabel, bagan, grafik, atau gambar.
-
-    !!! tip "Misal"  
+        **Misal**  
         Tabel _1_ Kondisi Kebahasaan di Indonesia  
         Tabel _1.1_ Kondisi Bahasa Daerah di Indonesia  
         Bagan _2_ Struktur Organisasi  
@@ -66,14 +66,11 @@ Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, at
 
 ## Pemisah Waktu
 
-Tanda titik dipakai untuk memisahkan angka jam, menit, dan detik yang menunjukkan waktu atau jangka waktu.
+!!! summary " "
+    Tanda titik dipakai untuk memisahkan angka jam, menit, dan detik yang menunjukkan waktu atau jangka waktu.
 
 ???+ tip "Misal"
     <table>
-      <colgroup>
-        <col width="35%">
-        <col width="65%">
-      </colgroup>
       <tr>
         <td>pukul 01.35.20</td>
         <td>pukul 1 lewat 35 menit 20 detik <br>atau<br> pukul 1, 35 menit, 20 detik</td>
@@ -94,7 +91,8 @@ Tanda titik dipakai untuk memisahkan angka jam, menit, dan detik yang menunjukka
 
 ## Daftar Pustaka
 
-Tanda titik dipakai dalam daftar pustaka di antara nama penulis, tahun, judul tulisan (yang tidak berakhir dengan tanda tanya atau tanda seru), dan tempat terbit.
+!!! summary " "
+    Tanda titik dipakai dalam daftar pustaka di antara nama penulis, tahun, judul tulisan (yang tidak berakhir dengan tanda tanya atau tanda seru), dan tempat terbit.
 
 ???+ tip "Misal"  
     <p class="pustaka">Pusat Bahasa, Departemen Pendidikan Nasional. 2008. _Peta Bahasa di Negara Kesatuan Republik Indonesia_. Jakarta.</p>
@@ -103,7 +101,8 @@ Tanda titik dipakai dalam daftar pustaka di antara nama penulis, tahun, judul tu
 
 ## Bilangan Jumlah
 
-Tanda titik dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang menunjukkan jumlah.
+!!! summary " "
+    Tanda titik dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang menunjukkan jumlah.
 
 ???+ tip "Misal"  
     Indonesia memiliki lebih dari _13.000_ pulau.
@@ -112,21 +111,21 @@ Tanda titik dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang menu
 
     Anggaran lembaga itu mencapai _Rp225.000.000.000,00_.
 
-???+ warning "Catatan"
-    Tanda titik _tidak_ dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang tidak menunjukkan jumlah.
+???+ note "Catatan"
+    !!! warning " "
+        Tanda titik _tidak_ dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang tidak menunjukkan jumlah.
 
-    !!! tip "Misal"  
+        **Misal**  
         Dia lahir pada tahun _1956_ di Bandung.
 
         Kata _sila_ terdapat dalam _Kamus Besar Bahasa Indonesia Pusat Bahasa_ halaman _1305_.
 
         Nomor rekening panitia seminar adalah _0015645678_.
 
-    ***
+    !!! warning " "
+        Tanda titik _tidak_ dipakai pada akhir judul yang merupakan kepala karangan, ilustrasi, atau tabel.
 
-    Tanda titik _tidak_ dipakai pada akhir judul yang merupakan kepala karangan, ilustrasi, atau tabel.
-
-    !!! tip "Misal"  
+        **Misal**  
         Acara Kunjungan Menteri Pendidikan dan Kebudayaan
 
         Bentuk dan Kedaulatan (Bab I UUD 1945)
@@ -136,11 +135,10 @@ Tanda titik dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang menu
         Tabel 5 Sikap Bahasa Generasi Muda Berdasarkan
         Pendidikan
 
-    ***
+    !!! warning " "
+        Tanda titik _tidak_ dipakai di belakang (a) alamat penerima dan pengirim surat serta (b) tanggal surat.
 
-    Tanda titik _tidak_ dipakai di belakang (a) alamat penerima dan pengirim surat serta (b) tanggal surat.
-
-    !!! tip "Misal"  
+        **Misal**  
         Yth. Direktur Taman Ismail Marzuki  
         Jalan Cikini Raya No. 73  
         Menteng  

@@ -1,6 +1,7 @@
-# Tanda Penyingkat atau Apostrof <small>\``‘`\`</small>
+# Tanda Penyingkat atau Apostrof <small><span class="penanda">‘</span></small>
 
-Tanda penyingkat dipakai untuk menunjukkan penghilangan bagian kata atau bagian angka tahun dalam konteks tertentu.
+!!! summary " "
+    Tanda penyingkat dipakai untuk menunjukkan penghilangan bagian kata atau bagian angka tahun dalam konteks tertentu.
 
 ???+ tip "Misal"
     Dia ‘kan kusurati. (‘kan = akan)

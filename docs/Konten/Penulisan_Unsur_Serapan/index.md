@@ -2,16 +2,16 @@
 
 Dalam perkembangannya bahasa Indonesia menyerap unsur dari berbagai bahasa, baik dari bahasa daerah, seperti bahasa Jawa, Sunda, dan Bali, maupun dari bahasa asing, seperti bahasa Sanskerta, Arab, Portugis, Belanda, Cina, dan Inggris. Berdasarkan taraf integrasinya, unsur serapan dalam bahasa Indonesia dapat dibagi menjadi dua kelompok besar.
 
-Pertama, unsur asing yang belum sepenuhnya terserap ke dalam bahasa Indonesia, seperti _force majeur_, _de facto_, _de jure_, dan _l’exploitation de l’homme par l’homme_. Unsur-unsur itu dipakai dalam konteks bahasa Indonesia, tetapi cara pengucapan dan penulisannya masih mengikuti cara asing.
+Pertama, unsur asing yang belum sepenuhnya terserap ke dalam bahasa Indonesia, seperti *force majeur*, *de facto*, *de jure*, dan *l’exploitation de l’homme par l’homme*. Unsur-unsur itu dipakai dalam konteks bahasa Indonesia, tetapi cara pengucapan dan penulisannya masih mengikuti cara asing.
 
 Kedua, unsur asing yang penulisan dan pengucapannya disesuaikan dengan kaidah bahasa Indonesia. Dalam hal ini, penyerapan diusa-hakan agar ejaannya diubah seperlunya sehingga bentuk Indonesianya masih dapat dibandingkan dengan bentuk asalnya.
 
 Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 
-## Unsur \`A\`
+## Unsur <span class="penanda">A</span>
 
 !!! note " "
-    <em>a</em> (Arab, bunyi pendek atau bunyi panjang) menjadi _a_ (bukan _o_)
+    **a** (Arab, bunyi pendek atau bunyi panjang) menjadi *a* (bukan *o*)
 <table>
   <tr>
     <td>m<strong>a</strong>żhab</td>
@@ -73,7 +73,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 
 ???+ quote "**‘ain** (ع Arab)"
     !!! note " "
-        _‘ain_        (ﻉ Arab) pada awal suku kata menjadi a, i, <em>u</em>
+        **‘ain** (ع Arab), pada awal suku kata menjadi *a*, *i*, *u*
     <table>
     <tr>
       <td><strong>‘a</strong>jā’ib</td>
@@ -108,7 +108,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </table>
 
     !!! note " "
-        _‘ain_ (ﻉ Arab) di akhir suku kata menjadi <em>k</em>
+        **‘ain** (ﻉ Arab) di akhir suku kata menjadi *k*
     <table>
     <tr>
       <td>’i<strong>‘</strong>tiqā<em>d</em></td>
@@ -143,7 +143,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </table>
 
 !!! note " "
-    <em>aa</em> (Belanda) menjadi <em>a</em>
+    **aa** (Belanda) menjadi *a*
 <table>
     <tr>
       <td>p<strong>aa</strong>l</td>
@@ -161,20 +161,20 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 
 ???+ quote "**ae**"
     !!! success " "
-        <em>ae</em> tetap _ae_ jika tidak bervariasi dengan <em>e</em>
+        **ae** tetap *ae* jika tidak bervariasi dengan *e*
     <table>
     <tr>
       <td><strong>ae</strong>robe</td>
-      <td>ae rob</td>
+      <td><em>ae</em>rob</td>
     </tr>
     <tr>
       <td><strong>ae</strong>rodinamics</td>
-      <td>ae rodinamika</td>
+      <td><em>ae</em>rodinamika</td>
     </tr>
     </table>
 
     !!! note " "
-        _ae_, jika bervariasi dengan _e_, menjadi <em>e</em>
+        **ae**, jika bervariasi dengan *e*, menjadi *e*
     <table>
     <tr>
       <td>h<strong>ae</strong>moglobin</td>
@@ -187,7 +187,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </table>
 
 !!! success " "
-    <em>ai</em> tetap _ai_
+    **ai** tetap *ai*
 <table>
     <tr>
       <td>tr<strong>ai</strong>ler</td>
@@ -200,15 +200,15 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! success " "
-    <em>au</em> tetap _au_
+    **au** tetap *au*
 <table>
     <tr>
       <td><strong>au</strong>diogram</td>
-      <td>au diogram</td>
+      <td><em>au</em>diogram</td>
     </tr>
     <tr>
       <td><strong>au</strong>totroph</td>
-      <td>au totrof</td>
+      <td><em>au</em>totrof</td>
     </tr>
     <tr>
       <td>t<strong>au</strong>tomer</td>
@@ -224,11 +224,11 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`C\`
+## Unsur <span class="penanda">C</span>
 
 ???+ quote "**c**"
     !!! note " "
-        <em>c</em> di depan _a_, _u_, _o_, dan konsonan menjadi <em>k</em>
+        **c** di depan *a*, *u*, *o*, dan konsonan menjadi *k*
     <table>
     <tr>
       <td><strong>c</strong>alomel</td>
@@ -257,7 +257,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </table>
 
     !!! note " "
-        <em>c</em> di depan _e_, _i_, _oe_, dan _y_ menjadi <em>s</em>
+        **c** di depan *e*, *i*, *oe*, dan *y* menjadi *s*
     <table>
     <tr>
       <td><strong>c</strong>entral</td>
@@ -287,7 +287,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 
 ???+ quote "**cc**"
     !!! note " "
-        <em>cc</em> di depan _o_, _u_, dan konsonan menjadi <em>k</em>
+        **cc** di depan *o*, *u*, dan konsonan menjadi *k*
     <table>
     <tr>
       <td>a<strong>cc</strong>omodation</td>
@@ -312,7 +312,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </table>
 
     !!! note " "
-        <em>cc</em> di depan _e_ dan _i_ menjadi _ks_
+        **cc** di depan *e* dan *i* menjadi *ks*
     <table>
     <tr>
       <td>a<strong>cc</strong>ent</td>
@@ -330,7 +330,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 
 ???+ quote "**ch**"
     !!! note " "
-        <em>cch</em> dan _ch_ di depan _a_, _o_, dan konsonan menjadi <em>k</em>
+        **cch** dan *ch* di depan *a*, *o*, dan konsonan menjadi *k*
     <table>
     <tr>
       <td>sa<strong>cc</strong>harin</td>
@@ -355,7 +355,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </table>
 
     !!! note " "
-        <em>ch</em> yang lafalnya _s_ atau _sy_ menjadi <em>s</em>
+        **ch** yang lafalnya *s* atau *sy* menjadi *s*
     <table>
     <tr>
       <td>e<strong>ch</strong>elon</td>
@@ -368,7 +368,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </table>
 
     !!! note " "
-        <em>ch</em> yang lafalnya _c_ menjadi <em>c</em>
+        **ch** yang lafalnya *c* menjadi *c*
     <table>
     <tr>
       <td><strong>ch</strong>arter</td>
@@ -381,7 +381,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </table>
 
 !!! note " "
-    <em>ck</em> menjadi <em>k</em>
+    **ck** menjadi *k*
 <table>
     <tr>
       <td>che<strong>ck</strong></td>
@@ -394,7 +394,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>ç</em> (Sanskerta) menjadi <em>s</em>
+    **ç** (Sanskerta) menjadi *s*
 <table>
     <tr>
       <td><strong>ç</strong>abda</td>
@@ -406,10 +406,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`D\`
+## Unsur <span class="penanda">D</span>
 
 !!! note " "
-    <em>ḍad</em> (ﺽ Arab) menjadi <em>d</em>
+    **ḍad** (ﺽ Arab) menjadi *d*
 <table>
     <tr>
       <td>’af<strong>ḍ</strong>al</td>
@@ -433,10 +433,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`E\`
+## Unsur <span class="penanda">E</span>
 
 !!! success " "
-    <em>e</em> tetap <em>e</em>
+    **e** tetap *e*
 <table>
     <tr>
       <td><strong>e</strong>ff<strong>e</strong>ct</td>
@@ -453,7 +453,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! success " "
-    <em>ea</em> tetap _ea_
+    **ea** tetap *ea*
 <table>
     <tr>
       <td>id<strong>ea</strong>list</td>
@@ -467,7 +467,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 
 
 !!! note " "
-    <em>ee</em> (Belanda) menjadi <em>e</em>
+    **ee** (Belanda) menjadi *e*
 <table>
     <tr>
       <td>stratosf<strong>ee</strong>r</td>
@@ -480,24 +480,24 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! success " "
-    <em>ei</em> tetap _ei_
+    **ei** tetap *ei*
 <table>
     <tr>
       <td><strong>ei</strong>cosane</td>
-      <td>ei kosan</td>
+      <td><em>ei</em>kosan</td>
     </tr>
     <tr>
       <td><strong>ei</strong>detic</td>
-      <td>ei detik</td>
+      <td><em>ei</em>detik</td>
     </tr>
     <tr>
-      <td><strong>ei</strong>nsteinium</td>
-      <td>ei nst ei nium</td>
+      <td><strong>ei</strong>nst<strong>ei</strong>nium</td>
+      <td><em>ei</em>nst<em>ei</em>nium</td>
     </tr>
 </table>
 
 !!! success " "
-    <em>eo</em> tetap _eo_
+    **eo** tetap *eo*
 <table>
     <tr>
       <td>ster<strong>eo</strong></td>
@@ -514,7 +514,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! success " "
-    <em>eu</em> tetap _eu_
+    **eu** tetap *eu*
 <table>
     <tr>
       <td>n<strong>eu</strong>tron</td>
@@ -522,18 +522,18 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
     <tr>
       <td><strong>eu</strong>genol</td>
-      <td>eu genol</td>
+      <td><em>eu</em>genol</td>
     </tr>
     <tr>
       <td><strong>eu</strong>ropium</td>
-      <td>eu ropium</td>
+      <td><em>eu</em>ropium</td>
     </tr>
 </table>
 
-## Unsur \`F\`
+## Unsur <span class="penanda">F</span>
 
 !!! note " "
-    <em>fa</em> (ﻑ Arab) menjadi <em>f</em>
+    **fa** (ﻑ Arab) menjadi *f*
 <table>
     <tr>
       <td>ʼa<strong>f</strong>ḍal</td>
@@ -563,7 +563,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! success " "
-    <em>f</em> tetap <em>f</em>
+    **f** tetap *f*
 <table>
     <tr>
       <td><strong>f</strong>anatic</td>
@@ -579,10 +579,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`G\`
+## Unsur <span class="penanda">G</span>
 
 !!! note " "
-    <em>gh</em> menjadi <em>g</em>
+    **gh** menjadi *g*
 <table>
     <tr>
       <td><strong>gh</strong>anta</td>
@@ -595,7 +595,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>gain</em> (غ Arab) menjadi <em>g</em>
+    **gain** (غ Arab) menjadi *g*
 <table>
     <tr>
       <td><strong>g</strong>ā’ib</td>
@@ -615,7 +615,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>gue</em> menjadi _ge_
+    **gue** menjadi *ge*
 <table>
     <tr>
       <td>i<strong>gue</strong></td>
@@ -623,14 +623,14 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
     <tr>
       <td>gi<strong>gue</strong></td>
-      <td>gi ge</td>
+      <td>gi<em>ge</em></td>
     </tr>
 </table>
 
-## Unsur \`H\`
+## Unsur <span class="penanda">H</span>
 
 !!! note " "
-    <em>ḥa</em> (ﺡ Arab) menjadi <em>h</em>
+    **ḥa** (ﺡ Arab) menjadi *h*
 <table>
     <tr>
       <td><strong>ḥ</strong>ākim</td>
@@ -649,84 +649,88 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-!!! note " "
-    _hamzah_ (ﺀ Arab) yang diikuti oleh vokal menjadi _a_, _i_, <em>u</em>
-<table>
-    <tr>
-      <td><strong>’a</strong>mr</td>
-      <td dir="rtl" style="text-align:center">(أمر)</td>
-      <td><em>a</em>mar</td>
-    </tr>
-    <tr>
-      <td>mas<strong>’a</strong>lah</td>
-      <td dir="rtl" style="text-align:center">(مسألة)</td>
-      <td>mas<em>a</em>lah</td>
-    </tr>
-    <tr>
-      <td>’iṣl<strong>ā</strong>ḥ</td>
-      <td dir="rtl" style="text-align:center">(إصلاح)</td>
-      <td><em>i</em>slah</td>
-    </tr>
-    <tr>
-      <td>q<strong>ā’</strong>idah</td>
-      <td dir="rtl" style="text-align:center">(قاعدة)</td>
-      <td>k<em>a</em>idah</td>
-    </tr>
-    <tr>
-      <td><strong>’u</strong>fuq</td>
-      <td dir="rtl" style="text-align:center">(أفق)</td>
-      <td><em>u</em>fuk</td>
-    </tr>
-</table>
+???+ quote "**hamzah** (ء Arab)"
+    !!! note " "
+        **hamzah** (ﺀ Arab) yang diikuti oleh vokal menjadi *a*, *i*, *u*
+    <table>
+        <tr>
+          <td><strong>’a</strong>mr</td>
+          <td dir="rtl" style="text-align:center">(أمر)</td>
+          <td><em>a</em>mar</td>
+        </tr>
+        <tr>
+          <td>mas<strong>’a</strong>lah</td>
+          <td dir="rtl" style="text-align:center">(مسألة)</td>
+          <td>mas<em>a</em>lah</td>
+        </tr>
+        <tr>
+          <td>’iṣl<strong>ā</strong>ḥ</td>
+          <td dir="rtl" style="text-align:center">(إصلاح)</td>
+          <td><em>i</em>slah</td>
+        </tr>
+        <tr>
+          <td>q<strong>ā’</strong>idah</td>
+          <td dir="rtl" style="text-align:center">(قاعدة)</td>
+          <td>k<em>a</em>idah</td>
+        </tr>
+        <tr>
+          <td><strong>’u</strong>fuq</td>
+          <td dir="rtl" style="text-align:center">(أفق)</td>
+          <td><em>u</em>fuk</td>
+        </tr>
+    </table>
 
-!!! note " "
-    _hamzah_ (ﺀ Arab) di akhir suku kata, kecuali di akhir kata, menjadi <em>k</em>
-<table>
-    <tr>
-      <td>ta<strong>’</strong>wīl</td>
-      <td dir="rtl" style="text-align:center">(تأويل)</td>
-      <td>ta<em>k</em>wil</td>
-    </tr>
-    <tr>
-      <td>ma<strong>’</strong>mūm</td>
-      <td dir="rtl" style="text-align:center">(مأموم)</td>
-      <td>ma<em>k</em>mum</td>
-    </tr>
-    <tr>
-      <td>mu<strong>’</strong>mīn</td>
-      <td dir="rtl" style="text-align:center">(مؤمن)</td>
-      <td>mu<em>k</em>min</td>
-    </tr>
-</table>
+    !!! note " "
+        **hamzah** (ﺀ Arab) di akhir suku kata, kecuali di akhir kata, menjadi *k*
+    <table>
+        <tr>
+          <td>ta<strong>’</strong>wīl</td>
+          <td dir="rtl" style="text-align:center">(تأويل)</td>
+          <td>ta<em>k</em>wil</td>
+        </tr>
+        <tr>
+          <td>ma<strong>’</strong>mūm</td>
+          <td dir="rtl" style="text-align:center">(مأموم)</td>
+          <td>ma<em>k</em>mum</td>
+        </tr>
+        <tr>
+          <td>mu<strong>’</strong>mīn</td>
+          <td dir="rtl" style="text-align:center">(مؤمن)</td>
+          <td>mu<em>k</em>min</td>
+        </tr>
+    </table>
 
-!!! note " "
-    _hamzah_ (ﺀ Arab) di akhir kata dihilangkan
-<table>
-    <tr>
-      <td>imlā<strong>’</strong></td>
-      <td dir="rtl" style="text-align:center">(إملاء)</td>
-      <td>iml<em>a</em></td>
-    </tr>
-    <tr>
-      <td>istinjā<strong>’</strong></td>
-      <td dir="rtl" style="text-align:center">(إستنجاء)</td>
-      <td>istinj a/tinj<em>a</em></td>
-    </tr>
-    <tr>
-      <td>munsyi<strong>’</strong></td>
-      <td dir="rtl" style="text-align:center">(منشىء)</td>
-      <td>munsy<em>i</em></td>
-    </tr>
-    <tr>
-      <td>wuḍū<strong>’</strong></td>
-      <td dir="rtl" style="text-align:center">(وضوء)</td>
-      <td>wud<em>u</em></td>
-    </tr>
-</table>
+    !!! note " "
+        **hamzah** (ﺀ Arab) di akhir kata dihilangkan
+    <table>
+        <tr>
+          <td>imlā<strong>’</strong></td>
+          <td dir="rtl" style="text-align:center">(إملاء)</td>
+          <td>iml<em>a</em></td>
+        </tr>
+        <tr>
+          <td>istinjā<strong>’</strong></td>
+          <td dir="rtl" style="text-align:center">(إستنجاء)</td>
+          <td>istinj a/tinj<em>a</em></td>
+        </tr>
+        <tr>
+          <td>munsyi<strong>’</strong></td>
+          <td dir="rtl" style="text-align:center">(منشىء)</td>
+          <td>munsy<em>i</em></td>
+        </tr>
+        <tr>
+          <td>wuḍū<strong>’</strong></td>
+          <td dir="rtl" style="text-align:center">(وضوء)</td>
+          <td>wud<em>u</em></td>
+        </tr>
+    </table>
 
-!!! note " "
-    <em>i</em> (Arab, bunyi pendek atau bunyi panjang) menjadi <em>i</em>
-<table>
+## Unsur <span class="penanda">I</span>
+
+???+ quote "**i**"
+    !!! note " "
+        **i** (Arab, bunyi pendek atau bunyi panjang) menjadi *i*
+    <table>
     <tr>
       <td><strong>i</strong>‘t<strong>i</strong>qād	</td>
       <td dir="rtl" style="text-align:center">(إعتقاد)</td>
@@ -747,13 +751,11 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
       <td dir="rtl" style="text-align:center">(صحيح)</td>
       <td>sah<em>i</em>h</td>
     </tr>
-</table>
+    </table>
 
-## Unsur \`I\`
-
-!!! success " "
-    <em>i</em> pada awal suku kata di depan vokal tetap <em>i</em>
-<table>
+    !!! success " "
+        **i** pada awal suku kata di depan vokal tetap *i*
+    <table>
     <tr>
       <td><strong>i</strong>ambus</td>
       <td><em>i</em>ambus</td>
@@ -766,10 +768,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
       <td><strong>i</strong>ota</td>
       <td><em>i</em>ota</td>
     </tr>
-</table>
+    </table>
 
 !!! note " "
-    <em>ie</em> (Belanda) menjadi _i_ jika lafalnya <em>i</em>
+    **ie** (Belanda) menjadi *i* jika lafalnya *i*
 <table>
     <tr>
       <td>polit<strong>ie</strong>k</td>
@@ -782,7 +784,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! success " "
-    <em>ie</em> tetap _ie_ jika lafalnya bukan <em>i</em>
+    **ie** tetap *ie* jika lafalnya bukan *i*
 <table>
     <tr>
       <td>var<strong>ie</strong>ty</td>
@@ -798,10 +800,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`J\`
+## Unsur <span class="penanda">J</span>
 
 !!! note " "
-    <em>jim</em> (ﺝ Arab) menjadi <em>j</em>
+    **jim** (ﺝ Arab) menjadi *j*
 <table>
     <tr>
       <td><strong>j</strong>āriyah</td>
@@ -820,15 +822,15 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`K\`
+## Unsur <span class="penanda">K</span>
 
 !!! note " "
-    <em>kha</em> (ﺥ Arab) menjadi _kh_
+    **kha** (ﺥ Arab) menjadi *kh*
 <table>
     <tr>
       <td><strong>kh</strong>uṣūṣ</td>
       <td dir="rtl" style="text-align:center">(خصوص)</td>
-      <td>kh usus</td>
+      <td><em>kh</em>usus</td>
     </tr>
     <tr>
       <td>ma<strong>kh</strong>lū<em>q</em></td>
@@ -842,10 +844,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`N\`
+## Unsur <span class="penanda">N</span>
 
 !!! success " "
-    <em>ng</em> tetap _ng_
+    **ng** tetap *ng*
 <table>
     <tr>
       <td>conti<strong>ng</strong>ent</td>
@@ -861,10 +863,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`O\`
+## Unsur <span class="penanda">O</span>
 
 !!! note " "
-    <em>oe</em> ( oi Yunani) menjadi <em>e</em>
+    **oe** ( oi Yunani) menjadi *e*
 <table>
     <tr>
       <td>f<strong>oe</strong>tus</td>
@@ -880,9 +882,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-!!! note " "
-    <em>oo</em> (Belanda) menjadi <em>o</em>
-<table>
+???+ quote "**oo**"
+    !!! note " "
+        **oo** (Belanda) menjadi *o*
+    <table>
     <tr>
       <td>komf<strong>oo</strong>r</td>
       <td>komp<em>o</em>r</td>
@@ -891,11 +894,11 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
       <td>prov<strong>oo</strong>st</td>
       <td>prov<em>o</em>s</td>
     </tr>
-</table>
+    </table>
 
-!!! note " "
-    <em>oo</em> (Inggris) menjadi <em>u</em>
-<table>
+    !!! note " "
+        **oo** (Inggris) menjadi *u*
+    <table>
     <tr>
       <td>cart<strong>oo</strong>n</td>
       <td>kart<em>u</em>n</td>
@@ -908,11 +911,11 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
       <td>p<strong>oo</strong>l</td>
       <td>p<em>u</em>l</td>
     </tr>
-</table>
+    </table>
 
-!!! success " "
-    <em>oo</em> (vokal ganda) tetap _oo_
-<table>
+    !!! success " "
+        **oo** (vokal ganda) tetap *oo*
+    <table>
     <tr>
       <td>z<strong>oo</strong>logy</td>
       <td>z<em>oo</em>logi</td>
@@ -921,10 +924,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
       <td>c<strong>oo</strong>rdination</td>
       <td>k<em>oo</em>rdinasi</td>
     </tr>
-</table>
+    </table>
 
 !!! note " "
-    <em>ou</em> menjadi u jika lafalnya <em>u</em>
+    **ou** menjadi u jika lafalnya *u*
 <table>
     <tr>
       <td>g<strong>ou</strong>verneur</td>
@@ -940,10 +943,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`P\`
+## Unsur <span class="penanda">P</span>
 
 !!! note " "
-    <em>ph</em> menjadi <em>f</em>
+    **ph** menjadi *f*
 <table>
     <tr>
       <td><strong>ph</strong>ase</td>
@@ -960,47 +963,47 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! success " "
-    <em>ps</em> tetap _ps_
+    **ps** tetap *ps*
 <table>
     <tr>
       <td><strong>ps</strong>eudo</td>
-      <td>ps eudo</td>
+      <td><em>ps</em>eudo</td>
     </tr>
     <tr>
       <td><strong>ps</strong>ychiatry</td>
-      <td>ps ikiatri</td>
+      <td><em>ps</em>ikiatri</td>
     </tr>
     <tr>
       <td><strong>ps</strong>ychic</td>
-      <td>ps ikis</td>
+      <td><em>ps</em>ikis</td>
     </tr>
     <tr>
       <td><strong>ps</strong>ychosomatic</td>
-      <td>ps ikosomatik</td>
+      <td><em>ps</em>ikosomatik</td>
     </tr>
 </table>
 
 !!! success " "
-    <em>pt</em> tetap _pt_
+    **pt** tetap *pt*
 <table>
     <tr>
       <td><strong>pt</strong>erosaur</td>
-      <td>pt erosaur</td>
+      <td><em>pt</em>erosaur</td>
     </tr>
     <tr>
       <td><strong>pt</strong>eridology</td>
-      <td>pt eridologi</td>
+      <td><em>pt</em>eridologi</td>
     </tr>
     <tr>
       <td><strong>pt</strong>yalin</td>
-      <td>pt ialin</td>
+      <td><em>pt</em>ialin</td>
     </tr>
 </table>
 
-## Unsur \`Q\`
+## Unsur <span class="penanda">Q</span>
 
 !!! note " "
-    <em>q</em> menjadi <em>k</em>
+    **q** menjadi *k*
 <table>
     <tr>
       <td>a<strong>q</strong>uarium</td>
@@ -1017,12 +1020,12 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>qaf</em> (ﻕ Arab) menjadi <em>k</em>
+    **qaf** (ﻕ Arab) menjadi *k*
 <table>
     <tr>
       <td>‘a<strong>q**ī</strong>q**ah</td>
       <td dir="rtl" style="text-align:center">(عقيقة)</td>
-      <td>a<em>k</em><em>i</em>k ah</td>
+      <td>a<em>k</em>i<em>k</em>ah</td>
     </tr>
     <tr>
       <td>ma<strong>q</strong>ām</td>
@@ -1036,10 +1039,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`R\`
+## Unsur <span class="penanda">R</span>
 
 !!! note " "
-    <em>rh</em> menjadi <em>r</em>
+    **rh** menjadi *r*
 <table>
     <tr>
       <td><strong>rh</strong>apsody</td>
@@ -1059,15 +1062,15 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`S\`
+## Unsur <span class="penanda">S</span>
 
 !!! note " "
-    <em>sin</em> (ﺱ Arab) menjadi <em>s</em>
+    **sin** (ﺱ Arab) menjadi *s*
 <table>
     <tr>
       <td>a<strong>s</strong>ā<strong>s</strong></td>
       <td dir="rtl" style="text-align:center">(أساس)</td>
-      <td>a<em>s</em><em>a</em>s</td>
+      <td>a<em>s</em>a<em>s</em></td>
     </tr>
     <tr>
       <td><strong>s</strong>alām</td>
@@ -1077,12 +1080,12 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     <tr>
       <td><strong>s</strong>il<strong>s</strong>ilah</td>
       <td dir="rtl" style="text-align:center">(سلسلة)</td>
-      <td>s<em>il</em><em>s</em>ilah</td>
+      <td><em>s</em>il<em>s</em>ilah</td>
     </tr>
 </table>
 
 !!! note " "
-    <em>śa</em> (ﺙ Arab) menjadi <em>s</em>
+    **śa** (ﺙ Arab) menjadi *s*
 <table>
     <tr>
       <td>a<strong>ś</strong>iri</td>
@@ -1097,7 +1100,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     <tr>
       <td><strong>ś</strong>ulā<strong>ś</strong>ā̒</td>
       <td dir="rtl" style="text-align:center">(الثلاثاء)</td>
-      <td><em>s</em>ela s<em>a</em></td>
+      <td><em>s</em>ela<em>s</em>a</td>
     </tr>
     <tr>
       <td>wāri<strong>ś</strong></td>
@@ -1107,7 +1110,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>ṣad</em> (ﺹ Arab) menjadi <em>s</em>
+    **ṣad** (ﺹ Arab) menjadi *s*
 <table>
     <tr>
       <td>‘a<strong>ṣ</strong>r</td>
@@ -1132,7 +1135,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>syin</em> (ﺵ Arab) menjadi _sy_
+    **syin** (ﺵ Arab) menjadi *sy*
 <table>
     <tr>
       <td>‘ā<strong>sy</strong>iq</td>
@@ -1152,28 +1155,28 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 ???+ quote "**sc**"
     !!! note " "
-        <em>sc</em> di depan _a_, _o_, _u_, dan konsonan menjadi _sk_
+        **sc** di depan *a*, *o*, *u*, dan konsonan menjadi *sk*
     <table>
     <tr>
       <td><strong>sc</strong>andium</td>
-      <td>sk andium</td>
+      <td><em>sk</em>andium</td>
     </tr>
     <tr>
       <td><strong>sc</strong>otopia</td>
-      <td>sk otopia</td>
+      <td><em>sk</em>otopia</td>
     </tr>
     <tr>
       <td><strong>sc</strong>utella</td>
-      <td>sk utela</td>
+      <td><em>sk</em>utela</td>
     </tr>
     <tr>
       <td><strong>sc</strong>lerosis</td>
-      <td>sk lerosis</td>
+      <td><em>sk</em>lerosis</td>
     </tr>
     </table>
 
     !!! note " "
-        <em>sc</em> di depan _e_, _i_, dan _y_ menjadi <em>s</em>
+        **sc** di depan *e*, *i*, dan *y* menjadi *s*
     <table>
     <tr>
       <td><strong>sc</strong>enography</td>
@@ -1190,26 +1193,26 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </table>
 
 !!! note " "
-    <em>sch</em> di depan vokal menjadi _sk_
+    **sch** di depan vokal menjadi *sk*
 <table>
     <tr>
       <td><strong>sch</strong>ema</td>
-      <td>sk ema</td>
+      <td><em>sk</em>ema</td>
     </tr>
     <tr>
       <td><strong>sch</strong>izophrenia</td>
-      <td>sk izofrenia</td>
+      <td><em>sk</em>izofrenia</td>
     </tr>
     <tr>
       <td><strong>sch</strong>olastic</td>
-      <td>sk olastik</td>
+      <td><em>sk</em>olastik</td>
     </tr>
 </table>
 
-## Unsur \`T\`
+## Unsur <span class="penanda">T</span>
 
 !!! note " "
-    <em>t</em> di depan _i_ menjadi _s_ jika lafalnya <em>s</em>
+    **t** di depan *i* menjadi *s* jika lafalnya *s*
 <table>
     <tr>
       <td>ac<strong>t</strong>ie</td>
@@ -1226,7 +1229,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>ṭa</em> (ﻁ Arab) menjadi <em>t</em>
+    **ṭa** (ﻁ Arab) menjadi *t*
 <table>
     <tr>
       <td>kha<strong>ṭṭ</strong></td>
@@ -1246,7 +1249,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>th</em> menjadi <em>t</em>
+    **th** menjadi *t*
 <table>
     <tr>
       <td><strong>th</strong>eocracy</td>
@@ -1266,11 +1269,12 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`U\`
+## Unsur <span class="penanda">U</span>
 
-!!! success " "
-    <em>u</em> tetap <em>u</em>
-<table>
+???+ quote "**u**"
+    !!! success " "
+        **u** tetap *u*
+    <table>
     <tr>
       <td><strong>u</strong>nit</td>
       <td><em>u</em>nit</td>
@@ -1280,18 +1284,18 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
       <td>n<em>u</em>kleolus</td>
     </tr>
     <tr>
-      <td>str<strong>u</strong>cture</td>
-      <td>str<em>u</em>kt u<em>r</em></td>
+      <td>str<strong>u</strong>ct<strong>u</strong>re</td>
+      <td>str<em>u</em>kt<em>u</em>r</td>
     </tr>
     <tr>
       <td>instit<strong>u</strong>te</td>
       <td>instit<em>u</em>t</td>
     </tr>
-</table>
+    </table>
 
-!!! note " "
-    <em>u</em> (Arab, bunyi pendek atau bunyi panjang) menjadi <em>u</em>
-<table>
+    !!! note " "
+        **u** (Arab, bunyi pendek atau bunyi panjang) menjadi *u*
+    <table>
     <tr>
       <td>r<strong>u</strong>k<strong>ū</strong>’</td>
       <td dir="rtl" style="text-align:center">(ركوع)</td>
@@ -1312,10 +1316,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
       <td dir="rtl" style="text-align:center">(أفق)</td>
       <td><em>u</em>f<em>u</em>k</td>
     </tr>
-</table>
+    </table>
 
 !!! success " "
-    <em>ua</em> tetap _ua_
+    **ua** tetap *ua*
 <table>
     <tr>
       <td>aq<strong>ua</strong>rium</td>
@@ -1332,7 +1336,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! success " "
-    <em>ue</em> tetap _ue_
+    **ue** tetap *ue*
 <table>
     <tr>
       <td>conseq<strong>ue</strong>nt</td>
@@ -1349,7 +1353,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! success " "
-    <em>ui</em> tetap _ui_
+    **ui** tetap *ui*
 <table>
     <tr>
       <td>cond<strong>ui</strong>te</td>
@@ -1366,7 +1370,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! success " "
-    <em>uo</em> tetap _uo_
+    **uo** tetap *uo*
 <table>
     <tr>
       <td>fl<strong>uo</strong>rescein</td>
@@ -1383,7 +1387,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>uu</em> menjadi <em>u</em>
+    **uu** menjadi *u*
 <table>
     <tr>
       <td>lect<strong>uu</strong>r</td>
@@ -1399,10 +1403,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`V\`
+## Unsur <span class="penanda">V</span>
 
 !!! success " "
-    <em>v</em> tetap <em>v</em>
+    **v** tetap *v*
 <table>
     <tr>
       <td>e<strong>v</strong>acuation</td>
@@ -1418,10 +1422,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`W\`
+## Unsur <span class="penanda">W</span>
 
 !!! success " "
-    <em>wau</em> (ﻭ Arab) tetap <em>w</em>
+    **wau** (ﻭ Arab) tetap *w*
 <table>
     <tr>
       <td>jad<strong>w</strong>al</td>
@@ -1441,7 +1445,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>wau</em> (ﻭ Arab, baik satu maupun dua konsonan) yang didahului _u_ dihilangkan
+    **wau** (ﻭ Arab, baik satu maupun dua konsonan) yang didahului *u* dihilangkan
 <table>
     <tr>
       <td>nah<strong>w</strong>u</td>
@@ -1461,12 +1465,12 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>aw</em> (diftong Arab) menjadi _au_, termasuk yang diikuti konsonan
+    **aw** (diftong Arab) menjadi *au*, termasuk yang diikuti konsonan
 <table>
     <tr>
       <td><strong>aw</strong>rāt</td>
       <td dir="rtl" style="text-align:center">(عورة)</td>
-      <td>au rat</td>
+      <td><em>au</em>rat</td>
     </tr>
     <tr>
       <td>h<strong>aw</strong>l</td>
@@ -1485,11 +1489,12 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`X\`
+## Unsur <span class="penanda">X</span>
 
-!!! success " "
-    <em>x</em> pada awal kata tetap <em>x</em>
-<table>
+???+ quote "**x**"
+    !!! success " "
+        **x** pada awal kata tetap *x*
+    <table>
     <tr>
       <td><strong>x</strong>anthate</td>
       <td><em>x</em>antat</td>
@@ -1502,11 +1507,11 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
       <td><strong>x</strong>ylophone</td>
       <td><em>x</em>ilofon</td>
     </tr>
-</table>
+    </table>
 
-!!! note " "
-    <em>x</em> pada posisi lain menjadi _ks_
-<table>
+    !!! note " "
+        **x** pada posisi lain menjadi *ks*
+    <table>
     <tr>
       <td>e<strong>x</strong>ecutive</td>
       <td>e<em>ks</em>ekutif</td>
@@ -1523,11 +1528,11 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
       <td>ta<strong>x</strong>i</td>
       <td>ta<em>ks</em>i</td>
     </tr>
-</table>
+    </table>
 
 ???+ quote "**xc**"
     !!! note " "
-        <em>xc</em> di depan _e_ dan _i_ menjadi _ks_
+        **xc** di depan *e* dan *i* menjadi *ks*
     <table>
     <tr>
       <td>e<strong>xc</strong>eption</td>
@@ -1548,31 +1553,32 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </table>
 
     !!! note " "
-        <em>xc</em> di depan _a_, _o_, _u_, dan konsonan menjadi _ksk_
+        **xc** di depan *a*, *o*, *u*, dan konsonan menjadi *ksk*
     <table>
     <tr>
       <td>e<strong>xc</strong>avation</td>
-      <td><em>e</em>ksk avasi</td>
+      <td>e<em>ksk</em>avasi</td>
     </tr>
     <tr>
       <td>e<strong>xc</strong>ommunication</td>
-      <td><em>e</em>ksk omunikasi</td>
+      <td>e<em>ksk</em>omunikasi</td>
     </tr>
     <tr>
       <td>e<strong>xc</strong>ursive</td>
-      <td><em>e</em>ksk ursif</td>
+      <td>e<em>ksk</em>ursif</td>
     </tr>
     <tr>
       <td>e<strong>xc</strong>lusive</td>
-      <td><em>e</em>ksk lusif</td>
+      <td>e<em>ksk</em>lusif</td>
     </tr>
     </table>
 
-## Unsur \`Y\`
+## Unsur <span class="penanda">Y</span>
 
-!!! success " "
-    <em>y</em> tetap _y_ jika lafalnya <em>y</em>
-<table>
+???+ quote "**y**"
+    !!! success " "
+        **y** tetap *y* jika lafalnya *y*
+    <table>
     <tr>
       <td><strong>y</strong>akitori</td>
       <td><em>y</em>akitori</td>
@@ -1589,11 +1595,11 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
       <td><strong>y</strong>uan</td>
       <td><em>y</em>uan</td>
     </tr>
-</table>
+    </table>
 
-!!! note " "
-    <em>y</em> menjadi _i_ jika lafalnya _ai_ atau <em>i</em>
-<table>
+    !!! note " "
+        **y** menjadi *i* jika lafalnya *ai* atau *i*
+    <table>
     <tr>
       <td>d<strong>y</strong>namo</td>
       <td>d<em>i</em>namo</td>
@@ -1610,10 +1616,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
       <td><strong>y</strong>ttrium</td>
       <td><em>i</em>trium</td>
     </tr>
-</table>
+    </table>
 
 !!! note " "
-    <em>ya</em> (ﻱ Arab) di awal suku kata menjadi <em>y</em>
+    **ya** (ﻱ Arab) di awal suku kata menjadi *y*
 <table>
     <tr>
       <td>‘inā<strong>y</strong>ah</td>
@@ -1633,7 +1639,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! note " "
-    <em>ya</em> (ﻱ Arab) di depan _i_ dihilangkan
+    **ya** (ﻱ Arab) di depan *i* dihilangkan
 <table>
     <tr>
       <td>khi<strong>y</strong>ānah</td>
@@ -1652,10 +1658,10 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
     </tr>
 </table>
 
-## Unsur \`Z\`
+## Unsur <span class="penanda">Z</span>
 
 !!! sucses " "
-    <em>z</em> tetap <em>z</em>
+    **z** tetap *z*
 <table>
     <tr>
       <td><strong>z</strong>enith</td>
@@ -1676,72 +1682,72 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 </table>
 
 !!! success " "
-    <em>zai</em> (ﺯ Arab) tetap <em>z</em>
+    **zai** (ﺯ Arab) tetap *z*
 <table>
     <tr>
       <td>ijā<strong>z</strong>ah</td>
       <td dir="rtl" style="text-align:center">(إجازة)</td>
-      <td>ijazah</td>
+      <td>ija<em>z</em>ah</td>
     </tr>
     <tr>
       <td>kha<strong>z</strong>ānah</td>
       <td dir="rtl" style="text-align:center">(خزانة)</td>
-      <td>khazanah</td>
+      <td>kha<em>z</em>anah</td>
     </tr>
     <tr>
       <td><strong>z</strong>iyārah</td>
       <td dir="rtl" style="text-align:center">(زيارة)</td>
-      <td>ziarah</td>
+      <td><em>z</em>iarah</td>
     </tr>
     <tr>
       <td><strong>z</strong>aman</td>
       <td dir="rtl" style="text-align:center">(زمن)</td>
-      <td>zaman</td>
+      <td><em>z</em>aman</td>
     </tr>
 </table>
 
 !!! note " "
-    <em>żal</em> (ﺫ Arab) menjadi <em>z</em>
+    **żal** (ﺫ Arab) menjadi *z*
 <table>
     <tr>
       <td>a<strong>ż</strong>ān</td>
       <td dir="rtl" style="text-align:center">(أذان)</td>
-      <td>azan</td>
+      <td>a<em>z</em>an</td>
     </tr>
     <tr>
       <td>i<em>ż</em>n</td>
       <td dir="rtl" style="text-align:center">(إذن)</td>
-      <td>izin</td>
+      <td>i<em>z</em>in</td>
     </tr>
     <tr>
       <td>ustā<strong>ż</strong></td>
       <td dir="rtl" style="text-align:center">(أستاذ)</td>
-      <td>ustaz</td>
+      <td>usta<em>z</em></td>
     </tr>
     <tr>
       <td><strong>ż</strong>āt</td>
       <td dir="rtl" style="text-align:center">(ذات)</td>
-      <td>zat</td>
+      <td><em>z</em>at</td>
     </tr>
 </table>
 
 !!! note " "
-    <em>ẓa</em> (ﻅ Arab) menjadi <em>z</em>
+    **ẓa** (ﻅ Arab) menjadi *z*
 <table>
     <tr>
       <td>ḥāfi<strong>ẓ</strong></td>
       <td dir="rtl" style="text-align:center">(حافظ)</td>
-      <td>hafiz</td>
+      <td>hafi<em>z</em></td>
     </tr>
     <tr>
       <td>ta‘<strong>ẓ</strong>īm</td>
       <td dir="rtl" style="text-align:center">(تعظيم)</td>
-      <td>takzim</td>
+      <td>tak<em>z</em>im</td>
     </tr>
     <tr>
       <td><strong>ẓ</strong>ālim</td>
       <td>(ظالم)</td>
-      <td>zalim</td>
+      <td><em>z</em>alim</td>
     </tr>
 </table>
 
@@ -1797,23 +1803,22 @@ Konsonan ganda diserap menjadi konsonan tunggal, kecuali kalau dapat membingungk
     </tr>
     </table>
 
-    ***
-
-    **Perhatikan** penyerapan berikut!
-    <table>
-    <tr>
-      <td>ʼA<em>ll</em>ah</td>
-      <td>A<em>ll</em>ah</td>
-    </tr>
-    <tr>
-      <td>ma<em>ss</em></td>
-      <td>ma<em>ss</em>a</td>
-    </tr>
-    <tr>
-      <td>ma<em>ss</em>al</td>
-      <td>ma<em>ss</em>al</td>
-    </tr>
-    </table>
+    !!! warning " "
+        **Perhatikan** penyerapan berikut!
+        <table>
+          <tr>
+            <td>ʼA<em>ll</em>ah</td>
+            <td>A<em>ll</em>ah</td>
+          </tr>
+          <tr>
+            <td>ma<em>ss</em></td>
+            <td>ma<em>ss</em>a</td>
+          </tr>
+          <tr>
+            <td>ma<em>ss</em>al</td>
+            <td>ma<em>ss</em>al</td>
+          </tr>
+        </table>
 
 ???+ note "Catatan"
     Unsur serapan yang sudah lazim dieja sesuai dengan ejaan bahasa Indonesia tidak perlu lagi diubah.
@@ -1859,10 +1864,10 @@ Konsonan ganda diserap menjadi konsonan tunggal, kecuali kalau dapat membingungk
 
 Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar istilah asing yang mengandung akhiran serta penyesuaiannya secara utuh dalam bahasa Indonesia.
 
-### Sufiks \`-a ... \`
+### Sufiks <span class="penanda">-a ... </span>
 
 !!! note " "
-    <em>-aat</em> (Belanda) menjadi _-at_
+    **-aat** (Belanda) menjadi *-at*
 <table>
     <tr>
       <td>advoc<strong>aat</strong></td>
@@ -1871,7 +1876,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-age</em> menjadi <em>-ase</em>
+    **-age** menjadi *-ase*
 <table>
     <tr>
       <td>percent<strong>age</strong></td>
@@ -1884,7 +1889,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-ah</em> (Arab) menjadi _-ah_ atau _-at_
+    **-ah** (Arab) menjadi *-ah* atau *-at*
 <table>
     <tr>
       <td>‘aqīd<strong>ah</strong></td>
@@ -1909,7 +1914,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     <tr>
       <td>ʼāy<strong>ah</strong></td>
       <td dir="rtl" style="text-align:center">(أية)</td>
-      <td>ay at</td>
+      <td>ay<em>at</em></td>
     </tr>
     <tr>
       <td>ma‘siyy<strong>ah</strong></td>
@@ -1924,27 +1929,27 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     <tr>
       <td>hikm<strong>ah</strong></td>
       <td dir="rtl" style="text-align:center">(حكمة)</td>
-      <td>hikm ah, hikm<em>at</em></td>
+      <td>hikm<em>ah</em>, hikm<em>at</em></td>
     </tr>
     <tr>
       <td>‘ibād<strong>ah</strong></td>
       <td dir="rtl" style="text-align:center">(عبادة)</td>
-      <td>ibad ah, ibad<em>at</em></td>
+      <td>ibad<em>ah</em>, ibad<em>at</em></td>
     </tr>
     <tr>
       <td>sunn<strong>ah</strong></td>
       <td dir="rtl" style="text-align:center">(سنة)</td>
-      <td>sun ah, sun<em>at</em></td>
+      <td>sun<em>ah</em>, sun<em>at</em></td>
     </tr>
     <tr>
       <td>sūr<strong>ah</strong></td>
       <td dir="rtl" style="text-align:center">(سورة)</td>
-      <td>sur ah, sur<em>at</em></td>
+      <td>sur<em>ah</em>, sur<em>at</em></td>
     </tr>
 </table>
 
 !!! note " "
-    <em>-al</em> (Inggris), <em>-eel</em> dan <em>-aal</em> (Belanda) menjadi _-al_
+    **-al** (Inggris), **-eel** dan **-aal** (Belanda) menjadi *-al*
 <table>
     <tr>
       <td>structur<strong>al</strong>, structur<strong>eel</strong></td>
@@ -1961,7 +1966,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-ant</em> menjadi <em>-an</em>
+    **-ant** menjadi *-an*
 <table>
     <tr>
       <td>account<strong>ant</strong></td>
@@ -1978,7 +1983,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-archy</em> (Inggris) , <em>-archie</em> (Belanda) menjadi _arki_
+    **-archy** (Inggris), **-archie** (Belanda) menjadi *arki*
 <table>
     <tr>
       <td>an<strong>archy</strong>, a<strong>archie</strong></td>
@@ -1986,7 +1991,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     </tr>
     <tr>
       <td>mon<strong>archy</strong>, mon<strong>archie</strong></td>
-      <td>monarki</td>
+      <td>monar<em>ki</em></td>
     </tr>
     <tr>
       <td>olig<strong>archy</strong>, olig<strong>archie</strong></td>
@@ -1995,7 +2000,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-ary</em> (Inggris) , <em>-air</em> (Belanda) menjadi <em>-er</em>
+    **-ary** (Inggris), **-air** (Belanda) menjadi *-er*
 <table>
     <tr>
       <td>complement<strong>ary</strong>, complement<strong>air</strong></td>
@@ -2011,11 +2016,11 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     </tr>
 </table>
 
--(a)tion (Inggris) , -(a)tie (Belanda) menjadi <em>-asi</em>, <em>-si</em>
+*-(a)tion* (Inggris), **-(a)tie** (Belanda) menjadi *-asi*, *-si*
 <table>
     <tr>
       <td>ac<strong>tion</strong>, ac<strong>tie</strong></td>
-      <td>ak si</td>
+      <td>ak<em>si</em></td>
     </tr>
     <tr>
       <td>public<strong>ation</strong>, public<strong>atie</strong></td>
@@ -2023,10 +2028,10 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     </tr>
 </table>
 
-### Sufiks \`-e ... \`
+### Sufiks <span class="penanda">-e ... </span>
 
 !!! note " "
-    <em>-eel</em> (Belanda) menjadi <em>-el</em>
+    **-eel** (Belanda) menjadi *-el*
 <table>
     <tr>
       <td>materi<strong>eel</strong></td>
@@ -2039,7 +2044,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-ein</em> tetap <em>-ein</em>
+    **-ein** tetap *-ein*
 <table>
     <tr>
       <td>cas<strong>ein</strong></td>
@@ -2051,10 +2056,10 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     </tr>
 </table>
 
-### Sufiks \`-i ... \`
+### Sufiks <span class="penanda">-i ... </span>
 
 !!! note " "
-    <em>-i</em>, <em>-iyyah</em> (akhiran Arab) menjadi _-i_ atau <em>-iah</em>
+    **-i**, **-iyyah** (akhiran Arab) menjadi *-i* atau *-iah*
 <table>
     <tr>
       <td>‘ālam<strong>ī</strong></td>
@@ -2069,7 +2074,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     <tr>
       <td>‘āl<strong>iyyah</strong></td>
       <td dir="rtl" style="text-align:center">(عالية)</td>
-      <td>al iah</td>
+      <td>al<em>iah</em></td>
     </tr>
     <tr>
       <td>‘amal<strong>iyyah</strong></td>
@@ -2079,8 +2084,12 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-ic</em>, <em>-ics</em>, dan <em>-ique</em> (Inggris) , <em>-iek</em> dan <em>-ica</em> (Belanda) menjadi <em>-ik</em>, _ika_ dialectics, dialektica dialekt ika
+    **-ic**, **-ics**, dan **-ique** (Inggris), **-iek** dan **-ica** (Belanda) menjadi *-ik*, *ika*
 <table>
+    <tr>
+      <td>dialect<strong>ics</strong>, dialekt<strong>ica</strong></td>
+      <td>dialekt<em>ika</em></td>
+    </tr>
     <tr>
       <td>log<strong>ic</strong>, log<strong>ica</strong></td>
       <td>log<em>ika</em></td>
@@ -2091,7 +2100,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     </tr>
     <tr>
       <td>linguist<strong>ics</strong>, linguist<strong>iek</strong></td>
-      <td>linguistik</td>
+      <td>linguist<em>ik</em></td>
     </tr>
     <tr>
       <td>phonet<strong>ics</strong>, phonet<strong>iek</strong></td>
@@ -2104,7 +2113,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-ic</em> (Inggris) , <em>-isch</em> (adjektiva Belanda) menjadi <em>-ik</em>
+    **-ic** (Inggris), **-isch** (adjektiva Belanda) menjadi *-ik*
 <table>
     <tr>
       <td>electron<strong>ic</strong>, elektron<strong>isch</strong></td>
@@ -2121,7 +2130,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-ical</em> (Inggris) , <em>-isch</em> (Belanda) menjadi <em>-is</em>
+    **-ical** (Inggris), **-isch** (Belanda) menjadi *-is*
 <table>
     <tr>
       <td>econom<strong>ical</strong>, econom<strong>isch</strong></td>
@@ -2138,7 +2147,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-ile</em> (Inggris) , <em>-iel</em> (Belanda) menjadi <em>-il</em>
+    **-ile** (Inggris), **-iel** (Belanda) menjadi *-il*
 <table>
     <tr>
       <td>mob<strong>ile</strong>, mob<strong>iel</strong></td>
@@ -2155,7 +2164,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-ism</em> (Inggris) , <em>-isme</em> (Belanda) menjadi <em>-isme</em>
+    **-ism** (Inggris), **-isme** (Belanda) menjadi *-isme*
 <table>
     <tr>
       <td>capital<strong>ism</strong>, capital<strong>isme</strong></td>
@@ -2172,7 +2181,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-ist</em> menjadi <em>-is</em>
+    **-ist** menjadi *-is*
 <table>
     <tr>
       <td>ego<strong>ist</strong></td>
@@ -2189,7 +2198,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-ive</em> (Inggris) , <em>-ief</em> (Belanda) menjadi <em>-if</em>
+    **-ive** (Inggris), **-ief** (Belanda) menjadi *-if*
 <table>
     <tr>
       <td>communicat<strong>ive</strong>, communicat<strong>ief</strong></td>
@@ -2205,10 +2214,10 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     </tr>
 </table>
 
-### Sufiks \`-l ... \`
+### Sufiks <span class="penanda">-l ... </span>
 
 !!! note " "
-    <em>-logue</em> (Inggris), <em>-loog</em> (Belanda) menjadi <em>-log</em>
+    **-logue** (Inggris), **-loog** (Belanda) menjadi *-log*
 <table>
     <tr>
       <td>ana<strong>logue</strong>, ana<strong>loog</strong></td>
@@ -2225,7 +2234,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-logy</em> (Inggris) , <em>-logie</em> (Belanda) menjadi <em>-logi</em>
+    **-logy** (Inggris), **-logie** (Belanda) menjadi *-logi*
 <table>
     <tr>
       <td>techno<strong>logy</strong>, techno<strong>logie</strong></td>
@@ -2241,19 +2250,23 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     </tr>
 </table>
 
-### Sufiks \`-o ... \`
+### Sufiks <span class="penanda">-o ... </span>
 
 !!! note " "
-    <em>-oid</em> (Inggris) , oide (Belanda) menjadi <em>-oid</em> anthropoid, anthropoide antrop oid
+    **-oid** (Inggris), **-oide** (Belanda) menjadi *-oid*
 <table>
     <tr>
-      <td>homin<strong>oid</strong>, homino<strong>ide</strong></td>
+      <td>anthrop<strong>oid</strong>, anthrop<strong>oide</strong></td>
+      <td>antrop<em>oid</em></td>
+    </tr>
+    <tr>
+      <td>homin<strong>oid</strong>, homin<strong>oide</strong></td>
       <td>homin<em>oid</em></td>
     </tr>
 </table>
 
 !!! note " "
-    <em>-oir</em>(e) menjadi <em>-oar</em>
+    **-oir**(e) menjadi *-oar*
 <table>
     <tr>
       <td>trot<strong>oir</strong></td>
@@ -2266,7 +2279,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-or</em> (Inggris) , <em>-eur</em> (Belanda) menjadi <em>-ur</em>, <em>-ir</em>
+    **-or** (Inggris), **-eur** (Belanda) menjadi *-ur*, *-ir*
 <table>
     <tr>
       <td>direct<strong>or</strong>, direct<strong>eur</strong></td>
@@ -2287,7 +2300,7 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
 </table>
 
 !!! note " "
-    <em>-or</em> tetap <em>-or</em>
+    **-or** tetap *-or*
 <table>
     <tr>
       <td>dictat<strong>or</strong></td>
@@ -2303,10 +2316,10 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     </tr>
 </table>
 
-### Sufiks \`-t ... \`
+### Sufiks <span class="penanda">-t ... </span>
 
 !!! note " "
-    <em>-ty</em> (Inggris) , <em>-teit</em> (Belanda) menjadi <em>-tas</em>
+    **-ty** (Inggris), **-teit** (Belanda) menjadi *-tas*
 <table>
     <tr>
       <td>universi<strong>ty</strong>, universi<strong>teit</strong></td>
@@ -2322,29 +2335,29 @@ Selain kaidah penulisan unsur serapan di atas, berikut ini dis-ertakan daftar is
     </tr>
 </table>
 
-### Sufiks \`-u ... \`
+### Sufiks <span class="penanda">-u ... </span>
 
 !!! note " "
-    <em>-ure</em> (Inggris), <em>-uur</em> (Belanda) menjadi <em>-ur</em>
+    **-ure** (Inggris), **-uur** (Belanda) menjadi *-ur*
 <table>
     <tr>
       <td>cult<strong>ure</strong>, cult<strong>uur</strong></td>
-      <td>kultur</td>
+      <td>kult<em>ur</em></td>
     </tr>
     <tr>
       <td>premat<strong>ure</strong>, prema<strong>tuur</strong></td>
-      <td>prematur</td>
+      <td>premat<em>ur</em></td>
     </tr>
     <tr>
       <td>struct<strong>ure</strong>, strukt<strong>uur</strong></td>
-      <td>struktur</td>
+      <td>strukt<em>ur</em></td>
     </tr>
 </table>
 
-### Sufiks \`-w ... \`
+### Sufiks <span class="penanda">-w ... </span>
 
 !!! note " "
-    <em>-wi</em>, <em>-wiyyah</em> (Arab) menjadi <em>-wi</em>, <em>-wiah</em>
+    **-wi**, **-wiyyah** (Arab) menjadi *-wi*, *-wiah*
 <table>
     <tr>
       <td>dunyā<strong>wī</strong></td>

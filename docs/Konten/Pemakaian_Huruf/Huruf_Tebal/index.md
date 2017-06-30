@@ -2,7 +2,8 @@
 
 ## Penegasan Ulang
 
-Huruf tebal dipakai untuk menegaskan bagian tulisan yang   sudah ditulis miring.
+!!! summary " "
+    Huruf tebal dipakai untuk menegaskan bagian tulisan yang   sudah ditulis miring.
 
 ???+ tip "Misal"
     Huruf <em>dh</em>, seperti pada kata   <em>Rama<strong>dh</strong>an</em>, tidak terdapat   dalam Ejaan Bahasa Indonesia.  
@@ -10,7 +11,8 @@ Huruf tebal dipakai untuk menegaskan bagian tulisan yang   sudah ditulis miring.
 
 ## Bagian-bagian Karangan
 
-Huruf tebal dapat dipakai untuk menegaskan bagian-bagian   karangan, seperti judul buku, bab, atau subbab.
+!!! summary " "
+    Huruf tebal dapat dipakai untuk menegaskan bagian-bagian   karangan, seperti judul buku, bab, atau subbab.
 
 ???+ tip "Misal"
     <strong>1.1&emsp;Latar Belakang dan Masalah</strong>  

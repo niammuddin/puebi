@@ -1,8 +1,8 @@
-# Tanda Titik Dua <small>\``:`\`</small>
+# Tanda Titik Dua <small><span class="penanda">:</span></small>
 
 ## Pernyataan Lengkap
 
-!!! success " "
+!!! summary " "
     Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerincian atau penjelasan.
 
 ???+ tip "Misal"
@@ -28,7 +28,7 @@
 
 ## Ungkapan
 
-!!! success " "
+!!! summary " "
     Tanda titik dua dipakai sesudah kata atau ungkapan yang memerlukan pemerian.
 
 ???+ tip "Misal"
@@ -42,7 +42,7 @@
 
 ## Naskah Drama
 
-!!! success " "
+!!! summary " "
     Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku dalam percakapan.
 
 ???+ tip "Misal"
@@ -52,7 +52,7 @@
 
 ## Penomoran
 
-!!! success " "
+!!! summary " "
     Tanda titik dua dipakai di antara:
     <ol class="kurung-a">
     <li>jilid atau nomor dan halaman,</li>

@@ -1,8 +1,9 @@
-# Tanda Petik <small>\``“...”`\`</small>
+# Tanda Petik <small><span class="penanda">“...”</span></small>
 
 ## Petikan Langsung
 
-Tanda petik dipakai untuk mengapit petikan langsung yang berasal dari pembicaraan, naskah, atau bahan tertulis lain.
+!!! summary " "
+    Tanda petik dipakai untuk mengapit petikan langsung yang berasal dari pembicaraan, naskah, atau bahan tertulis lain.
 
 ???+ tip "Misal"
     **“**Merdeka atau mati!**”** seru Bung Tomo dalam pidatonya.
@@ -15,7 +16,8 @@ Tanda petik dipakai untuk mengapit petikan langsung yang berasal dari pembicaraa
 
 ## Judul
 
-Tanda petik dipakai untuk mengapit judul sajak, lagu, film, sinetron, artikel, naskah, atau bab buku yang dipakai dalam kalimat.
+!!! summary " "
+    Tanda petik dipakai untuk mengapit judul sajak, lagu, film, sinetron, artikel, naskah, atau bab buku yang dipakai dalam kalimat.
 
 ???+ tip "Misal"
     Sajak **“**Pahlawanku**”** terdapat pada halaman 125 buku itu.
@@ -32,7 +34,8 @@ Tanda petik dipakai untuk mengapit judul sajak, lagu, film, sinetron, artikel, n
 
 ## Istilah Ilmiah
 
-Tanda petik dipakai untuk mengapit istilah ilmiah yang kurang dikenal atau kata yang mempunyai arti khusus.
+!!! summary " "
+    Tanda petik dipakai untuk mengapit istilah ilmiah yang kurang dikenal atau kata yang mempunyai arti khusus.
 
 ???+ tip "Misal"
     **“**Tetikus**”** komputer ini sudah tidak berfungsi.

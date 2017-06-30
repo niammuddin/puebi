@@ -1,8 +1,9 @@
-# Tanda Titik Koma <small>\``;`\`</small>
+# Tanda Titik Koma <small><span class="penanda">;</span></small>
 
 ## Kalimat Majemuk
 
-Tanda titik koma dapat dipakai sebagai pengganti kata penghubung untuk memisahkan kalimat setara yang satu dari kalimat setara yang lain di dalam kalimat majemuk.
+!!! summary " "
+    Tanda titik koma dapat dipakai sebagai pengganti kata penghubung untuk memisahkan kalimat setara yang satu dari kalimat setara yang lain di dalam kalimat majemuk.
 
 ???+ tip "Misal"
     Hari sudah malam; anak-anak masih membaca buku.
@@ -13,7 +14,8 @@ Tanda titik koma dapat dipakai sebagai pengganti kata penghubung untuk memisahka
 
 ### Berupa Klausa
 
-Tanda titik koma dipakai pada akhir perincian yang berupa klausa.
+!!! summary " "
+    Tanda titik koma dipakai pada akhir perincian yang berupa klausa.
 
 ???+ tip "Misal"
     <p class="sblm-dftr">Syarat penerimaan pegawai di lembaga ini adalah=</p>
@@ -26,11 +28,12 @@ Tanda titik koma dipakai pada akhir perincian yang berupa klausa.
 
 ### Sebagai Pemisah
 
-Tanda titik koma dipakai untuk memisahkan bagian-bagian pemerincian dalam kalimat yang sudah menggunakan tanda koma.
+!!! summary " "
+    Tanda titik koma dipakai untuk memisahkan bagian-bagian pemerincian dalam kalimat yang sudah menggunakan tanda koma.
 
 ???+ tip "Misal"
-      Ibu membeli buku, pensil, dan tinta; baju, celana, dan
-      kaus; pisang, apel, dan jeruk.
+      Ibu membeli buku, pensil, dan tinta; baju, celana, dan kaus; pisang, apel, dan jeruk.
+
     <p class="sblm-dftr">Agenda rapat ini meliputi</p>
     <ol type="a" class="mlai-dftr">
       <li>pemilihan ketua, sekretaris, dan bendahara;</li>

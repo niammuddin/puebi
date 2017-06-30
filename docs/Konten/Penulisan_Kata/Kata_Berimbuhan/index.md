@@ -2,7 +2,8 @@
 
 ## Imbuhan
 
-Imbuhan (awalan, sisipan, akhiran, serta gabungan awalan dan akhiran) ditulis serangkai dengan bentuk dasarnya.
+!!! summary " "
+    Imbuhan (awalan, sisipan, akhiran, serta gabungan awalan dan akhiran) ditulis serangkai dengan bentuk dasarnya.
 
 ???+ tip "Misal"
     *ber*jalan  
@@ -14,17 +15,19 @@ Imbuhan (awalan, sisipan, akhiran, serta gabungan awalan dan akhiran) ditulis se
     *per*baik*an*
 
 ???+ note "Catatan"
-    Imbuhan yang diserap dari unsur asing, seperti -*isme*, -*man*, -*wan*, atau -*wi*, ditulis serangkai dengan bentuk dasarnya.
+    !!! success " "
+        Imbuhan yang diserap dari unsur asing, seperti -*isme*, -*man*, -*wan*, atau -*wi*, ditulis serangkai dengan bentuk dasarnya.
 
-    !!! tip "Misal"
+        **Misal**  
         suku*isme*  
-        seni *man*  
+        seni*man*  
         kamera*wan*  
         gereja*wi*
 
 ## Terikat
 
-Bentuk terikat ditulis serangkai dengan kata yang mengikutinya.
+!!! summary " "
+    Bentuk terikat ditulis serangkai dengan kata yang mengikutinya.
 
 ???+ tip "Misal"
     <table>
@@ -91,29 +94,28 @@ Bentuk terikat ditulis serangkai dengan kata yang mengikutinya.
 
 ???+ note "Catatan"
 
-    Bentuk terikat yang diikuti oleh kata yang berhuruf awal
-    kapital atau singkatan yang berupa huruf kapital
-    dirangkaikan dengan tanda hubung \``-`\`.
+    !!! summary " "
+        Bentuk terikat yang diikuti oleh kata yang berhuruf awal kapital atau singkatan yang berupa huruf kapital dirangkaikan dengan tanda hubung \``-`\`.
 
-    !!! tip "Misal"
+        **Misal**  
         *non*-Indonesia  
         *pan*-Afrikanisme  
         *pro*-Barat  
         *non*-ASEAN  
         *anti*-PKI
 
-    Bentuk *maha* yang diikuti kata turunan yang mengacu
-    pada nama atau sifat Tuhan ditulis terpisah dengan huruf
-    awal kapital.
+    !!! summary " "
+        Bentuk *maha* yang diikuti kata turunan yang mengacu pada nama atau sifat Tuhan ditulis terpisah dengan huruf awal kapital.
 
-    !!! tip "Misal"
+        **Misal**  
         Marilah kita bersyukur kepada Tuhan Yang *M*aha Pengasih.
 
         Kita berdoa kepada Tuhan Yang *M*aha Pengampun .
 
-    Bentuk maha yang diikuti kata dasar yang mengacu kepada nama atau sifat Tuhan, kecuali kata *esa*, ditulis serangkai.
+    !!! warning " "
+        Bentuk maha yang diikuti kata dasar yang mengacu kepada nama atau sifat Tuhan, kecuali kata *esa*, ditulis serangkai.
 
-    !!! tip "Misal"
+        **Misal**  
         Tuhan Yang *Mahakuasa* menentukan arah hidup kita.
 
         Mudah-mudahan Tuhan Yang *Maha Esa* melindungi kita.

@@ -3,7 +3,8 @@
 
 ## Kata Majemuk
 
-Unsur gabungan kata yang lazim disebut kata majemuk termasuk istilah khusus, ditulis terpisah.
+!!! summary " "
+    Unsur gabungan kata yang lazim disebut kata majemuk termasuk istilah khusus, ditulis terpisah.
 
 ???+ tip "Misal"
     <table>
@@ -29,9 +30,10 @@ Unsur gabungan kata yang lazim disebut kata majemuk termasuk istilah khusus, dit
       </tr>
     </table>
 
-## Menghindari Salah Tanggap
+## Menghindari <small>Salah Tanggap</small>
 
-Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan tanda hubung \``-`\` di antara unsur-unsurnya.
+!!! summary " "
+    Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan tanda hubung \``-`\` di antara unsur-unsurnya.
 
 ???+ tip "Misal"
     <table>
@@ -48,9 +50,10 @@ Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan
       </tr>
     </table>
 
-## Tersekat
+## Terpisah
 
-Gabungan kata yang penulisannya terpisah tetap ditulis terpisah jika mendapat awalan atau akhiran.
+!!! summary " "
+    Gabungan kata yang penulisannya terpisah tetap ditulis terpisah jika mendapat awalan atau akhiran.
 
 ???+ tip "Misal"
     <em>ber</em>tepuk tangan  
@@ -60,7 +63,8 @@ Gabungan kata yang penulisannya terpisah tetap ditulis terpisah jika mendapat aw
 
 ## Berimbuhan
 
-Gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai.
+!!! summary " "
+    Gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai.
 
 ???+ tip "Misal"
     <em>di</em>lipatganda<em>kan</em>  
@@ -71,7 +75,8 @@ Gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai.
 
 ## Padu
 
-Gabungan kata yang sudah padu ditulis serangkai.
+!!! summary " "
+    Gabungan kata yang sudah padu ditulis serangkai.
 
 ???+ tip "Misal"
     <table>
