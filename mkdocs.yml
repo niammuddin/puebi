@@ -77,7 +77,7 @@ extra:
 ## Aksara
   font:
     text: 'Roboto'
-    code: 'Ubuntu'
+    code: 'Ubuntu Mono'
 ## Media Sosial
   social:
     - type: 'github-alt'
