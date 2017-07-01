@@ -1202,7 +1202,7 @@
         },
         {
             "location": "/Tentang/",
-            "text": "Tentang Materi PUEBI\n\u00b6\n\n\n\n\nPedoman Umum Ejaan Bahasa Indonesia\n bernuansa \nMaterial Design\n\n\n\n\nSelayang Pandang\n\u00b6\n\n\nPUEBI\n yang merupakan akronim dari Panduan Umum Ejaan Bahasa Indonesia, adalah upaya \nKemdikbud\n untuk tetap terus menumbuh-kembangkan Bahasa Indonesia. Informasi menyeluruh mengenai PUEBI terdapat di halaman resmi \nKemdikbud\n.\n\n\nSelanjutnya, Kemdikbud juga telah menyediakan \nBuku elektronik PUEBI\n yang dapat diunduh dengan mudah dan cuma-cuma sebagai upaya publikasi PUEBI pada masyarakat luas. Bahkan berkat seorang wikipediawan bernama \nIvan Lanin\n, kini telah tersedia \nPUEBI Daring\n yang dapat diakses secara \nonline\n kapan dan dimana saja.\n\n\nMateri PUEBI\n\u00b6\n\n\nSebagian besar konten \nMateri PUEBI\n adalah salinan dari buku elektronik PUEBI seperti apa yang dilakukan PUEBI Daring besutan Om Lanin, namun \ndisajikan dalam nuansa \nDesain Material\n. Singkatnya, perbedaan utama antara Materi PUEBI dengan kedua pendahulunya terletak pada tampilan \nMaterial Design\n.\n\n\n\n\nPemilihan kata \nMateri\n pun selain karena bermakna kandungan/isi PUEBI, juga berkaitan dengan kalimat \nMateri\nal Design.\n\n\n\n\nMeski demikian, walaupun konten yang termuat dalam Materi PUEBI sangat menyerupai kedua leluhurnya, perlu ditegaskan bahwa Materi PUEBI adalah proyek yang dikerjakan dengan tanpa melibatkan campur tangan (berasosiasi) kedua leluhurnya.\n\n\nLatar Belakang\n\u00b6\n\n\nMotivasi utama dibalik pengerjaan \nMateri PUEBI\n semata disebabkan karena keinginan untuk mencicipi tema \nMkdocs Material\n yang menurut hemat saya baik tampilan, responsivitas, maupun dukukungan dan pembaruannya sangat menarik.\n\n\nAlasan sepele itulah yang mengakibatkan pengerjaan Materi PUEBI tetap dilakukan meski telah tersedia PUEBI Daring dengan konten yang benar-benar sama.\n\n\nPengerjaan & Pengatakan\n\u00b6\n\n\n\n\nPengerjaan Materi PUEBI, sepenuhnya dilakukan dari ponsel pintar bersistem operasi Android di genggaman tangan.\n\n\n\n\nPerkakas\n\u00b6\n\n\nMedia Perilisan\n\nMateri PUEBI dirilis ke ranah internet dengan memanfaatkan \nhalaman Github\n sebagai naungan utamanya, kemudian memakai \nMkDocs\n sebagai generator pemrosesannya, lalu mengenakan tema \nMaterial MkDocs\n untuk mengadopsi tampilan Material Design.\n\n\nMedia Penyuntingan\n\nKonten Materi PUEBI sebagian besar ditulis mengenakan \nMarkdown\n, dengan menyisipkan pemarkahan \nhtml\n serta \ncss\n dan \nJavaScript\n seperlunya. Penyuntingannya seringkali dikerjakan dengan memakai aplikasi \nQuickEdit\n, lalu \nMarkdownX\n dan \nEpsilon Notes\n kerap jadi wadah beragam teks yang masih berupa konsep.\n\n\nPemasangan & Pengujian\n\nPengujian Materi PUEBI mampu dilakukan dari ponsel pintar berkat adanya aplikasi \nTermux\n yang sekaligus sebagai aplikasi utama proses pemasangan \ngit\n, \npython\n, dan juga MkDocs beserta tema Material MkDocs.\n\n\nSumber Konten\n\nKonten utama Materi PUEBI kesemuanya diekstraksi dari buku elektronik PUEBI. Lantaran buku tersebut masih berbentuk pdf, maka proses ekstraksi teksnya dilakukan dengan memanfaatkan sarana \nkonversi pdf ke teks\n secara daring.\n\n\nStruktur Penulisan\n\u00b6\n\n\nBaik buku elektronik PUEBI maupun PUEBI Daring adalah sebuah kemajuan besar bagi pelestarian dan pemugaran Bahasa Indonesia, keduanya diharapkan mampu memenuhi tuntutan perkembangan zaman yang semakin terjangkiti kemajuan teknologi.\n\n\nNamun sayangnya, karena konsep \nstruktur penulisan\n yang dianut oleh keduanya lebih ditujukan untuk dimanfaatkan secara \nluring\n, maka upaya untuk menyelaraskan PUEBI dengan struktur dokumen berorientasi web memaksa saya untuk menyematkan struktur penulisan yang sedikit berbeda pada Materi PUEBI.\n\n\nPenyelarasan ini dengan tetap memperhatikan esensi dari setiap konten PUEBI, mengakibatkan adanya perbedaan struktur penulisan dalam Materi PUEBI. Perubahan struktur utama yang terdapat di Materi PUEBI yaitu:\n\n\n\n\n\n\nSubbab Tambahan\n\n\nMateri PUEBI sengaja menyisipkan subbab pada setiap butir klausul yang tertera di PUEBI agar fitur daftar isi otomatis yang tersedia pada MkDocs Material dapat dimanfaatkan sebagaimana mestinya, sehingga memberikan keleluasaan lebih bagi pembaca dalam menjelajahi uraian tersebut.\n\n\n\n\n\n\nPenataan Klausul\n\n\nPenambahan subbab seringkali menuntut perombakan susunan klausul dalam PUEBI, beberapa klausul yang memiliki keterkaitan bahkan dikelompokkan dalam subbab tersendiri.\n\n\n\n\n\n\nPeniadaan Halaman\n\n\nBeberapa halaman yang terdapat di PUEBI sengaja dihilangkan semata karena fungsi halaman tersebut mampu digantikan dengan fitur yang tersedia pada Materi PUEBI. Misalnya halaman Sampul, Daftar Isi, dan Indeks.\n\n\n\n\n\n\nWarna Catatan\n\n\nPewarnaan dalam Catatan mengindikasikan maksud dan tujuan dari catatan tersebut, warna biru menandakan tambahan informasi; warna kuning berarti pengecualian; dan warna merah artinya peringatan.\n\n\n\n\n\n\nPerubahan lain hanya seputar hal-hal kecil terkait penyesuaian tipografi dan kerangka yang turut dirombak, baik demi kepentingan tampilan maupun tingkat keterbacaan, seperti penggunaan \naksen nontirus\n berupa \n`\n dan lain sebagainya.\n\n\nGotong Royong\n\u00b6\n\n\nPagi para pengguna Bahasa Indonesia, kontribusi Anda sangat dinanti-nantikan. Kontribusi dan partisipasi dapat dilakukan melalui kolom komentar pada situs Materi PUEBI. Saran dan terutama kritik sangat diharapkan, sehingga Materi PUEBI dapat terus di tumbuh-kembangkan.\n\n\nKontribusi juga dapat dilakukan melalui \nrepositori Materi PUEBI\n di \nGithub\n, dapat dilakukan melalui pull request dengan menggarpu (fork) repositori Materi PUEBI. Namun untuk saat ini perincian proses kontribusi malalu cara ini belum dapat saya uraikan, sebab saya sendiri masih seorang pendatang baru di Github. Mohon bantuannya ... \n.\n\n\nRekam Perilisan\n\u00b6\n\n\n0.6.21 \n_21 Juni 2017\n\u00b6\n\n\n\n\nKondisi: \"beta\"\n\n\nJulukan: \"Ruag\"\n\n\nDeskripsi: \"Perilisan Awal\"\n\n\n\n\nDaftar Tugas\n\u00b6\n\n\n\n\n Merampungkan Penyuntingan\n\n\n Merapikan suntingan\n\n\n Membenahi halaman beranda\n\n\n Memperbaiki halaman Tentang\n\n\n Memperjelas penjabaran;\n\n\n Pemisahan Judul:\n\n\n Penambahan panduan kontribusi;\n\n\n\n\n\n\n Menambahkan \nScreenshot\n\n\n Menyisipkan catatan kaki\n\n\n Memperbaharui daftar tugas.\n\n\n\n\nHak Cipta\n\u00b6\n\n\nSama halnya dengan apa yang tertera di PUEBI Daring,  Hak Cipta PUEBI digenggam oleh \nBadan Pengembangan dan Pembinaan Bahasa Republik Indonesia\n.\n\n\nSedangkan lisensi yang tersemat pada Materi PUEBI, yaitu \nMIT license\n.",
+            "text": "Tentang Materi PUEBI\n\u00b6\n\n\n\n\nPedoman Umum Ejaan Bahasa Indonesia\n bernuansa \nMaterial Design\n\n\n\n\nSelayang Pandang\n\u00b6\n\n\nPUEBI\n yang merupakan akronim dari Panduan Umum Ejaan Bahasa Indonesia, adalah upaya \nKemdikbud\n untuk tetap terus menumbuh-kembangkan Bahasa Indonesia. Informasi menyeluruh mengenai PUEBI terdapat di halaman resmi \nKemdikbud\n.\n\n\nSelanjutnya, Kemdikbud juga telah menyediakan \nBuku elektronik PUEBI\n yang dapat diunduh dengan mudah dan cuma-cuma sebagai upaya publikasi PUEBI pada masyarakat luas. Bahkan berkat seorang wikipediawan bernama \nIvan Lanin\n, kini telah tersedia \nPUEBI Daring\n yang dapat diakses secara \nonline\n kapan dan dimana saja.\n\n\nMateri PUEBI\n\u00b6\n\n\nSebagian besar konten \nMateri PUEBI\n adalah salinan dari buku elektronik PUEBI seperti apa yang dilakukan PUEBI Daring besutan Om Lanin, namun \ndisajikan dalam nuansa \nDesain Material\n. Singkatnya, perbedaan utama antara Materi PUEBI dengan kedua pendahulunya terletak pada tampilan \nMaterial Design\n.\n\n\n\n\nPemilihan kata \nMateri\n pun selain karena bermakna kandungan/isi PUEBI, juga berkaitan dengan kalimat \nMateri\nal Design.\n\n\n\n\nMeski demikian, walaupun konten yang termuat dalam Materi PUEBI sangat menyerupai kedua leluhurnya, perlu ditegaskan bahwa Materi PUEBI adalah proyek yang dikerjakan dengan tanpa melibatkan campur tangan (berasosiasi) kedua leluhurnya.\n\n\nLatar Belakang\n\u00b6\n\n\nMotivasi utama dibalik pengerjaan \nMateri PUEBI\n semata disebabkan karena keinginan untuk mencicipi tema \nMkdocs Material\n yang menurut hemat saya baik tampilan, responsivitas, maupun dukukungan dan pembaruannya sangat menarik.\n\n\nAlasan sepele itulah yang mengakibatkan pengerjaan Materi PUEBI tetap dilakukan meski telah tersedia PUEBI Daring dengan konten yang benar-benar sama.\n\n\nPengerjaan & Pengatakan\n\u00b6\n\n\nPerkakas\n\u00b6\n\n\nMedia Perilisan\n\nMateri PUEBI dirilis ke ranah internet dengan memanfaatkan \nhalaman Github\n sebagai naungan utamanya, kemudian memakai \nMkDocs\n sebagai generator pemrosesannya, lalu mengenakan tema \nMaterial MkDocs\n untuk mengadopsi tampilan Material Design.\n\n\nMedia Penyuntingan\n\nKonten Materi PUEBI sebagian besar ditulis mengenakan \nMarkdown\n, dengan menyisipkan pemarkahan \nhtml\n serta \ncss\n dan \nJavaScript\n seperlunya. Penyuntingannya seringkali dikerjakan dengan memakai aplikasi \nQuickEdit\n, lalu \nMarkdownX\n dan \nEpsilon Notes\n kerap jadi wadah beragam teks yang masih berupa konsep.\n\n\nPemasangan & Pengujian\n\nPengujian Materi PUEBI mampu dilakukan dari ponsel pintar berkat adanya aplikasi \nTermux\n yang sekaligus sebagai aplikasi utama proses pemasangan \ngit\n, \npython\n, dan juga MkDocs beserta tema Material MkDocs.\n\n\nSumber Konten\n\nKonten utama Materi PUEBI kesemuanya diekstraksi dari buku elektronik PUEBI. Lantaran buku tersebut masih berbentuk pdf, maka proses ekstraksi teksnya dilakukan dengan memanfaatkan sarana \nkonversi pdf ke teks\n secara daring.\n\n\nStruktur Penulisan\n\u00b6\n\n\nBaik buku elektronik PUEBI maupun PUEBI Daring adalah sebuah kemajuan besar bagi pelestarian dan pemugaran Bahasa Indonesia, keduanya diharapkan mampu memenuhi tuntutan perkembangan zaman yang semakin terjangkiti kemajuan teknologi.\n\n\nNamun sayangnya, karena konsep \nstruktur penulisan\n yang dianut oleh keduanya lebih ditujukan untuk dimanfaatkan secara \nluring\n, maka upaya untuk menyelaraskan PUEBI dengan struktur dokumen berorientasi web memaksa saya untuk menyematkan struktur penulisan yang sedikit berbeda pada Materi PUEBI.\n\n\nPenyelarasan ini dengan tetap memperhatikan esensi dari setiap konten PUEBI, mengakibatkan adanya perbedaan struktur penulisan dalam Materi PUEBI. Perubahan struktur utama yang terdapat di Materi PUEBI yaitu:\n\n\n\n\n\n\nSubbab Tambahan\n\n\nMateri PUEBI sengaja menyisipkan subbab pada setiap butir klausul yang tertera di PUEBI agar fitur daftar isi otomatis yang tersedia pada MkDocs Material dapat dimanfaatkan sebagaimana mestinya, sehingga memberikan keleluasaan lebih bagi pembaca dalam menjelajahi uraian tersebut.\n\n\n\n\n\n\nPenataan Klausul\n\n\nPenambahan subbab seringkali menuntut perombakan susunan klausul dalam PUEBI, beberapa klausul yang memiliki keterkaitan bahkan dikelompokkan dalam subbab tersendiri.\n\n\n\n\n\n\nPeniadaan Halaman\n\n\nBeberapa halaman yang terdapat di PUEBI sengaja dihilangkan semata karena fungsi halaman tersebut mampu digantikan dengan fitur yang tersedia pada Materi PUEBI. Misalnya halaman Sampul, Daftar Isi, dan Indeks.\n\n\n\n\n\n\nWarna Catatan\n\n\nPewarnaan dalam Catatan mengindikasikan maksud dan tujuan dari catatan tersebut, warna biru menandakan tambahan informasi; warna kuning berarti pengecualian; dan warna merah artinya peringatan.\n\n\n\n\n\n\nPerubahan lain hanya seputar hal-hal kecil terkait penyesuaian tipografi dan kerangka yang turut dirombak, baik demi kepentingan tampilan maupun tingkat keterbacaan, seperti penggunaan \naksen nontirus\n berupa \n`\n dan lain sebagainya.\n\n\nGotong Royong\n\u00b6\n\n\nPagi para pengguna Bahasa Indonesia, kontribusi Anda sangat dinanti-nantikan. Kontribusi dan partisipasi dapat dilakukan melalui kolom komentar pada situs Materi PUEBI. Saran dan terutama kritik sangat diharapkan, sehingga Materi PUEBI dapat terus di tumbuh-kembangkan.\n\n\nKontribusi juga dapat dilakukan melalui \nrepositori Materi PUEBI\n di \nGithub\n, dapat dilakukan melalui pull request dengan menggarpu (fork) repositori Materi PUEBI. Namun untuk saat ini perincian proses kontribusi malalu cara ini belum dapat saya uraikan, sebab saya sendiri masih seorang pendatang baru di Github. Mohon bantuannya ... \n.\n\n\nRekam Perilisan\n\u00b6\n\n\n\n\nSegala perubahan penting di setiap perilisan termuat pada bagian ini.\n\n\n\n\nFormat penulisan mengadopsi apa yang tertera pada \nperilisan MkDocs-Material\n dengan berusaha meneladani ketentuan yang tertera pada \"\nKeep a Changelog\n\", juga sekaligus menganut \"\nSemantic Versioning\n\".\n\n\n1.7.1 \n_2017-07-01\n\u00b6\n\n\nDeskripsi\n\u00b6\n\n\n\"Perilisan versi stabil\".\n\n\nJulukan\n\u00b6\n\n\nKemrungsung\n\n\nPerubahan\n\u00b6\n\n\n\n\nStruktur Halaman \"Judul\" dan \"Beranda\";  \n\n\nPerbaikan penerapan admonition;  \n\n\nWarna tema dari \"Biru muda\" ke warna \"Biru\";  \n\n\nTampilan ekstensi \"Detail\" pada bagian \nquote\n.\n\n\n\n\nPenambahan\n\u00b6\n\n\n\n\nFont \"Libre Baskerville\";  \n\n\nTampilan \"penanda\";  \n\n\nGambar di halaman \"Prakata\";  \n\n\nLabel css guna keterangan Gambar.\n\n\n\n\nPembenahan\n\u00b6\n\n\n\n\nBagian \"\nfooter\n\" halaman;  \n\n\nSegudang kesalahan tulis;  \n\n\nPenulisan \"Rekam Perilisan\".\n\n\n\n\nPengurangan\n\u00b6\n\n\n\n\nNihil.\n\n\n\n\n0.6.21 \n_2017-06-21\n\u00b6\n\n\nDeskripsi\n\u00b6\n\n\n\"Perilisan Awal\".\n\n\nKondisi\n\u00b6\n\n\nbeta\n\n\nJulukan\n\u00b6\n\n\nRuag\n\n\nDaftar Tugas\n\u00b6\n\n\n\n\n Merampungkan Penyuntingan\n\n\n Merapikan suntingan\n\n\n Membenahi halaman beranda\n\n\n Merapikan penambahan \ncss\n dan \njs\n.\n\n\n Memperbaiki halaman Tentang\n\n\n Memperjelas penjabaran;\n\n\n Pemisahan Judul:\n\n\n Penambahan panduan kontribusi;\n\n\n\n\n\n\n Menambahkan \nScreenshot\n\n\n Menyisipkan catatan kaki\n\n\n Memperbaharui daftar tugas.\n\n\n\n\nHak Cipta\n\u00b6\n\n\nSama halnya dengan apa yang tertera di PUEBI Daring,  Hak Cipta PUEBI digenggam oleh \nBadan Pengembangan dan Pembinaan Bahasa Republik Indonesia\n.\n\n\nSedangkan lisensi yang tersemat pada Materi PUEBI, yaitu \nMIT license\n.",
             "title": "Tentang Materi PUEBI"
         },
         {
@@ -1227,7 +1227,7 @@
         },
         {
             "location": "/Tentang/#pengerjaan-pengatakan",
-            "text": "Pengerjaan Materi PUEBI, sepenuhnya dilakukan dari ponsel pintar bersistem operasi Android di genggaman tangan.",
+            "text": "",
             "title": "Pengerjaan &amp; Pengatakan"
         },
         {
@@ -1247,17 +1247,67 @@
         },
         {
             "location": "/Tentang/#rekam-perilisan",
-            "text": "",
+            "text": "Segala perubahan penting di setiap perilisan termuat pada bagian ini.   Format penulisan mengadopsi apa yang tertera pada  perilisan MkDocs-Material  dengan berusaha meneladani ketentuan yang tertera pada \" Keep a Changelog \", juga sekaligus menganut \" Semantic Versioning \".",
             "title": "Rekam Perilisan"
         },
         {
-            "location": "/Tentang/#0621-_21-juni-2017",
-            "text": "Kondisi: \"beta\"  Julukan: \"Ruag\"  Deskripsi: \"Perilisan Awal\"",
-            "title": "0.6.21 _21 Juni 2017"
+            "location": "/Tentang/#171-_2017-07-01",
+            "text": "",
+            "title": "1.7.1 _2017-07-01"
+        },
+        {
+            "location": "/Tentang/#deskripsi",
+            "text": "\"Perilisan versi stabil\".",
+            "title": "Deskripsi"
+        },
+        {
+            "location": "/Tentang/#julukan",
+            "text": "Kemrungsung",
+            "title": "Julukan"
+        },
+        {
+            "location": "/Tentang/#perubahan",
+            "text": "Struktur Halaman \"Judul\" dan \"Beranda\";    Perbaikan penerapan admonition;    Warna tema dari \"Biru muda\" ke warna \"Biru\";    Tampilan ekstensi \"Detail\" pada bagian  quote .",
+            "title": "Perubahan"
+        },
+        {
+            "location": "/Tentang/#penambahan",
+            "text": "Font \"Libre Baskerville\";    Tampilan \"penanda\";    Gambar di halaman \"Prakata\";    Label css guna keterangan Gambar.",
+            "title": "Penambahan"
+        },
+        {
+            "location": "/Tentang/#pembenahan",
+            "text": "Bagian \" footer \" halaman;    Segudang kesalahan tulis;    Penulisan \"Rekam Perilisan\".",
+            "title": "Pembenahan"
+        },
+        {
+            "location": "/Tentang/#pengurangan",
+            "text": "Nihil.",
+            "title": "Pengurangan"
+        },
+        {
+            "location": "/Tentang/#0621-_2017-06-21",
+            "text": "",
+            "title": "0.6.21 _2017-06-21"
+        },
+        {
+            "location": "/Tentang/#deskripsi_1",
+            "text": "\"Perilisan Awal\".",
+            "title": "Deskripsi"
+        },
+        {
+            "location": "/Tentang/#kondisi",
+            "text": "beta",
+            "title": "Kondisi"
+        },
+        {
+            "location": "/Tentang/#julukan_1",
+            "text": "Ruag",
+            "title": "Julukan"
         },
         {
             "location": "/Tentang/#daftar-tugas",
-            "text": "Merampungkan Penyuntingan   Merapikan suntingan   Membenahi halaman beranda   Memperbaiki halaman Tentang   Memperjelas penjabaran;   Pemisahan Judul:   Penambahan panduan kontribusi;     Menambahkan  Screenshot   Menyisipkan catatan kaki   Memperbaharui daftar tugas.",
+            "text": "Merampungkan Penyuntingan   Merapikan suntingan   Membenahi halaman beranda   Merapikan penambahan  css  dan  js .   Memperbaiki halaman Tentang   Memperjelas penjabaran;   Pemisahan Judul:   Penambahan panduan kontribusi;     Menambahkan  Screenshot   Menyisipkan catatan kaki   Memperbaharui daftar tugas.",
             "title": "Daftar Tugas"
         },
         {

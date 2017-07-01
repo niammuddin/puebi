@@ -1,9 +1,9 @@
 
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i|Libre+Baskerville:400,400i,500');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,500');
 
 h1 {
   text-align: center;
-  font-weight: 700 !important;
+  font-weight: 500 !important;
 }
 
 h1, h2 {
@@ -11,7 +11,7 @@ h1, h2 {
      -moz-font-feature-settings: "liga" 1, "dlig" 1;
       -ms-font-feature-settings: "liga" 1, "dlig" 1;
           font-feature-settings: "liga" 1, "dlig" 1;
-                    font-family: "Playfair Display", serif;
+                    font-family: "Libre Baskerville", serif;
 }
 
 em {
@@ -168,7 +168,7 @@ ol.kurung-1 li {
 /* ### Penanda ### */
 
 .penanda {
-    font-family: "Playfair Display", serif !important;
+    font-family: "Libre Baskerville", serif !important;
   font-style: normal !important;
   padding:0em .25em;
   border-radius:.2rem;
