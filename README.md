@@ -14,7 +14,7 @@ Selanjutnya, Kemdikbud juga telah menyediakan [buku elektronik PUEBI][1] yang da
 
   [4]: http://badanbahasa.kemdikbud.go.id/lamanbahasa/
 
-## Mengenai Materi PUEBI
+## Mengenai [Materi PUEBI][5]
 
 Sebagian besar konten [**Materi PUEBI**][5] hanyalah salinan dari **buku elektronik PUEBI** (versi pdf) seperti apa yang dilakukan **PUEBI Daring** besutan Om Lanin, tujuan dan sasaran “Materi PUEBI” juga sebagian besar serupa dengan kedua pendahulunya.
 
