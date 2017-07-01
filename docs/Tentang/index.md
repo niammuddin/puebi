@@ -37,8 +37,6 @@ Alasan sepele itulah yang mengakibatkan pengerjaan Materi PUEBI tetap dilakukan 
 
 ### Pengerjaan & Pengatakan
 
->Pengerjaan Materi PUEBI, sepenuhnya dilakukan dari ponsel pintar bersistem operasi Android di genggaman tangan.
-
 #### Perkakas
 
 **Media Perilisan**  
@@ -112,17 +110,64 @@ Kontribusi juga dapat dilakukan melalui [repositori Materi PUEBI][23] di [Github
 
 ## Rekam Perilisan
 
-### 0.6.21 <small>_21 Juni 2017</small>
+>Segala perubahan penting di setiap perilisan termuat pada bagian ini.
 
-* Kondisi: "beta"
-* Julukan: "Ruag"
-* Deskripsi: "Perilisan Awal"
+Format penulisan mengadopsi apa yang tertera pada [perilisan MkDocs-Material](http://squidfunk.github.io/mkdocs-material/release-notes/#changelog) dengan berusaha meneladani ketentuan yang tertera pada "[Keep a Changelog](http://keepachangelog.com/en/1.0.0/)", juga sekaligus menganut "[Semantic Versioning](http://semver.org/spec/v2.0.0.html)".
+
+### 1.7.1 <small>_2017-07-01</small>
+
+#### Deskripsi
+
+<big>"Perilisan versi stabil".</big>
+
+#### Julukan
+
+<big>Kemrungsung</big>
+
+#### Perubahan
+
+* Struktur Halaman "Judul" dan "Beranda";  
+* Perbaikan penerapan admonition;  
+* Warna tema dari "Biru muda" ke warna "Biru";  
+* Tampilan ekstensi "Detail" pada bagian *quote*.
+
+#### Penambahan
+
+* Font "Libre Baskerville";  
+* Tampilan "penanda";  
+* Gambar di halaman "Prakata";  
+* Label css guna keterangan Gambar.
+
+#### Pembenahan
+
+* Bagian "*footer*" halaman;  
+* Segudang kesalahan tulis;  
+* Penulisan "Rekam Perilisan".
+
+#### Pengurangan
+
+* Nihil.
+
+### 0.6.21 <small>_2017-06-21</small>
+
+#### Deskripsi
+
+<big>"Perilisan Awal".</big>
+
+#### Kondisi
+
+<big>beta</big>
+
+#### Julukan
+
+<big>Ruag</big>
 
 ## Daftar Tugas
 
 * [x] Merampungkan Penyuntingan
 * [ ] Merapikan suntingan
-* [ ] Membenahi halaman beranda
+* [x] Membenahi halaman beranda
+* [ ] Merapikan penambahan *css* dan *js*.
 * [ ] Memperbaiki halaman Tentang
     * [ ] Memperjelas penjabaran;
     * [ ] Pemisahan Judul:
