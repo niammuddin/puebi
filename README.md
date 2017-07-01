@@ -2,8 +2,6 @@
 
 > **Pedoman Umum Ejaan Bahasa Indonesia** bernuansa _Material Design_
 
-## Selayang Pandang
-
 **PUEBI** yang merupakan akronim dari Panduan Umum Ejaan Bahasa Indonesia, adalah upaya **Kemdikbud** untuk tetap terus menumbuh-kembangkan Bahasa Indonesia.
 
 Selanjutnya, Kemdikbud juga telah menyediakan [buku elektronik PUEBI][1] yang dapat diunduh dengan cepat dan mudah guna mempermulus upaya publikasi PUEBI pada masyarakat luas. Bahkan berkat seorang *wikipediawan* bernama [Ivan Lanin][2], kini telah tersedia [PUEBI Daring][3] yang dapat diakses secara _online_ kapan dan dimana saja.
@@ -16,7 +14,7 @@ Selanjutnya, Kemdikbud juga telah menyediakan [buku elektronik PUEBI][1] yang da
 
   [4]: http://badanbahasa.kemdikbud.go.id/lamanbahasa/
 
-## Materi PUEBI
+## Mengenai Materi PUEBI
 
 Sebagian besar konten [**Materi PUEBI**][5] hanyalah salinan dari **buku elektronik PUEBI** (versi pdf) seperti apa yang dilakukan **PUEBI Daring** besutan Om Lanin, tujuan dan sasaran “Materi PUEBI” juga sebagian besar serupa dengan kedua pendahulunya.
 
