@@ -161,8 +161,66 @@ ol.kurung-1 li {
   size: 50%;
 }
 
+/* Admonition */
+
 .admonition {
   font-size: 1.5rem !important;
+  background-color: transparent !important;
+  padding: .25em 1rem .1em 1rem;
+}
+
+.admonition-title {
+  margin-bottom: 0;
+}
+
+.kokoh {
+  white-space: nowrap;
+  display: inline-block;
+  max-width: 100%;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/*** Table ***/
+
+table {
+  white-space: nowrap;
+}
+
+details table {
+  box-shadow: none !important;
+  font-size: 1.4rem !important;
+  margin-top: 0em !important;
+}
+
+details table tr:nth-child(2n) {
+  background-color: rgba(68, 138, 255, .15);
+}
+
+.admonition table {
+  box-shadow: none !important;
+  font-size: 1.4rem !important;
+  margin-top: 0em !important;
+}
+
+.admonition p table {
+  margin-top: 0em !important;
+}
+
+.admonition table tr:nth-child(2n) {
+  background-color: rgba(245, 245, 245, .50);
+}
+
+.admonition.tip table tr:nth-child(2n) {
+  background-color: rgba(0, 191, 165, .15);
+}
+
+.admonition.note table tr:nth-child(2n) {
+  background-color: rgba(68, 138, 255, .15);
+}
+
+.admonition.success table tr:nth-child(2n) {
+  background-color: rgba(0, 230, 118, .15);
 }
 
 /* ### Penanda ### */
