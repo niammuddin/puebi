@@ -2,7 +2,7 @@
 
 # Tentang Materi PUEBI
 
-> **Pedoman Umum Ejaan Bahasa Indonesia** bernuansa _Material Design_
+> **Pedoman Umum Ejaan Bahasa Indonesia** bernuansa Desain Material
 
 ## Selayang Pandang
 

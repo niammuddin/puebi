@@ -2,7 +2,7 @@
 
 # PUEBI <small>berdesain Material</small>
 
-><big>Selamat Datang</big> di [Panduan Umum Ejaan Bahasa Indonesia][1] bernuansa [_Material Design_][2].
+><big>Selamat Datang</big> di [Panduan Umum Ejaan Bahasa Indonesia][1] bernuansa [Desain Material][2].
 
 ## Denah Materi PUEBI
 
