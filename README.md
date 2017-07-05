@@ -15,7 +15,7 @@ Sebagian besar konten [**Materi PUEBI**][5] hanyalah salinan dari **buku elektro
 Sesuai dengan kutipan yang tertera di awal halaman ini, penyajian PUEBI dengan nuansa [Desain Material][6] adalah pembeda utama antara Materi PUEBI dengan
 kedua pendahulunya.
 
-Mengenai penjabaran bertele-tele profil **Materi PUEBI** dapat ditemukan di [sini][7].
+Mengenai penjabaran bertele-tele, dapat diperoleh dengan mengunjungi profil [**Materi PUEBI**][7].
 
 
 <!--- Bagian Tautan --->
