@@ -114,6 +114,33 @@ Kontribusi juga dapat dilakukan melalui [repositori Materi PUEBI][23] di [Github
 
 Format penulisan mengadopsi apa yang tertera pada [perilisan MkDocs-Material](http://squidfunk.github.io/mkdocs-material/release-notes/#changelog) dengan berusaha meneladani ketentuan yang tertera pada "[Keep a Changelog](http://keepachangelog.com/en/1.0.0/)", juga sekaligus menganut "[Semantic Versioning](http://semver.org/spec/v2.0.0.html)".
 
+### 1.7.5 <small>_2017-07-05</small>
+
+<big>"Perilisan beta ke-2".</big>
+
+#### Julukan
+
+<big>Clala-clili</big>
+
+#### Perubahan
+  
+* Perombakan susunan, tampilan, dan pemakaian pada admonition dan penanda;
+* Font, kembali menggunakan ~~"Roboto Mono"~~.
+
+#### Penambahan
+
+* Tampilan "Petanda";  
+* Warna pada *Adress-bar*.
+
+#### Pembenahan
+
+* Bagian halaman README.md;
+* Sejumput kesalahan tulis.
+
+#### Pengurangan
+
+* Piranti komentar *disqus*.
+
 ### 1.7.1 <small>_2017-07-01</small>
 
 #### Deskripsi
