@@ -20,7 +20,7 @@ Selanjutnya, Kemdikbud juga telah menyediakan [Buku elektronik PUEBI][2] yang da
 
 Sebagian besar konten [**Materi PUEBI**][5] adalah salinan dari buku elektronik PUEBI seperti apa yang dilakukan PUEBI Daring besutan Om Lanin, namun **disajikan dalam nuansa [Desain Material][6]**. Singkatnya, perbedaan utama antara Materi PUEBI dengan kedua pendahulunya terletak pada tampilan _Material Design_.
 
-  [5]: https://mughnimind.github.io/Materi-PUEBI/
+  [5]: https://mughnimind.github.io/materi-puebi/
   [6]: https://id.m.wikipedia.org/wiki/Desain_material
 
 >Pemilihan kata **Materi** pun selain karena bermakna kandungan/isi PUEBI, juga berkaitan dengan kalimat <strong>Materi</strong>al Design.
@@ -105,7 +105,7 @@ Pagi para pengguna Bahasa Indonesia, kontribusi Anda sangat dinanti-nantikan. Ko
 
 Kontribusi juga dapat dilakukan melalui [repositori Materi PUEBI][23] di [Github][24], dapat dilakukan melalui pull request dengan menggarpu (fork) repositori Materi PUEBI. Namun untuk saat ini perincian proses kontribusi malalu cara ini belum dapat saya uraikan, sebab saya sendiri masih seorang pendatang baru di Github. Mohon bantuannya ... :pray:.
 
-  [23]: https://github.com/mughnimind/Materi-PUEBI
+  [23]: https://github.com/mughnimind/materi-puebi
   [24]: https://github.com
 
 ## Rekam Perilisan
@@ -209,6 +209,6 @@ Sama halnya dengan apa yang tertera di PUEBI Daring,  Hak Cipta PUEBI digenggam 
 
 Sedangkan lisensi yang tersemat pada Materi PUEBI, yaitu [MIT license][25].
 
-[25]: https://github.com/mughnimind/Materi-PUEBI/blob/master/LICENSE.md
+[25]: https://github.com/mughnimind/materi-puebi/blob/master/LICENSE.md
 
 
