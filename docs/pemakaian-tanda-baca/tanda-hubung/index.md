@@ -5,7 +5,7 @@
 !!! summary " "
     Tanda hubung dipakai untuk menandai bagian kata yang terpenggal oleh pergantian baris.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Di samping cara lama, diterapkan juga *ca-  
     ra* baru …. 
 
@@ -21,7 +21,7 @@
 !!! summary " "
     Tanda hubung dipakai untuk menyambung unsur kata ulang.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     anak-anak  
     berulang-ulang  
     kemerah-merahan  
@@ -32,7 +32,7 @@
 !!! summary " "
     Tanda hubung dipakai untuk menyambung tanggal, bulan, dan tahun yang dinyatakan dengan angka atau menyambung huruf dalam kata yang dieja satu-satu.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     11-11-2013  
     p-a-n-i-t-i-a
 
@@ -46,7 +46,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     ber-*evolusi*
 
     meng-*ukur*
@@ -91,7 +91,7 @@
     !!! warning " "
         Tanda hubung tidak dipakai di antara huruf dan angka jika angka tersebut melambangkan jumlah huruf.
 
-        **Misal**  
+        **Misalnya:**  
         BNP2TKI (*B*adan *N*asional *P*enempatan dan *P*erlindungan *T*enaga *K*erja *I*ndonesia)
 
         LP3I (*L*embaga *P*endidikan dan *P*engembangan *P*rofesi *I*ndonesia)
@@ -103,7 +103,7 @@
 !!! summary " "
     Tanda hubung dipakai untuk merangkai unsur bahasa Indonesia dengan unsur bahasa daerah atau bahasa asing.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     di*-sowan-*i (bahasa Jawa, ‘didatangi’)
 
     ber-*pariban* (bahasa Batak, ‘bersaudara sepupu’)
@@ -117,7 +117,7 @@
 !!! summary " "
     Tanda hubung digunakan untuk menandai bentuk terikat yang menjadi objek bahasan.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Kata *pasca*-  berasal dari bahasa Sanskerta.  
     Akhiran  -*isasi* pada kata betonisasi sebaiknya diubah menjadi *pembetonan*.
 

@@ -5,7 +5,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama awal kalimat.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     *A*pa maksudnya?  
     *D*ia membaca buku.  
     *K*ita harus bekerja keras.  
@@ -16,7 +16,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama unsur nama orang, termasuk julukan.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     *A*mir *H*amzah  
     *D*ewi *S*artika  
     *H*alim *P*erdanakusumah  
@@ -34,7 +34,7 @@
     !!! warning " "
         Huruf kapital tidak dipakai sebagai huruf pertama nama orang yang merupakan nama jenis atau satuan ukuran.
 
-        **Misal**  
+        **Misalnya:**  
         ikan *m*ujair  
         mesin *d*iesel  
         5 *a*mpere  
@@ -43,7 +43,7 @@
     !!! warning " "
         Huruf kapital tidak dipakai untuk menuliskan huruf pertama kata yang bermakna ‘anak dari’, seperti _bin_, _binti_, _boru_, dan _van_, atau huruf pertama kata tugas.
 
-        **Misal**  
+        **Misalnya:**  
         Abdul Rahman *b*in Zaini  
         Siti Fatimah *b*inti Salim  
         Indani *b*oru Sitanggang  
@@ -56,7 +56,7 @@
 !!! summary " "
     Huruf kapital dipakai pada awal kalimat dalam petikan langsung.
 
-!!! tip "Misal"  
+!!! tip "Misalnya:"
     Adik bertanya, “*K*apan kita pulang?”
 
     Orang itu menasihati anaknya, “*B*erhati-hatilah, Nak!”
@@ -70,7 +70,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama setiap kata nama agama, kitab suci, dan Tuhan, termasuk sebutan dan kata ganti untuk Tuhan.
 
-!!! tip "Misal"  
+!!! tip "Misalnya:"
     *I*slam  
     *A*lquran  
     *K*risten  
@@ -91,7 +91,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama unsur nama gelar kehormatan, keturunan, keagamaan, atau akademik yang diikuti nama orang, termasuk gelar akademik yang mengikuti nama orang.
 
-!!! tip "Misal"  
+!!! tip "Misalnya:"
     *S*ultan Hasanuddin  
     *M*ahaputra Yamin  
     *H*aji Agus Salim  
@@ -107,7 +107,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama unsur nama gelar kehormatan, keturunan, keagamaan, profesi, serta nama jabatan dan kepangkatan yang dipakai sebagai sapaan.
 
-!!! tip "Misal"  
+!!! tip "Misalnya:"
     Selamat datang, *Y*ang *M*ulia.  
     Semoga berbahagia, *S*ultan.  
     Terima kasih, *K*iai.  
@@ -120,7 +120,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama unsur nama jabatan dan pangkat yang diikuti nama orang atau yang dipakai sebagai pengganti nama orang tertentu, nama instansi, atau nama tempat.
 
-!!! tip "Misal"  
+!!! tip "Misalnya:"
     *W*akil *P*residen Adam Malik  
     *P*erdana *M*enteri Nehru  
     *P*rofesor Supomo
@@ -138,7 +138,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama nama bangsa, suku bangsa, dan bahasa.
 
-!!! tip "Misal"  
+!!! tip "Misalnya:"
     bangsa *I*ndonesia  
     suku *D*ani  
     bahasa *B*ali
@@ -148,7 +148,7 @@
     !!! warning " "
         Nama bangsa, suku bangsa, dan bahasa yang dipakai sebagai bentuk dasar kata turunan _tidak_ ditulis dengan huruf awal kapital.
 
-        **Misal**  
+        **Misalnya:**  
         peng*i*ndonesiaan kata asing  
         ke*i*nggris-*i*nggrisan  
         ke*j*awa-*j*awaan
@@ -160,7 +160,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama nama tahun, bulan, hari, dan hari besar atau hari raya.
 
-!!! tip "Misal"  
+!!! tip "Misalnya:"
     tahun *H*ijriah  
     tarikh *M*asehi  
     bulan *A*gustus  
@@ -175,7 +175,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama unsur nama peristiwa sejarah.
 
-!!! tip "Misal"  
+!!! tip "Misalnya:"
     *K*onferensi *A*sia *A*frika  
     *P*erang *D*unia II  
     *P*roklamasi *K*emerdekaan Indonesia
@@ -184,7 +184,7 @@
     !!! warning " "
         Huruf pertama peristiwa sejarah yang _tidak_ dipakai sebagai nama tidak ditulis dengan huruf kapital.
 
-        **Misal**  
+        **Misalnya:**  
         Soekarno dan Hatta mem*proklamasi*kan kemerdekaan bangsa Indonesia.
 
         Perlombaan senjata membawa risiko pecahnya *perang dunia*.
@@ -194,7 +194,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama nama geografi.
 
-!!! tip "Misal"  
+!!! tip "Misalnya:"
     *J*akarta  
     *A*sia *T*enggara  
     *P*ulau *M*iangas  
@@ -222,7 +222,7 @@
     !!! warning " "
         Huruf pertama nama geografi yang _bukan_ nama diri _tidak_ ditulis dengan huruf kapital.
 
-        **Misal**  
+        **Misalnya:**  
         berlayar ke *t*eluk  
         mandi di *s*ungai  
         menyeberangi *s*elat  
@@ -231,7 +231,7 @@
     !!! warning " "
         Huruf pertama nama diri geografi yang dipakai sebagai nama jenis _tidak_ ditulis dengan huruf kapital.
 
-        **Misal**  
+        **Misalnya:**  
         jeruk *b*ali (*Citrus maxima*)  
         kacang *b*ogor (*Voandzeia subterranea*)  
         nangka *b*elanda (*Anona muricata*)  
@@ -240,7 +240,7 @@
     !!! success " "
         Nama yang disertai nama geografi dan merupakan nama jenis dapat dikontraskan atau disejajarkan dengan nama jenis lain dalam kelompoknya.
 
-        **Misal**  
+        **Misalnya:**  
         Kita mengenal berbagai macam gula, seperti gula *j*awa, gula *p*asir, gula *t*ebu, gula *a*ren, dan gula *a*nggur.
 
         Kunci *i*nggris, kunci *t*olak, dan kunci *r*ing mempunyai fungsi yang berbeda.
@@ -257,7 +257,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama semua kata (termasuk semua unsur bentuk ulang sempurna) dalam nama negara, lembaga, badan, organisasi, atau dokumen, kecuali kata tugas, seperti _di_, _ke_, _dari_, _dan_, _yang_, dan _untuk_.
 
-!!! tip "Misal"  
+!!! tip "Misalnya:"
     *R*epublik *I*ndonesia
 
     *M*ajelis *P*ermusyawaratan *R*akyat *R*epublik *I*ndonesia
@@ -275,7 +275,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama setiap kata (termasuk unsur kata ulang sempurna) di dalam judul buku, karangan, artikel, dan makalah serta nama majalah dan surat kabar, kecuali kata tugas, seperti _di_, _ke_, _dari_, _dan_, _yang_, dan _untuk_, yang tidak terletak pada posisi awal.
 
-!!! tip "Misal"  
+!!! tip "Misalnya:"
     Saya telah membaca buku _**D**ari **A**ve **M**aria ke **J**alan **L**ain ke **R**oma_.
 
     Tulisan itu dimuat dalam majalah _**B**ahasa dan **S**astra_.
@@ -289,7 +289,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama unsur singkatan nama gelar, pangkat, atau sapaan.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     *S*.*H*. sarjana hukum  
     *S*.*K*.*M*. sarjana kesehatan masyarakat  
     *S*.*S*. sarjana sastra  
@@ -316,7 +316,7 @@
 !!! summary " "
     Huruf kapital dipakai sebagai huruf pertama kata penunjuk hubungan kekerabatan, seperti _bapak_, _ibu_, _kakak_, _adik_, dan _paman_, serta kata atau ungkapan lain yang dipakai dalam penyapaan atau pengacuan.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     “Kapan *B*apak berangkat?” tanya Hasan.
 
     Dendi bertanya, “Itu apa, *B*u?”
@@ -333,7 +333,7 @@
     !!! warning " "
         Istilah kekerabatan berikut bukan merupakan penyapaan atau pengacuan.
 
-        **Misal**  
+        **Misalnya:**  
         Kita harus menghormati *b*apak dan *i*bu kita.
 
         Semua *k*akak dan *a*dik saya sudah berkeluarga.
@@ -341,7 +341,7 @@
     !!! success " "
         Kata ganti _Anda_ ditulis dengan huruf awal kapital.
 
-        **Misal**  
+        **Misalnya:**  
         Sudahkah *A*nda tahu?  
         Siapa nama *A*nda?
 

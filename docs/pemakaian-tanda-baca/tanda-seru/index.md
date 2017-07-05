@@ -3,7 +3,7 @@
 !!! summary " "
     Tanda seru dipakai untuk mengakhiri ungkapan atau pernyataan yang berupa seruan atau perintah yang menggambarkan kesungguhan, ketidakpercayaan, atau emosi yang kuat.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Alangkah indahnya taman laut di Bunaken!
 
     Mari kita dukung Gerakan Cinta Bahasa Indonesia!

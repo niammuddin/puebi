@@ -3,7 +3,7 @@
 !!! summary " "
     Kata ganti *ku–* dan *kau–* ditulis serangkai dengan kata yang mengikutinya, sedangkan *–ku*, *–mu*, dan *–nya* ditulis serangkai dengan kata yang mendahuluinya.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Rumah itu telah *ku*jual.
 
     Majalah ini boleh *kau*baca.

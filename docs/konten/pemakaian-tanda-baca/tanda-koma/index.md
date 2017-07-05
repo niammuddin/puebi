@@ -5,7 +5,7 @@
 !!! summary " "
     Tanda koma dipakai di antara unsur-unsur dalam suatu pemerincian atau pembilangan.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Telepon seluler, komputer, atau internet bukan barang asing lagi.
 
     Buku, majalah, dan jurnal termasuk sumber kepustakaan.
@@ -17,7 +17,7 @@
 !!! summary " "
     Tanda koma dipakai sebelum kata penghubung, seperti *tetapi*, *melainkan*, dan *sedangkan*, dalam kalimat majemuk (setara).
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Saya ingin membeli kamera, *tetapi* uang saya belum cukup.
 
     Ini bukan milik saya, *melainkan* milik ayah saya.
@@ -29,7 +29,7 @@
 !!! summary " "
     Tanda koma dipakai untuk memisahkan anak kalimat yang mendahului induk kalimatnya.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Kalau diundang, saya akan datang.
 
     Karena baik hati, dia mempunyai banyak teman.
@@ -40,7 +40,7 @@
     !!! warning " "
         Tanda koma *tidak* dipakai jika induk kalimat mendahului anak kalimat.
 
-        **Misal**  
+        **Misalnya:**  
         Saya akan datang kalau diundang.
 
         Dia mempunyai banyak teman karena baik hati.
@@ -52,7 +52,7 @@
 !!! summary " "
     Tanda koma dipakai di belakang kata atau ungkapan penghubung antarkalimat, seperti *oleh karena itu*, *jadi*, *dengan demikian*, *sehubungan dengan itu*, dan *meskipun demikian*.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Mahasiswa itu rajin dan pandai. *Oleh karena itu*, dia memperoleh beasiswa belajar di luar negeri.
 
     Anak itu memang rajin membaca sejak kecil. *Jadi*, wajar kalau dia menjadi bintang pelajar.
@@ -65,7 +65,7 @@
 !!! summary " "
     Tanda koma dipakai sebelum dan/atau sesudah kata seru, seperti *o*, *ya*, *wah*, *aduh*, atau *hai*, dan kata yang dipakai sebagai sapaan, seperti *Bu*, *Dik*, atau *Nak*.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     *O*, begitu?  
     *Wah*, bukan main!  
     Hati-hati, *ya*, jalannya licin!  
@@ -78,7 +78,7 @@
 !!! summary " "
     Tanda koma dipakai untuk memisahkan petikan langsung dari bagian lain dalam kalimat.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Kata nenek saya, “Kita harus berbagi dalam hidup ini.”
 
     “Kita harus berbagi dalam hidup ini,” kata nenek saya, “karena manusia adalah makhluk sosial.”
@@ -87,7 +87,7 @@
     !!! warning " "
         Tanda koma *tidak* dipakai untuk memisahkan petikan langsung yang berupa kalimat tanya, kalimat perintah, atau kalimat seru dari bagian lain yang mengikutinya.
 
-        **Misal**  
+        **Misalnya:**  
         “Di mana Saudara tinggal?” tanya Pak Lurah.
 
         “Masuk ke dalam kelas sekarang!” perintahnya.
@@ -99,7 +99,7 @@
 !!! summary " "
     Tanda koma dipakai di antara (a) nama dan alamat, (b) bagian-bagian alamat, \(c) tempat dan tanggal, serta (d) nama tempat dan wilayah atau negeri yang ditulis berurutan.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Sdr. Abdullah, Jalan Kayumanis III/18, Kelurahan Kayumanis, Kecamatan Matraman, Jakarta 13130
 
     Dekan Fakultas Kedokteran, Universitas Indonesia, Jalan Salemba Raya 6, Jakarta
@@ -112,7 +112,7 @@
 !!! summary " "
     Tanda koma dipakai untuk memisahkan bagian nama yang dibalik susunannya dalam daftar pustaka.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     <p class="pustaka">Gunawan, Ilham. 1984. <em>Kamus Politik Internasional</em>. Jakarta: Restu Agung.</p>
 
     <p class="pustaka">Halim, Amran (Ed.) 1976. <em>Politik Bahasa Nasional</em>. Jilid Jakarta: Pusat Bahasa.</p>
@@ -124,7 +124,7 @@
 !!! summary " "
     Tanda koma dipakai di antara bagian-bagian dalam catatan kaki atau catatan akhir.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Sutan Takdir Alisjahbana, *Tata Bahasa Baru Bahasa Indonesia*, Jilid 2 (Jakarta: Pustaka Rakyat, 1950), hlm. 25.
 
     Hadikusuma Hilman, *Ensiklopedi Hukum Adat dan Adat Budaya Indonesia* (Bandung: Alumni, 1977), hlm. 12.
@@ -136,7 +136,7 @@
 !!! summary " "
     Tanda koma dipakai di antara nama orang dan singkatan gelar akademis yang mengikutinya untuk membedakannya dari singkatan nama diri, keluarga, atau marga.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     B. Ratulangi, S.E.  
     Ny. Khadijah, M.A.  
     Bambang Irawan, M.Hum.  
@@ -150,7 +150,7 @@
 !!! summary " "
     Tanda koma dipakai sebelum angka desimal atau di antara rupiah dan sen yang dinyatakan dengan angka.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     12,5 m  
     27,3 kg  
     Rp500,50  
@@ -161,7 +161,7 @@
 !!! summary " "
     Tanda koma dipakai untuk mengapit keterangan tambahan atau keterangan aposisi.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Di daerah kami, *misalnya*, masih banyak bahan tambang yang belum diolah.
 
     Semua siswa, *baik laki-laki maupun perempuan*, harus mengikuti latihan paduan suara.
@@ -181,7 +181,7 @@
 !!! summary " "
     Tanda koma dapat dipakai di belakang keterangan yang terdapat pada awal kalimat untuk menghindari salah baca/salah pengertian.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Dalam pengembangan bahasa, kita dapat memanfaatkan bahasa daerah.
 
     Atas perhatian Saudara, kami ucapkan terima kasih.

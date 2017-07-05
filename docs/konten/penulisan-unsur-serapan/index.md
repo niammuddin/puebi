@@ -1756,7 +1756,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 !!! summary " "
     Konsonan ganda diserap menjadi konsonan tunggal, kecuali kalau dapat membingungkan.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     <table>
     <tr>
       <td>a<em>cc</em>u</td>
@@ -1824,7 +1824,7 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 !!! note "Catatan"
     Unsur serapan yang sudah lazim dieja sesuai dengan ejaan bahasa Indonesia tidak perlu lagi diubah.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
 
     <table>
     <tr>

@@ -79,7 +79,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 !!! summary " "
     Bilangan dalam teks yang dapat dinyatakan dengan satu atau dua kata ditulis dengan huruf, kecuali jika dipakai secara berurutan seperti dalam perincian.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Mereka menonton drama itu sampai *tiga* kali.
     Koleksi perpustakaan itu lebih dari *satu juta* buku.
 
@@ -93,7 +93,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 !!! summary " "
     Bilangan pada awal kalimat ditulis dengan huruf.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     *Lima puluh* siswa teladan mendapat beasiswa dari pemerintah daerah.
 
     *Tiga* pemenang sayembara itu diundang ke Jakarta.
@@ -106,7 +106,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
     !!! success " "
         Apabila bilangan pada awal kalimat tidak dapat dinyatakan dengan satu atau dua kata, susunan kalimatnya diubah.
 
-        **Misal**  
+        **Misalnya:**  
         Panitia mengundang *250* orang peserta.
 
         Di lemari itu tersimpan *25* naskah kuno.
@@ -121,7 +121,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 !!! summary " "
     Angka yang menunjukkan bilangan besar dapat ditulis sebagian dengan huruf supaya lebih mudah dibaca.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Dia mendapatkan bantuan *250 juta* rupiah untuk mengembangkan usahanya.
 
     Perusahaan itu baru saja mendapat pinjaman *550 miliar* rupiah.
@@ -133,7 +133,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 !!! summary " "
     Bilangan yang digunakan sebagai unsur nama geografi ditulis dengan huruf.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Kelapa*dua*  
     Kotonan*ampek*  
     Raja*ampat*  
@@ -183,7 +183,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 !!! summary " "
     Angka dipakai untuk menyatakan (a) ukuran panjang, berat, luas, isi, dan waktu serta (b) nilai uang.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     0,5 sentimeter  
     5 kilogram  
     4 hektare  
@@ -200,7 +200,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 !!! summary " "
     Angka dipakai untuk menomori alamat, seperti jalan, rumah, apartemen, atau kamar.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Jalan Tanah Abang I No. 15 atau Jalan Tanah Abang I/15  
     Jalan Wijaya No. 14  
     Hotel Mahameru, Kamar 169  
@@ -209,7 +209,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 !!! summary " "
     Angka dipakai untuk menomori bagian karangan atau ayat kitab suci.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Bab X, Pasal 5, halaman 252  
     Surah Yasin: 9  
     Markus 16: 15—16
@@ -219,7 +219,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 !!! summary " "
     Penulisan bilangan dengan angka dan huruf sekaligus dilakukan dalam peraturan perundang-undangan, akta, dan kuitansi.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Setiap orang yang menyebarkan atau mengedarkan rupiah tiruan, sebagaimana dimaksud dalam Pasal 23 ayat (2), dipidana dengan pidana kurungan paling lama *1* (*satu*) tahun dan pidana denda paling banyak *Rp200.000.000,00* (*dua ratus juta rupiah*).
 
     Telah diterima uang sebanyak *Rp2.950.000,00* (*dua juta sembilan ratus lima puluh ribu rupiah*) untuk pembayaran satu unit televisi.
@@ -227,7 +227,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
 !!! summary " "
     Penulisan bilangan yang dilambangkan dengan angka dan diikuti huruf dilakukan seperti berikut.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Saya lampirkan tanda terima uang sebesar *Rp900.500,50* (*sembilan ratus ribu lima ratus rupiah lima puluh sen*).
 
     Bukti pembelian barang seharga *Rp5.000.000,00* (*lima juta rupiah*) ke atas harus dilampirkan pada laporan pertanggungjawaban.

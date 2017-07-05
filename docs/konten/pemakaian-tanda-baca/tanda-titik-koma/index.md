@@ -5,7 +5,7 @@
 !!! summary " "
     Tanda titik koma dapat dipakai sebagai pengganti kata penghubung untuk memisahkan kalimat setara yang satu dari kalimat setara yang lain di dalam kalimat majemuk.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Hari sudah malam; anak-anak masih membaca buku.
 
     Ayah menyelesaikan pekerjaan; Ibu menulis makalah; Adik membaca cerita pendek.
@@ -17,7 +17,7 @@
 !!! summary " "
     Tanda titik koma dipakai pada akhir perincian yang berupa klausa.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     <p class="sblm-dftr">Syarat penerimaan pegawai di lembaga ini adalah=</p>
     <ol class="kurung-1">
       <li>berkewarganegaraan Indonesia;</li>
@@ -31,7 +31,7 @@
 !!! summary " "
     Tanda titik koma dipakai untuk memisahkan bagian-bagian pemerincian dalam kalimat yang sudah menggunakan tanda koma.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
       Ibu membeli buku, pensil, dan tinta; baju, celana, dan kaus; pisang, apel, dan jeruk.
 
     <p class="sblm-dftr">Agenda rapat ini meliputi</p>
