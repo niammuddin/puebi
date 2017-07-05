@@ -1,6 +1,6 @@
 # Materi PUEBI
 
-> **Pedoman Umum Ejaan Bahasa Indonesia** bernuansa _Material Design_
+> **Pedoman Umum Ejaan Bahasa Indonesia** bernuansa Desain Material
 
 **PUEBI** yang merupakan akronim dari Panduan Umum Ejaan Bahasa Indonesia, adalah upaya **Kemdikbud** untuk tetap terus menumbuh-kembangkan Bahasa Indonesia.
 
