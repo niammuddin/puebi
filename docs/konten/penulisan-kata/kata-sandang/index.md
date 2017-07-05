@@ -3,7 +3,7 @@
 !!! summary " "
     Kata <em>si</em> dan <em>sang</em> ditulis terpisah dari kata yang mengikutinya.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Surat itu dikembalikan kepada <em>si</em> pengirim.
 
     Toko itu memberikan hadiah kepada <em>si</em> pembeli.
@@ -20,7 +20,7 @@
     !!! summary " "
         Huruf awal <em>sang</em> ditulis dengan huruf kapital jika <em>sang</em> merupakan unsur nama Tuhan.
 
-        **Misal**  
+        **Misalnya:**  
         Kita harus berserah diri kepada <em>Sang</em> Pencipta.
 
         Pura dibangun oleh umat Hindu untuk memuja <em>Sang</em> Hyang Widhi Wasa.

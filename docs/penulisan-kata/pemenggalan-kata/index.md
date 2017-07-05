@@ -9,7 +9,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Jika di tengah kata terdapat huruf vokal yang berurutan, pemenggalannya dilakukan di antara kedua huruf vokal itu.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     b*u*-*a*h  
     m*a*-*i*n  
     n*i*-*a*t  
@@ -20,7 +20,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Huruf diftong *ai*, *au* *ei*, dan *oi* tidak dipenggal.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     pan-d*ai*  
     *au*-la  
     s*au*-da-ra  
@@ -34,7 +34,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Jika di tengah kata dasar terdapat huruf konsonan (termasuk gabungan huruf konsonan) di antara dua huruf vokal, pemenggalannya dilakukan sebelum huruf konsonan itu.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     b*a*-*p*ak  
     l*a*-*w*an  
     d*e*-*n*gan  
@@ -47,7 +47,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Jika di tengah kata dasar terdapat dua huruf konsonan yang berurutan, pemenggalannya dilakukan di antara kedua huruf konsonan itu.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     A*p*-*r*il  
     ca*p*-*l*ok  
     ma*kh*-*l*uk  
@@ -61,7 +61,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Jika di tengah kata dasar terdapat tiga huruf konsonan atau lebih yang masing-masing melambangkan satu bunyi, pemenggalannya dilakukan di antara huruf konsonan yang pertama dan huruf konsonan yang kedua.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     u*l*-*t*ra  
     i*n*-*f*ra  
     be*n*-*t*rok  
@@ -71,7 +71,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
     !!! warning " "
         Gabungan huruf konsonan yang melambangkan satu bunyi tidak dipenggal.
 
-        **Misal**  
+        **Misalnya:**  
         ba*ng*-krut  
         ba*ng*-sa  
         ba-*ny*ak  
@@ -86,7 +86,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan unsur pembentuknya.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     <table>
       <tr>
         <td>ber-jalan</td>
@@ -133,7 +133,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
     !!! summary " "
         Pemenggalan kata berimbuhan yang bentuk dasarnya mengalami perubahan dilakukan seperti pada kata dasar.
 
-        **Misal**  
+        **Misalnya:**  
         *me*-*nu*-tup  
         *me*-*ma*-kai  
         *me*-*nya*-pu  
@@ -147,7 +147,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
     !!! summary " "
         Pemenggalan kata bersisipan dilakukan seperti pada kata dasar.
 
-        **Misal**  
+        **Misalnya:**  
         ge-lem-bung  
         ge-mu-ruh  
         ge-ri-gi  
@@ -157,7 +157,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
     !!! summary " "
         Pemenggalan kata yang menyebabkan munculnya satu huruf di awal atau akhir baris tidak dilakukan.
 
-        **Misal**  
+        **Misalnya:**  
         Beberapa pendapat mengenai masalah *i*tu telah disampaikan ….
 
         Walaupun cuma-cuma, mereka tidak ma*u* mengambil makanan itu.
@@ -167,7 +167,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu dapat bergabung dengan unsur lain, pemenggalannya dilakukan di antara unsur-unsur itu. Tiap unsur gabungan itu dipenggal seperti pada kata dasar.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     <table>
       <tr>
         <td>biografi</td>
@@ -220,7 +220,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara unsur-unsurnya.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Lagu “Indonesia Raya” digubah oleh Wage Rudolf  
     Supratman.
 
@@ -232,7 +232,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Singkatan nama diri dan gelar yang terdiri atas dua huruf atau lebih tidak dipenggal.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     
     Ia bekerja di *DLLAJR*.
     <p class="kokoh">Pujangga terakhir Keraton Surakarta bergelar <em>R.Ng.</em> <br>Rangga Warsita.</p>

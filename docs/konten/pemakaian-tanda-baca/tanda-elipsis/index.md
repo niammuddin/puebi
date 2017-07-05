@@ -6,7 +6,7 @@
 !!! summary " "
     Tanda elipsis dipakai untuk menunjukkan bahwa dalam suatu kalimat atau kutipan ada bagian yang dihilangkan.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Penyebab kemerosotan … akan diteliti lebih lanjut.
 
     Dalam Undang-Undang Dasar 1945 disebutkan bahwa bahasa negara ialah ….
@@ -25,7 +25,7 @@
 !!! summary " "
     Tanda elipsis dipakai untuk menulis ujaran yang tidak selesai dalam dialog.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     “Menurut saya … seperti … bagaimana, Bu?”
 
     “Jadi, simpulannya … oh, sudah saatnya istirahat.”

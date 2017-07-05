@@ -5,7 +5,7 @@
 !!! summary " "
     Imbuhan (awalan, sisipan, akhiran, serta gabungan awalan dan akhiran) ditulis serangkai dengan bentuk dasarnya.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     *ber*jalan  
     *ber*kelanjutan  
     *mem*permudah  
@@ -18,7 +18,7 @@
     !!! success " "
         Imbuhan yang diserap dari unsur asing, seperti &#8209;*isme*, &#8209;*man*, &#8209;*wan*, atau &#8209;*wi*, ditulis serangkai dengan bentuk dasarnya.
 
-        **Misal**  
+        **Misalnya:**  
         suku*isme*  
         seni*man*  
         kamera*wan*  
@@ -29,7 +29,7 @@
 !!! summary " "
     Bentuk terikat ditulis serangkai dengan kata yang mengikutinya.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     <table>
       <tr>
         <td><em>adi</em>busana</td>
@@ -97,7 +97,7 @@
     !!! summary " "
         Bentuk terikat yang diikuti oleh kata yang berhuruf awal kapital atau singkatan yang berupa huruf kapital dirangkaikan dengan tanda hubung <span class="penanda">-</span>.
 
-        **Misal**  
+        **Misalnya:**  
         *non*-Indonesia  
         *pan*-Afrikanisme  
         *pro*-Barat  
@@ -107,7 +107,7 @@
     !!! summary " "
         Bentuk *maha* yang diikuti kata turunan yang mengacu pada nama atau sifat Tuhan ditulis terpisah dengan huruf awal kapital.
 
-        **Misal**  
+        **Misalnya:**  
         Marilah kita bersyukur kepada Tuhan Yang *M*aha Pengasih.
 
         Kita berdoa kepada Tuhan Yang *M*aha Pengampun .
@@ -115,7 +115,7 @@
     !!! warning " "
         Bentuk maha yang diikuti kata dasar yang mengacu kepada nama atau sifat Tuhan, kecuali kata *esa*, ditulis serangkai.
 
-        **Misal**  
+        **Misalnya:**  
         Tuhan Yang *Mahakuasa* menentukan arah hidup kita.
 
         Mudah-mudahan Tuhan Yang *Maha Esa* melindungi kita.

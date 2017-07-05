@@ -5,7 +5,7 @@
 !!! summary " "
     Partikel *-lah*, *-kah*, dan *-tah* ditulis serangkai dengan kata yang mendahuluinya.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Baca*lah* buku itu baik-baik!  
     Apa*kah* yang tersirat dalam surat itu?  
     Siapa*kah* gerangan dia?  
@@ -18,7 +18,7 @@
 !!! summary " "
     Partikel *pun* ditulis terpisah dari kata yang mendahuluinya.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Apa *pun* permasalahan yang muncul, dia dapat
     mengatasinya dengan bijaksana.
 
@@ -32,7 +32,7 @@
     !!! warning " "
         Partikel *pun* yang merupakan unsur kata penghubung ditulis serangkai.
 
-        **Misal**  
+        **Misalnya:**  
         Meski*pun* sibuk, dia dapat menyelesaikan tugas tepat pada waktunya.
 
         Dia tetap bersemangat walau*pun* lelah.
@@ -46,7 +46,7 @@
 !!! summary " "
     Partikel per yang berarti ‘demi’, ‘tiap’, atau ‘mulai’ ditulis terpisah dari kata yang mengikutinya.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Mereka masuk ke dalam ruang rapat satu *per* satu.
 
     Harga kain itu Rp50.000,00 *per* meter.

@@ -5,7 +5,7 @@
 !!! summary " "
     Tanda titik dua dipakai pada akhir suatu pernyataan lengkap yang diikuti pemerincian atau penjelasan.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Mereka memerlukan perabot rumah tangga: kursi, meja,
       dan lemari.
 
@@ -17,7 +17,7 @@
 !!! warning " "
     Tanda titik dua _tidak_ dipakai jika perincian atau penjelasan itu merupakan pelengkap yang mengakhiri pernyataan.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Kita memerlukan kursi, meja, dan lemari.
 
     Tahap penelitian yang harus dilakukan meliputi  
@@ -31,7 +31,7 @@
 !!! summary " "
     Tanda titik dua dipakai sesudah kata atau ungkapan yang memerlukan pemerian.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     a. Ketua     : Ahmad Wijaya  
     Sekretaris  : Siti Aryani  
     Bendahara : Aulia Arimbi
@@ -45,7 +45,7 @@
 !!! summary " "
     Tanda titik dua dipakai dalam naskah drama sesudah kata yang menunjukkan pelaku dalam percakapan.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     Ibu : “Bawa koper ini, Nak!”  
     Amir : “Baik, Bu.”  
     Ibu : “Jangan lupa, letakkan baik-baik!”  
@@ -61,7 +61,7 @@
     <li>nama kota dan penerbit dalam daftar pustaka.</li>
     </ol>
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     _Horison_, XLIII, No. 8/2008: 8  
     Surah Albaqarah: 2—5  
     Matius 2: 1—3

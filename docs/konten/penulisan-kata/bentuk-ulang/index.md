@@ -3,7 +3,7 @@
 !!! summary " "
     Bentuk ulang ditulis dengan menggunakan tanda hubung <span class="penanda">-</span> di antara unsur-unsurnya.
 
-!!! tip "Misal"
+!!! tip "Misalnya:"
     <table>
       <tr>
         <td>anak-anak</td>
@@ -47,7 +47,7 @@
     !!! summary " "
         Bentuk ulang gabungan kata ditulis dengan mengulang unsur pertama.
 
-    !!! tip "Misal"
+    !!! tip "Misalnya:"
         <table>
           <tr>
             <td>surat kabar</td>
