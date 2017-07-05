@@ -55,9 +55,9 @@
     !!! summary "[Penulisan Unsur Serapan][40]"
 
 !!! warning "Perhatian"
-    Jika ini adalah kali pertama kunjungan Anda ke Materi PUEBI, baiknya bukalah terlebih dahulu halaman [**Tentang**][41] yang akan menjabarkan segala yang diperlukan untuk menjelajahi **Materi PUEBI**.
+    Jika ini adalah kali pertama kunjungan Anda ke Materi PUEBI, baiknya bukalah terlebih dahulu halaman [**Profil**][41] yang akan menjabarkan segala yang diperlukan untuk menjelajahi **Materi PUEBI**.
 
-[41]: Tentang/index.md
+[41]: Profil/index.md
 
 <!--- ~~~~~~~~~ --->
 <!--- Bagian tautan --->
@@ -116,4 +116,4 @@
 <!--- Penulisan Unsur Serapan --->
   [40]: Konten/Penulisan_Unsur_Serapan/index.md
 
-  [41]: Tentang/index.md
+  [41]: Profil/index.md
