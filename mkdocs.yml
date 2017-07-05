@@ -73,7 +73,7 @@ extra:
     primary: 'blue'
     accent: 'red'
 ## Kolom Komentar
-  disqus: 'acemughnie'
+#  disqus: 'acemughnie'
 ## Aksara
   font:
     text: 'Roboto'
