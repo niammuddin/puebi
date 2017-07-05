@@ -9,23 +9,23 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Jika di tengah kata terdapat huruf vokal yang berurutan, pemenggalannya dilakukan di antara kedua huruf vokal itu.
 
-???+ tip "Misal"
-    b<em>u-a</em>h  
-    m<em>a-i</em>n  
-    n<em>i-a</em>t  
-    s<em>a-a</em>t
+!!! tip "Misal"
+    b*u*-*a*h  
+    m*a*-*i*n  
+    n*i*-*a*t  
+    s*a*-*a*t
 
 ### Huruf Diftong
 
 !!! summary " "
-    Huruf diftong <em>ai</em>, <em>au</em> <em>ei</em>, dan <em>oi</em> tidak dipenggal.
+    Huruf diftong *ai*, *au* *ei*, dan *oi* tidak dipenggal.
 
-???+ tip "Misal"
-    pan-d<em>ai</em>  
-    <em>au</em>-la  
-    s<em>au</em>-da-ra  
-    sur-v<em>ei</em>  
-    am-b<em>oi</em>
+!!! tip "Misal"
+    pan-d*ai*  
+    *au*-la  
+    s*au*-da-ra  
+    sur-v*ei*  
+    am-b*oi*
 
 ### Huruf Konsonan
 
@@ -34,59 +34,59 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Jika di tengah kata dasar terdapat huruf konsonan (termasuk gabungan huruf konsonan) di antara dua huruf vokal, pemenggalannya dilakukan sebelum huruf konsonan itu.
 
-???+ tip "Misal"
-    b<em>a-p</em>ak  
-    l<em>a-w</em>an  
-    d<em>e-n</em>gan  
-    k<em>e-n</em>yang  
-    m<em>u-ta-kh</em>ir  
-    m<em>u-sya</em>-wa-<em>r</em>ah
+!!! tip "Misal"
+    b*a*-*p*ak  
+    l*a*-*w*an  
+    d*e*-*n*gan  
+    k*e*-*n*yang  
+    m*u*-*ta*-*kh*ir  
+    m*u*-*sya*-wa-*r*ah
 
 #### Dua Konsonan Berurutan
 
 !!! summary " "
     Jika di tengah kata dasar terdapat dua huruf konsonan yang berurutan, pemenggalannya dilakukan di antara kedua huruf konsonan itu.
 
-???+ tip "Misal"
-    A<em>p-r</em>il  
-    ca<em>p-l</em>ok  
-    ma<em>kh-l</em>uk  
-    ma<em>n-d</em>i  
-    sa<em>ng-g</em>up  
-    so<em>m-b</em>ong  
-    swa<em>s-t</em>a
+!!! tip "Misal"
+    A*p*-*r*il  
+    ca*p*-*l*ok  
+    ma*kh*-*l*uk  
+    ma*n*-*d*i  
+    sa*ng*-*g*up  
+    so*m*-*b*ong  
+    swa*s*-*t*a
 
 #### Tiga Konsonan
 
 !!! summary " "
     Jika di tengah kata dasar terdapat tiga huruf konsonan atau lebih yang masing-masing melambangkan satu bunyi, pemenggalannya dilakukan di antara huruf konsonan yang pertama dan huruf konsonan yang kedua.
 
-???+ tip "Misal"
-    u<em>l-t</em>ra  
-    i<em>n-f</em>ra  
-    be<em>n-t</em>rok  
-    i<em>n-s</em>tru-men
+!!! tip "Misal"
+    u*l*-*t*ra  
+    i*n*-*f*ra  
+    be*n*-*t*rok  
+    i*n*-*s*tru-men
 
 ???+ note "Catatan"
     !!! warning " "
         Gabungan huruf konsonan yang melambangkan satu bunyi tidak dipenggal.
 
         **Misal**  
-        ba<em>ng</em>-krut  
-        ba<em>ng</em>-sa  
-        ba-<em>ny</em>ak  
-        i<em>kh</em>-las  
-        ko<em>ng</em>-res  
-        ma<em>kh</em>-luk  
-        ma<em>sy</em>-hur  
-        sa<em>ng</em>-gup
+        ba*ng*-krut  
+        ba*ng*-sa  
+        ba-*ny*ak  
+        i*kh*-las  
+        ko*ng*-res  
+        ma*kh*-luk  
+        ma*sy*-hur  
+        sa*ng*-gup
 
 ## Kata Turunan
 
 !!! summary " "
     Pemenggalan kata turunan sedapat-dapatnya dilakukan di antara bentuk dasar dan unsur pembentuknya.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <table>
       <tr>
         <td>ber-jalan</td>
@@ -125,7 +125,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
         <td>ke-kuatan</td>
       </tr>
       <tr>
-        <td>kekuat-an</td>
+        <td rowspan="2">kekuat-an</td>
       </tr>
     </table>
 
@@ -134,15 +134,15 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
         Pemenggalan kata berimbuhan yang bentuk dasarnya mengalami perubahan dilakukan seperti pada kata dasar.
 
         **Misal**  
-        <em>me-nu</em>-tup  
-        <em>me-ma</em>-kai  
-        <em>me-nya</em>-pu  
-        <em>me-nge</em>-cat  
-        <em>pe-mi</em>-kir  
-        <em>pe-no</em>- long  
-        <em>pe-nga</em>-rang  
-        <em>pe-nge</em>-tik  
-        <em>pe-nye</em>-but
+        *me*-*nu*-tup  
+        *me*-*ma*-kai  
+        *me*-*nya*-pu  
+        *me*-*nge*-cat  
+        *pe*-*mi*-kir  
+        *pe*-*no*-long  
+        *pe*-*nga*-rang  
+        *pe*-*nge*-tik  
+        *pe*-*nye*-but
 
     !!! summary " "
         Pemenggalan kata bersisipan dilakukan seperti pada kata dasar.
@@ -158,16 +158,16 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
         Pemenggalan kata yang menyebabkan munculnya satu huruf di awal atau akhir baris tidak dilakukan.
 
         **Misal**  
-        Beberapa pendapat mengenai masalah <em>i</em>tu telah disampaikan ….
+        Beberapa pendapat mengenai masalah *i*tu telah disampaikan ….
 
-        Walaupun cuma-cuma, mereka tidak ma<em>u</em> mengambil makanan itu.
+        Walaupun cuma-cuma, mereka tidak ma*u* mengambil makanan itu.
 
 ## Dua Unsur Kata
 
 !!! summary " "
     Jika sebuah kata terdiri atas dua unsur atau lebih dan salah satu unsurnya itu dapat bergabung dengan unsur lain, pemenggalannya dilakukan di antara unsur-unsur itu. Tiap unsur gabungan itu dipenggal seperti pada kata dasar.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <table>
       <tr>
         <td>biografi</td>
@@ -220,7 +220,7 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Nama orang yang terdiri atas dua unsur atau lebih pada akhir baris dipenggal di antara unsur-unsurnya.
 
-???+ tip "Misal"
+!!! tip "Misal"
     Lagu “Indonesia Raya” digubah oleh Wage Rudolf  
     Supratman.
 
@@ -232,20 +232,15 @@ Pemenggalan kata pada kata dasar dilakukan sebagai berikut.
 !!! summary " "
     Singkatan nama diri dan gelar yang terdiri atas dua huruf atau lebih tidak dipenggal.
 
-???+ tip "Misal"
-    !!! success " "
-        Ia bekerja di *DLLAJR*.
+!!! tip "Misal"
+    
+    Ia bekerja di *DLLAJR*.
+    <p class="kokoh">Pujangga terakhir Keraton Surakarta bergelar <em>R.Ng.</em> <br>Rangga Warsita.</p>
 
-        Pujangga terakhir Keraton Surakarta bergelar *R.Ng.*
-        Rangga Warsita.
+    **Penulisan berikut dihindari.**
 
-    !!! warning " "
-        **Penulisan berikut dihindari.**
-
-        Ia bekerja di *DLL-  
-        AJR*.
-
-        Pujangga terakhir Keraton Surakarta bergelar *R.  
-        Ng.* Rangga Warsita.
+    Ia bekerja di *DLL*-  
+    *AJR*.
+    <p class="kokoh">Pujangga terakhir Keraton Surakarta bergelar <em>R.<br>Ng.</em> Rangga Warsita.</p>
 
 

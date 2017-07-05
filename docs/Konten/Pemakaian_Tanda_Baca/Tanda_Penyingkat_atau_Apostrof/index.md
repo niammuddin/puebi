@@ -3,7 +3,7 @@
 !!! summary " "
     Tanda penyingkat dipakai untuk menunjukkan penghilangan bagian kata atau bagian angka tahun dalam konteks tertentu.
 
-???+ tip "Misal"
+!!! tip "Misal"
     Dia ‘kan kusurati. (‘kan = akan)
 
     Mereka sudah datang, ‘kan? (‘kan = bukan)

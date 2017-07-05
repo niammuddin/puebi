@@ -5,17 +5,17 @@
 !!! summary " "
     Tanda garis miring dipakai dalam nomor surat, nomor pada alamat, dan penandaan masa satu tahun yang terbagi dalam dua tahun takwim.
 
-???+ tip "Misal"
-      Nomor: 7/PK/II/2013  
-      Jalan Kramat III/10  
-      tahun ajaran 2012/2013
+!!! tip "Misal"
+    Nomor: 7/PK/II/2013  
+    Jalan Kramat III/10  
+    tahun ajaran 2012/2013
 
 ## Pengganti
 
 !!! summary " "
     Tanda garis miring dipakai sebagai pengganti kata _dan_, _atau_, serta _setiap_.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <table>
       <tr>
         <td>mahasiswa/mahasiswi</td>
@@ -40,13 +40,11 @@
 !!! summary " "
     Tanda garis miring dipakai untuk mengapit huruf, kata, atau kelompok kata sebagai koreksi atau pengurangan atas kesalahan atau kelebihan di dalam naskah asli yang ditulis orang lain.
 
-???+ tip "Misal"
-      Buku Pengantar _Ling/g/uistik_ karya Verhaar dicetak
-        beberapa kali.
+!!! tip "Misal"
+    Buku Pengantar _Ling/g/uistik_ karya Verhaar dicetak beberapa kali.
 
-      _Asmara/n/dana_ merupakan salah satu tembang
-        maca-pat budaya Jawa.
+    _Asmara/n/dana_ merupakan salah satu tembang maca-pat budaya Jawa.
 
-      Dia sedang menyelesaikan */h/utangnya* di bank.
+    Dia sedang menyelesaikan */h/utangnya* di bank.
 
 

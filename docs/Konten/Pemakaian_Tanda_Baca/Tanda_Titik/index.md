@@ -5,7 +5,7 @@
 !!! summary " "
     Tanda titik dipakai pada akhir kalimat pernyataan.
 
-???+ tip "Misal"  
+!!! tip "Misal"  
     Mereka duduk di sana.  
     Dia akan datang pada pertemuan itu.
 
@@ -14,7 +14,7 @@
 !!! summary " "
     Tanda titik dipakai di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar.
 
-???+ tip "Misal"
+!!! tip "Misal"
     a. I. Kondisi Kebahasaan di Indonesia  
     <span style="margin-left:1.7em">A. Bahasa Indonesia</span>  
     <span style="margin-left:2.7em">1\. Kedudukan</span>  
@@ -69,7 +69,7 @@
 !!! summary " "
     Tanda titik dipakai untuk memisahkan angka jam, menit, dan detik yang menunjukkan waktu atau jangka waktu.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <table>
       <tr>
         <td>pukul 01.35.20</td>
@@ -94,7 +94,7 @@
 !!! summary " "
     Tanda titik dipakai dalam daftar pustaka di antara nama penulis, tahun, judul tulisan (yang tidak berakhir dengan tanda tanya atau tanda seru), dan tempat terbit.
 
-???+ tip "Misal"  
+!!! tip "Misal"  
     <p class="pustaka">Pusat Bahasa, Departemen Pendidikan Nasional. 2008. _Peta Bahasa di Negara Kesatuan Republik Indonesia_. Jakarta.</p>
 
     <p class="pustaka">Moeliono, Anton M. 1989. _Kembara Bahasa_. Jakarta: Gramedia.</p>
@@ -104,7 +104,7 @@
 !!! summary " "
     Tanda titik dipakai untuk memisahkan bilangan ribuan atau kelipatannya yang menunjukkan jumlah.
 
-???+ tip "Misal"  
+!!! tip "Misal"  
     Indonesia memiliki lebih dari _13.000_ pulau.
 
     Penduduk kota itu lebih dari _7.000.000_ orang.

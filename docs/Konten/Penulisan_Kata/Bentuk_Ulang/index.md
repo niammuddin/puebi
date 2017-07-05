@@ -1,9 +1,9 @@
 # Bentuk Ulang
 
 !!! summary " "
-    Bentuk ulang ditulis dengan menggunakan tanda hubung \``-`\` di antara unsur-unsurnya.
+    Bentuk ulang ditulis dengan menggunakan tanda hubung <span class="penanda">-</span> di antara unsur-unsurnya.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <table>
       <tr>
         <td>anak-anak</td>
@@ -48,12 +48,21 @@
         Bentuk ulang gabungan kata ditulis dengan mengulang unsur pertama.
 
     !!! tip "Misal"
-        surat kabar  
-        → surat-surat kabar  
-        kapal barang  
-        → kapal-kapal barang  
-        rak buku  
-        → rak-rak buku  
-        kereta api cepat  
-        → kereta-kereta api cepat
-    
+        <table>
+          <tr>
+            <td>surat kabar</td>
+            <td>→&emsp;surat-surat kabar</td>
+          </tr>
+          <tr>
+            <td>kapal barang</td>
+            <td>→&emsp;kapal-kapal barang</td>
+          </tr>
+          <tr>
+            <td>rak buku</td>
+            <td>→&emsp;rak-rak buku</td>
+          </tr>
+          <tr>
+            <td>kereta api cepat</td>
+            <td>→&emsp;kereta-kereta api cepat</td>
+          </tr>
+        </table>

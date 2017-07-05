@@ -143,7 +143,7 @@
 
 </table>
 
-???+ note " * Keterangan"
-    Huruf <span class="penanda">**q**</span> dan <span class="penanda">**x**</span> khusus digunakan untuk nama diri dan keperluan ilmu. Huruf <span class="penanda">**x**</span> pada posisi awal kata diucapkan <span class="penanda">**s**</span>.
+!!! note " * Keterangan"
+    Huruf <span class="penanda">**q**</span> dan <span class="penanda">**x**</span> khusus digunakan untuk nama diri dan keperluan ilmu. Huruf <span class="penanda">**x**</span> pada posisi awal kata diucapkan <span class="petanda">**s**</span>.
 
 

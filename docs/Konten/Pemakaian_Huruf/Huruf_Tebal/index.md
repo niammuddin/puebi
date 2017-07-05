@@ -5,7 +5,7 @@
 !!! summary " "
     Huruf tebal dipakai untuk menegaskan bagian tulisan yang   sudah ditulis miring.
 
-???+ tip "Misal"
+!!! tip "Misal"
     Huruf <em>dh</em>, seperti pada kata   <em>Rama<strong>dh</strong>an</em>, tidak terdapat   dalam Ejaan Bahasa Indonesia.  
     Kata <em>et</em> dalam ungkapan <em>ora   <strong>et</strong> labora</em> berarti \`dan\`.
 
@@ -14,7 +14,7 @@
 !!! summary " "
     Huruf tebal dapat dipakai untuk menegaskan bagian-bagian   karangan, seperti judul buku, bab, atau subbab.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <strong>1.1&emsp;Latar Belakang dan Masalah</strong>  
     Kondisi kebahasaan di Indonesia yang diwarnai oleh   bahasa standar dan nonstandar, ratusan bahasa daerah,   dan ditambah beberapa bahasa asing, membutuhkan   penanganan yang tepat dalam perencanaan bahasa.   Agar lebih jelas, latar belakang dan masalah akan   diuraikan secara terpisah seperti tampak pada paparan berikut.
 

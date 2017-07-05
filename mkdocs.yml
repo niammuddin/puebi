@@ -49,8 +49,8 @@ pages:
     - 'Tanda Penyingkat atau Apostrof': 'Konten/Pemakaian_Tanda_Baca/Tanda_Penyingkat_atau_Apostrof/index.md'
   - 'Unsur Serapan':
     - 'Penulisan Unsur Serapan': 'Konten/Penulisan_Unsur_Serapan/index.md'
-  - 'Tentang':
-    - 'Tentang Materi PUEBI': 'Tentang/index.md'
+  - 'Profil':
+    - 'Profil Materi PUEBI': 'Profil/index.md'
 
 # Hak cipta
 copyright: 'Dibuat sepenuh hati oleh &copy; MughniMind'
@@ -62,22 +62,22 @@ repo_url: 'https://github.com/mughnimind/Materi-PUEBI'
 # Dokumentasi dan Tema
 theme: 'material'
 theme_dir: 'tema'
-site_favicon: 'aset/gambar/favicon.ico'
+site_favicon: 'assets/gambar/favicon.ico'
 
 # Pengaya
 extra:
   feature:
     tabs: false
-  logo: 'aset/gambar/logo.svg'
+  logo: 'assets/gambar/logo.svg'
   palette:
     primary: 'blue'
     accent: 'red'
 ## Kolom Komentar
-  disqus: 'acemughnie'
+#  disqus: 'acemughnie'
 ## Aksara
   font:
     text: 'Roboto'
-    code: 'Ubuntu Mono'
+    code: 'Roboto Mono'
 ## Media Sosial
   social:
     - type: 'github-alt'
@@ -90,11 +90,11 @@ extra:
       link: 'https://plus.google.com/+AceMughnie'
 ## Css & JavaScript Imbuhan
 extra_css:
-  - 'ekstra/css-ekstra.css'
-  - 'ekstra/tulis-css.css'
-  - 'ekstra/label.css'
+  - 'assets/ekstra/css-ekstra.css'
+  - 'assets/ekstra/tulis.css'
+  - 'assets/ekstra/label.css'
 extra_javascript:
-  - 'ekstra/js-ekstra.js'
+  - 'assets/ekstra/js-ekstra.js'
 
 # Google Analitik
 google_analytics:

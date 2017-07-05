@@ -5,7 +5,7 @@
 !!! summary " "
     Imbuhan (awalan, sisipan, akhiran, serta gabungan awalan dan akhiran) ditulis serangkai dengan bentuk dasarnya.
 
-???+ tip "Misal"
+!!! tip "Misal"
     *ber*jalan  
     *ber*kelanjutan  
     *mem*permudah  
@@ -16,7 +16,7 @@
 
 ???+ note "Catatan"
     !!! success " "
-        Imbuhan yang diserap dari unsur asing, seperti -*isme*, -*man*, -*wan*, atau -*wi*, ditulis serangkai dengan bentuk dasarnya.
+        Imbuhan yang diserap dari unsur asing, seperti &#8209;*isme*, &#8209;*man*, &#8209;*wan*, atau &#8209;*wi*, ditulis serangkai dengan bentuk dasarnya.
 
         **Misal**  
         suku*isme*  
@@ -29,73 +29,73 @@
 !!! summary " "
     Bentuk terikat ditulis serangkai dengan kata yang mengikutinya.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <table>
       <tr>
         <td><em>adi</em>busana</td>
         <td><em>infra</em>struktur</td>
         <td><em>pro</em>aktif</td>
-    </tr>
+      </tr>
       <tr>
         <td><em>aero</em>dinamika</td>
         <td><em>in</em>konvensional</td>
         <td><em>purna</em>wirawan</td>
-    </tr>
+      </tr>
       <tr>
         <td><em>antar</em>kota</td>
         <td><em>kontra</em>indikasi</td>
         <td><em>sapta</em>krida</td>
-    </tr>
+      </tr>
       <tr>
         <td><em>anti</em>biotik</td>
         <td><em>ko</em>sponsor</td>
         <td><em>semi</em>profesional</td>
-    </tr>
+      </tr>
       <tr>
         <td><em>awa</em>hama</td>
         <td><em>manca</em>negara</td>
         <td><em>sub</em>bagian</td>
-    </tr>
+      </tr>
       <tr>
         <td><em>bi</em>karbonat</td>
         <td><em>multi</em>lateral</td>
         <td><em>swa</em>daya</td>
-    </tr>
+      </tr>
       <tr>
         <td><em>bio</em>kimia</td>
         <td><em>nara</em>pidana</td>
         <td><em>tele</em>wicara</td>
-    </tr>
+      </tr>
       <tr>
         <td><em>deka</em>meter</td>
         <td><em>non</em>kolaborasi</td>
         <td><em>trans</em>migrasi</td>
-    </tr>
+      </tr>
       <tr>
         <td><em>de</em>moralisasi</td>
         <td><em>pari</em>purna</td>
         <td><em>tuna</em>karya</td>
-    </tr>
+      </tr>
       <tr>
         <td><em>dwi</em>warna</td>
         <td><em>pasca</em>sarjana</td>
         <td><em>tri</em>tunggal</td>
-    </tr>
+      </tr>
       <tr>
         <td><em>eka</em>bahasa</td>
         <td><em>pra</em>musaji</td>
         <td><em>tan</em>suara</td>
+      </tr>
       <tr>
         <td><em>ekstra</em>kurikuler</td>
         <td><em>pra</em>sejarah</td>
         <td><em>ultra</em>modern</td>
-    </tr>    
+      </tr>
     </table>
 
 ???+ note "Catatan"
-
     !!! summary " "
-        Bentuk terikat yang diikuti oleh kata yang berhuruf awal kapital atau singkatan yang berupa huruf kapital dirangkaikan dengan tanda hubung \``-`\`.
+        Bentuk terikat yang diikuti oleh kata yang berhuruf awal kapital atau singkatan yang berupa huruf kapital dirangkaikan dengan tanda hubung <span class="penanda">-</span>.
 
         **Misal**  
         *non*-Indonesia  
