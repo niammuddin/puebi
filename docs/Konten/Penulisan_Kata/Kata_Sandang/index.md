@@ -3,7 +3,7 @@
 !!! summary " "
     Kata <em>si</em> dan <em>sang</em> ditulis terpisah dari kata yang mengikutinya.
 
-???+ tip "Misal"
+!!! tip "Misal"
     Surat itu dikembalikan kepada <em>si</em> pengirim.
 
     Toko itu memberikan hadiah kepada <em>si</em> pembeli.

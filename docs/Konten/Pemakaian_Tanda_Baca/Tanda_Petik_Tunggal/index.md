@@ -7,7 +7,7 @@
 !!! summary " "
     Tanda petik tunggal dipakai untuk mengapit petikan yang terdapat dalam petikan lain.
 
-???+ tip "Misal"
+!!! tip "Misal"
     Tanya dia, “Kaudengar bunyi ‘kring-kring’ tadi?”
 
     “Kudengar teriak anakku, ‘Ibu, Bapak pulang!’, dan rasa letihku lenyap seketika,” ujar Pak Hamdan.
@@ -19,7 +19,7 @@
 !!! summary " "
     Tanda petik tunggal dipakai untuk mengapit makna, terjemahan, atau penjelasan kata atau ungkapan.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <table>
       <tr>
         <td><em>tergugat</em></td>

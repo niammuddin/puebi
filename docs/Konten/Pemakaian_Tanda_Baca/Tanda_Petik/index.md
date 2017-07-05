@@ -5,7 +5,7 @@
 !!! summary " "
     Tanda petik dipakai untuk mengapit petikan langsung yang berasal dari pembicaraan, naskah, atau bahan tertulis lain.
 
-???+ tip "Misal"
+!!! tip "Misal"
     **“**Merdeka atau mati!**”** seru Bung Tomo dalam pidatonya.
 
     **“**Kerjakan tugas ini sekarang!**”** perintah atasannya.
@@ -19,7 +19,7 @@
 !!! summary " "
     Tanda petik dipakai untuk mengapit judul sajak, lagu, film, sinetron, artikel, naskah, atau bab buku yang dipakai dalam kalimat.
 
-???+ tip "Misal"
+!!! tip "Misal"
     Sajak **“**Pahlawanku**”** terdapat pada halaman 125 buku itu.
 
     Marilah kita menyanyikan lagu **“**Maju Tak Gentar**”**!
@@ -37,7 +37,7 @@
 !!! summary " "
     Tanda petik dipakai untuk mengapit istilah ilmiah yang kurang dikenal atau kata yang mempunyai arti khusus.
 
-???+ tip "Misal"
+!!! tip "Misal"
     **“**Tetikus**”** komputer ini sudah tidak berfungsi.
 
     Dilarang memberikan **“**amplop**”** kepada petugas!

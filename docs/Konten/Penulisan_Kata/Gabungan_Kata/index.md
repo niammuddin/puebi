@@ -6,7 +6,7 @@
 !!! summary " "
     Unsur gabungan kata yang lazim disebut kata majemuk termasuk istilah khusus, ditulis terpisah.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <table>
       <tr>
         <td>duta besar</td>
@@ -33,9 +33,9 @@
 ## Menghindari <small>Salah Tanggap</small>
 
 !!! summary " "
-    Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan tanda hubung \``-`\` di antara unsur-unsurnya.
+    Gabungan kata yang dapat menimbulkan salah pengertian ditulis dengan membubuhkan tanda hubung <span class="penanda">-</span> di antara unsur-unsurnya.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <table>
       <tr>
         <td><em>anak-istri</em> pejabat</td>
@@ -55,7 +55,7 @@
 !!! summary " "
     Gabungan kata yang penulisannya terpisah tetap ditulis terpisah jika mendapat awalan atau akhiran.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <em>ber</em>tepuk tangan  
     <em>meng</em>anak sungai  
     garis bawah<em>i</em>  
@@ -66,7 +66,7 @@
 !!! summary " "
     Gabungan kata yang mendapat awalan dan akhiran sekaligus ditulis serangkai.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <em>di</em>lipatganda<em>kan</em>  
     <em>meng</em>garisbawah<em>i</em>  
     <em>me</em>nyebarluas<em>kan</em>  
@@ -78,18 +78,18 @@
 !!! summary " "
     Gabungan kata yang sudah padu ditulis serangkai.
 
-???+ tip "Misal"
+!!! tip "Misal"
     <table>
       <tr>
         <td>acapkali</td>
         <td>hulubalang</td>
         <td>radioaktif</td>
-        </tr>
+      </tr>
       <tr>
         <td>adakalanya</td>
         <td>kacamata</td>
         <td>saptamarga</td>
-        </tr>
+      </tr>
       <tr>
         <td>apalagi</td>
         <td>kasatmata</td>

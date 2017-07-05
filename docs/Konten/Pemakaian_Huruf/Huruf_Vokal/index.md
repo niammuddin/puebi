@@ -66,9 +66,8 @@
 ### Diakritik <small><span class="penanda">é</span></small>
 
 !!! summary " "
-    Diakritik <span class="penanda">é</span> dilafalkan [e].
-
-???+ tip "Misal"
+    Diakritik <span class="penanda">é</span> dilafalkan <span class="petanda">e</span>.
+!!! tip "Misal"
     Anak-anak bermain di _teras_ (téras).
 
     Kedelai merupakan bahan pokok _kecap_ (kécap).
@@ -76,9 +75,9 @@
 ### Diakritik <small><span class="penanda">è</span></small>
 
 !!! summary " "
-    Diakritik <span class="penanda">è</span> dilafalkan [ɛ].
+    Diakritik <span class="penanda">è</span> dilafalkan <span class="petanda">ɛ</span>.
 
-???+ tip "Misal" 
+!!! tip "Misal" 
     Kami menonton film _seri_ (sèri).
 
     Pertahanan _militer_ (militèr) Indonesia cukup kuat.
@@ -86,9 +85,9 @@
 ### Diakritik <small><span class="penanda">ê</span></small>
 
 !!! summary " "
-    Diakritik <span class="penanda">ê</span> dilafalkan [ə].
+    Diakritik <span class="penanda">ê</span> dilafalkan <span class="petanda">ə</span>.
 
-???+ tip "Misal"
+!!! tip "Misal"
     Pertandingan itu berakhir _seri_ (sêri).
 
     Upacara itu dihadiri pejabat _teras_ (têras) Bank Indonesia.
