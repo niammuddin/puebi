@@ -70,7 +70,7 @@ Penulisan bilangan dengan huruf dilakukan sebagai berikut.
       </tr>
       <tr>
         <td>satu permil</td>
-        <td>$1‰$</td>
+        <td>$1$&permil;</td>
       </tr>
     </table>
 

@@ -2,9 +2,13 @@
 
 # PUEBI <small>berdesain Material</small>
 
-><big>Selamat Datang</big> di [Panduan Umum Ejaan Bahasa Indonesia][1] bernuansa [Desain Material][2].
+!!! quote " "
+    <big>Selamat Datang</big> di <big>**Materi** [**Panduan Umum Ejaan Bahasa Indonesia**][1]</big> bernuansa [Desain Material][2].
 
-## Denah Materi PUEBI
+!!! warning "Penting"
+    Bagi pembaca yang baru pertama kalinya mengunjungi Materi PUEBI, baiknya terlebih dahulu menilik bagaimana "[**Menjelajahi Materi PUEBI**][41]" untuk mempermudah proses eksplorasi dan pemahaman.
+
+### Denah Materi PUEBI
 
 ???+ summary "**HALAMAN JUDUL**"
     [Kata Pengantar][3]  
@@ -54,15 +58,12 @@
 
     !!! summary "[Penulisan Unsur Serapan][40]"
 
-!!! warning "Perhatian"
-    Jika ini adalah kali pertama kunjungan Anda ke Materi PUEBI, baiknya bukalah dahulu halaman [**Tentang**][41] yang akan menjabarkan segala yang diperlukan untuk menjelajahi **Materi PUEBI**.
-
 <!--- ~~~~~~~~~ --->
 <!--- Bagian tautan --->
 <!--- ~~~~~~~~~ --->
 
-  [1]: https://id.m.wikipedia.org/wiki/Ejaan-Bahasa-Indonesia
-  [2]: https://material.io
+  [1]: https://id.wikipedia.org/wiki/Ejaan_Bahasa_Indonesia
+  [2]: https://id.wikipedia.org/wiki/Desain_material
 
 <!--- **HALAMAN JUDUL** --->
   [3]: kata-pengantar/index.md
@@ -114,4 +115,4 @@
 <!--- Penulisan Unsur Serapan --->
   [40]: penulisan-unsur-serapan/index.md
 
-  [41]: profil/tentang/index.md
+  [41]: profil/penjelajahan/index.md

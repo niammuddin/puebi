@@ -13,10 +13,10 @@
 
 ## Terpisah
 
-### Partikel \`pun\`
+### Partikel <span class="penanda">pun</span>
 
 !!! summary " "
-    Partikel *pun* ditulis terpisah dari kata yang mendahuluinya.
+    Partikel <span class="penanda">pun</span> ditulis terpisah dari kata yang mendahuluinya.
 
 !!! tip "Misalnya:"
     Apa *pun* permasalahan yang muncul, dia dapat
@@ -30,7 +30,7 @@
 
 ???+ warning "Catatan"
     !!! warning " "
-        Partikel *pun* yang merupakan unsur kata penghubung ditulis serangkai.
+        Partikel <span class="penanda">pun</span> yang merupakan unsur kata penghubung ditulis serangkai.
 
         **Misalnya:**  
         Meski*pun* sibuk, dia dapat menyelesaikan tugas tepat pada waktunya.
@@ -41,10 +41,10 @@
 
         Bagaimana*pun* pekerjaan itu harus selesai minggu depan.
 
-### Partikel \`per\`
+### Partikel <span class="penanda">per</span>
 
 !!! summary " "
-    Partikel per yang berarti ‘demi’, ‘tiap’, atau ‘mulai’ ditulis terpisah dari kata yang mengikutinya.
+    Partikel <span class="penanda">per</span> yang berarti 'demi', 'tiap', atau 'mulai' ditulis terpisah dari kata yang mengikutinya.
 
 !!! tip "Misalnya:"
     Mereka masuk ke dalam ruang rapat satu *per* satu.
