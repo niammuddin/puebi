@@ -22,7 +22,7 @@ Sebelum menilik rekam perilisan atau catatan perilisan, tidak ada salahnya terle
 
 Format penulisan mengadopsi apa yang tertera pada [perilisan MkDocs-Material](http://squidfunk.github.io/mkdocs-material/release-notes/#changelog) dengan berusaha meneladani ketentuan yang tertera pada "[Keep a Changelog](http://keepachangelog.com/en/1.0.0/)", juga sekaligus menganut "[Semantic Versioning](http://semver.org/spec/v2.0.0.html)".
 
-### 1.7.9 <small>_2017-07-09</small>
+### 2.7.8 <small>_2017-07-08</small>
 
 <big>"Perilisan stabil ke-2".</big>
 
