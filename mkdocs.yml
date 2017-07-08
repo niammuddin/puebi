@@ -1,10 +1,12 @@
-# Informasi Proyek
+# Pengaturan Materi PUEBI
+
+## Informasi Website
 site_name: 'Materi PUEBI'
-site_description: 'Panduan Umum Ejaan Bahasa Indonesia bernuansa Desain Material'
+site_description: 'Materi Panduan Umum Ejaan Bahasa Indonesia bernuansa Desain Material'
 site_author: 'MughniMind'
 site_url: 'https://mughnimind.github.io/materi-puebi/'
 
-# Halaman
+## Pembagian Halaman
 pages:
   - 'Beranda': 'index.md'
   - 'Kata Pengantar': 'kata-pengantar/index.md'
@@ -49,21 +51,26 @@ pages:
     - 'Tanda Penyingkat atau Apostrof': 'pemakaian-tanda-baca/tanda-penyingkat-atau-apostrof/index.md'
   - 'Penulisan Unsur Serapan': 'penulisan-unsur-serapan/index.md'
   - 'Profil':
-    - 'Tentang Materi PUEBI': 'profil/tentang/index.md'
+    - 'Tentang': 'profil/tentang/index.md'
+    - 'Penjelajahan': 'profil/penjelajahan/index.md'
+    - 'Partisipasi': 'profil/partisipasi/index.md'
+    - 'Penghargaan': 'profil/penghargaan/index.md'
+    - 'Rekam Perilisan': 'profil/perilisan/index.md'
+    - 'Hak Cipta': 'profil/hak-cipta/index.md'
 
-# Hak cipta
+## Hak cipta
 copyright: 'Dibuat sepenuh hati oleh &copy; MughniMind'
 
-# Gudang
+## Gudang Github
 repo_name: 'mughnimind/materi-puebi'
 repo_url: 'https://github.com/mughnimind/materi-puebi'
 
-# Dokumentasi dan Tema
+## Dokumentasi dan Tema
 theme: 'material'
 theme_dir: 'tema'
 site_favicon: 'assets/gambar/favicon.ico'
 
-# Pengaya
+## Pengaya
 extra:
   feature:
     tabs: false
@@ -71,22 +78,23 @@ extra:
   palette:
     primary: 'blue'
     accent: 'red'
-## Kolom Komentar
+### Kolom Komentar
 #  disqus: 'acemughnie'
-## Aksara
+### Aksara
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
-## Media Sosial
+### Media Sosial
   social:
-    - type: 'github-alt'
-      link: 'https://github.com/mughnimind'
-    - type: 'instagram'
-      link: 'https://www.instagram.com/acemughnie/'
     - type: 'twitter'
-      link: 'https://twitter.com/acemughnie'
-    - type: 'google-plus'
-      link: 'https://plus.google.com/+AceMughnie'
+      link: 'https://twitter.com/Kemdikbud_RI'
+    - type: 'facebook'
+      link: 'http://www.facebook.com/Kemdikbud.RI'
+    - type: 'youtube'
+      link: 'https://www.youtube.com/channel/UCH9AFSwY4WqgHoCLG2XIveg'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/kemdikbud.ri'
+
 ## Css & JavaScript Imbuhan
 extra_css:
   - 'assets/ekstra/css-ekstra.css'
@@ -95,12 +103,12 @@ extra_css:
 extra_javascript:
   - 'assets/ekstra/js-ekstra.js'
 
-# Google Analitik
+## Google Analitik
 google_analytics:
-  - 'UA-XXXXXXXX-X'
+  - 'UA-101415546-1'
   - 'auto'
 
-# Ekstensi
+## Ekstensi Markdown
 markdown_extensions:
   - markdown.extensions.extra
   - markdown.extensions.admonition
