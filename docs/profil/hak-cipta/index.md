@@ -27,4 +27,4 @@ SOFTWARE.
 ```
 
   [1]: https://www.kemdikbud.go.id
-  [2]: https://github.com/mughnimind/materi-puebi/blob/master/LICENSE.md
+  [2]: https://opensource.org/licenses/MIT
