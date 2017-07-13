@@ -242,7 +242,7 @@ details table tr:nth-child(2n) { background-color: rgba(68, 138, 255, .15); }
   margin-top: 0em !important;
 }
 
-.admonition p table { margin-top: 0em !important; }
+table { margin-top: 0 !important; }
 
 .admonition.tip table tr:nth-child(2n) { background-color: rgba(0, 191, 165, .15); }
 
