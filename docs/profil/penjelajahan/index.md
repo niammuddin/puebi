@@ -85,7 +85,7 @@ Bagian Catatan dikelompokkan dengan memanfaatkan fitur [*Details*][3].
 Tanda kurung lengkung `(…)` atau siku `[…]` yang dipakai sebagai penanda dan petanda diubah dengan tampilan yang lebih sederhana.
 
 !!! tip "Misalnya:"
-    Tanda *ampersand* <span class="penanda">&</span> dapat dipakai sebagai pengganti kata sambung <span class="petanda">dan</span>.
+    Ampersand <span class="penanda">&</span> adalah simbol yang mewakili kata <span class="petanda">dan</span>.
 
   <!--- Tautan --->
 
