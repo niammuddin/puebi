@@ -1,3 +1,5 @@
+description: Penulisan kata dasar sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Kata Dasar
 
 !!! summary " "

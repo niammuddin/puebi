@@ -1,3 +1,5 @@
+description: Penulisan partikel sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Partikel
 
 ## Serangkai

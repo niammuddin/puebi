@@ -1,3 +1,5 @@
+description: Penulisan kata ganti sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Kata Ganti <br><small>*ku–*, *kau–*, *–ku*, *–mu*, <big>dan</big> *–nya*</small>
 
 !!! summary " "

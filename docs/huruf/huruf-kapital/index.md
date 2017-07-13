@@ -1,3 +1,5 @@
+description: Pemakaian huruf kapital sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Huruf Kapital
 
 ## Awal Kalimat

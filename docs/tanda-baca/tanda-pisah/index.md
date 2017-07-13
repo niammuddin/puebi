@@ -1,3 +1,5 @@
+description: Pemakaian tanda pisah <small><span class="penanda">—</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Tanda Pisah <small><span class="penanda">—</span></small>
 
 ## Penjelas

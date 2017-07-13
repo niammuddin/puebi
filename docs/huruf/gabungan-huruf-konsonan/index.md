@@ -1,3 +1,5 @@
+description: Pemakaian gabungan huruf konsonan sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Gabungan Huruf Konsonan
 
 !!! summary " "

@@ -1,3 +1,5 @@
+description: Penulisan Unsur Serapan sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Penulisan Unsur Serapan
 
 Dalam perkembangannya bahasa Indonesia menyerap unsur dari berbagai bahasa, baik dari bahasa daerah, seperti bahasa Jawa, Sunda, dan Bali, maupun dari bahasa asing, seperti bahasa Sanskerta, Arab, Portugis, Belanda, Cina, dan Inggris. Berdasarkan taraf integrasinya, unsur serapan dalam bahasa Indonesia dapat dibagi menjadi dua kelompok besar.

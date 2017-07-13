@@ -1,3 +1,5 @@
+description: Pemakaian huruf vokal sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Huruf Vokal
 
 !!! summary " "

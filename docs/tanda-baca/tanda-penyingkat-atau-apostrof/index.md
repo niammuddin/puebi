@@ -1,3 +1,5 @@
+description: Pemakaian tanda penyingkat atau apostrof <small><span class="penanda">‘</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Tanda Penyingkat atau Apostrof <small><span class="penanda">‘</span></small>
 
 !!! summary " "

@@ -1,3 +1,5 @@
+description: Pemakaian tanda titik koma <small><span class="penanda">;</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Tanda Titik Koma <small><span class="penanda">;</span></small>
 
 ## Kalimat Majemuk

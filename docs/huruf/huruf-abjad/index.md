@@ -1,3 +1,5 @@
+description: Pemakaian huruf abjad sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Huruf Abjad
 
 !!! summary " "

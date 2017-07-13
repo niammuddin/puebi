@@ -1,3 +1,5 @@
+description: Penulisan gabungan kata sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Gabungan Kata
 
 

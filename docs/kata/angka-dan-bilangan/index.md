@@ -1,4 +1,4 @@
-
+description: Penulisan angka dan bilangan sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
 
 # Angka dan Bilangan
 

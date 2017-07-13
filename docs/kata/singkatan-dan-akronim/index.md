@@ -1,3 +1,5 @@
+description: Penulisan singkatan dan akronim sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Singkatan dan Akronim
 
 

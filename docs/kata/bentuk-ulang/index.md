@@ -1,3 +1,5 @@
+description: Penulisan bentuk ulang sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Bentuk Ulang
 
 !!! summary " "

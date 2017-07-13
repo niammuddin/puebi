@@ -1,3 +1,5 @@
+description: Penulisan kata berimbuhan sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Kata Berimbuhan
 
 ## Imbuhan

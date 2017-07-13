@@ -1,5 +1,7 @@
 
 
+description: Pemakaian tanda petik tunggal <small><span class="penanda">‘...’</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Tanda Petik Tunggal <small><span class="penanda">‘...’</span></small>
 
 ## Petikan Bersarang

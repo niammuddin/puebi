@@ -1,3 +1,5 @@
+description: Pemakaian huruf miring sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Huruf Miring
 
 ## Kutipan

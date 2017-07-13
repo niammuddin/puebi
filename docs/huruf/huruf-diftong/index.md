@@ -1,3 +1,5 @@
+description: Pemakaian huruf diftong sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Huruf Diftong
 
 !!! summary " "

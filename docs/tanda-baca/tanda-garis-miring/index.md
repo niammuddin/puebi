@@ -1,3 +1,5 @@
+description: Pemakaian tanda garis miring <small><span class="penanda">/</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Tanda Garis Miring <small><span class="penanda">/</span></small>
 
 ## Penomoran

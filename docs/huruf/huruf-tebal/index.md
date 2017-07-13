@@ -1,3 +1,5 @@
+description: Pemakaian huruf tebal sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Huruf Tebal
 
 ## Penegasan Ulang

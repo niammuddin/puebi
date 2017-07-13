@@ -1,3 +1,5 @@
+description: Pemakaian tanda seru <small><span class="penanda">!</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Tanda Seru <small><span class="penanda">!</span></small>
 
 !!! summary " "

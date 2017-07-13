@@ -1,3 +1,5 @@
+description: Penulisan pemenggalan kata sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Pemenggalan Kata
 
 ## Kata Dasar

@@ -1,3 +1,5 @@
+description: Penulisan kata depan sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+
 # Kata Depan
 
 !!! summary " "
