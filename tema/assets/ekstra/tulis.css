@@ -308,3 +308,9 @@ table { margin-top: 0 !important; }
 .progress-label {
   font-size: .65em;
 }
+
+.progress, .progress-bar {
+  border-radius:.2rem;
+}
+
+
