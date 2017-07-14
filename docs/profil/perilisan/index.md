@@ -1,86 +1,124 @@
 # Rekam Perilisan
 
-## Daftar Tugas
+## Senarai Tugas
 
 Sebelum menilik rekam perilisan atau catatan perilisan, tidak ada salahnya terlebih dahulu saya paparkan sederet tugas yang jadi tolok ukur keterselesaian proses penyelarasan "PUEBI" ke dalam struktur dokumen berorientasi web.
 
-* [x] Merampungkan Penyuntingan
-* [ ] Merapikan suntingan
-* [x] Membenahi halaman beranda
-* [ ] Merapikan penambahan *css* dan *js*.
-* [ ] Memperbaiki halaman Tentang
+* [x] Merampungkan Penyuntingan; [=100% "100%"]
+* [ ] Merapikan suntingan; [=85% "85%"]
+* [x] Membenahi halaman beranda; [=100% "100%"]
+* [ ] Merapikan penambahan *css* dan *js*; [=25% "25%"]
+* [ ] Mengganti *favicon* dan logo; [=0% "0%"]
+* [ ] Memperbaiki halaman Tentang [=20% "20%"]
     * [ ] Memperjelas penjabaran;
-    * [x] Pemisahan Judul:
+    * [x] Pemisahan Judul;
     * [ ] Penambahan panduan partisipasi;
-* [ ] Menambahkan _Screenshot_
-* [ ] Menyisipkan catatan kaki
-* [ ] Memperbaharui daftar tugas.
+* [ ] Menyisipkan catatan kaki; [=21% "21%"]
+* [ ] Memperbaharui daftar tugas. [=43% "43%"]
 
 ## Catatan Perilisan
 
 >Segala Pengubahan penting di setiap perilisan termuat pada bagian ini.
 
-Format penulisan mengadopsi apa yang tertera pada [perilisan MkDocs-Material](http://squidfunk.github.io/mkdocs-material/release-notes/#changelog) dengan berusaha meneladani ketentuan yang tertera pada "[Keep a Changelog](http://keepachangelog.com/en/1.0.0/)", juga sekaligus menganut "[Semantic Versioning](http://semver.org/spec/v2.0.0.html)".
+Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pada [perilisan MkDocs-Material](http://squidfunk.github.io/mkdocs-material/release-notes/#changelog) dengan berusaha meneladani ketentuan yang tertera pada "[Keep a Changelog](http://keepachangelog.com/en/1.0.0/)", meski dengan beberapa penyesuaian berdasarkan selera pribadi.
 
-### 2.7.8 <small>_2017-07-08</small>
+### :cat: 3.7.15 <small>_2017-07-15</small>
 
-<big>"Perilisan stabil ke-2".</big>
+##### Julukan
 
-#### Julukan
+!!! quote " "
+    **Mbrengkunung**
 
-<big>Mblaged</big>
+##### Perbaikan
 
+* Halaman
+    * Beranda  
+        Mengelompokkan saran dan intisari "Materi PUEBI" ke dalam catatan.
+    * Penjelajahan  
+        Membenahi contoh penggunaan *penanda* dan *petanda*.
+    * Penghargaan  
+        Menambahkan atribusi pada *ResponsiveVoice*;
+    * Rekam Perilisan  
+        Meningkatkan tingkat keterbacaan.
+* Penulisan  
+    Memperbaiki sedikit kesalahan tulis.
 
-#### Pembenahan
+##### Penambahan
 
-* Konsistensi pemakaian istilah pada setiap halaman di bagian beranda dan profil.
-* Pengubahan huruf dan peringkasan alur pada setiap direktori;
-* Kembali menggunakan "Ubuntu Mono".
+* *ResponsiveVoice*  
+    Sebagai sarana pelafalan setiap Abjad;
+* *Meta descriptions*  
+    Deskripsi pada setiap konten yang memuat penjabaran;
+* *Pymdownx*  
+    Pengaya *pymdownx* berupa *ProgressBar* sebagai indikasi keterselesaian senarai tugas dan *extra* guna mempermudah penyisipan sintak markdown dalam *html block elements*.
 
-#### Penambahan
+##### Pengurangan
 
-* Halaman "Perilisan", "Partisipasi", "Penghargaan", "Rekam Perilisan", dan "Hak Cipta".
+* *Markdown extensions extra*  
+    Sebagai akibat dari penambahan pengaya *pymdownx extra*.
 
-#### Pengurangan
+***
+
+### :cat: 2.7.8 <small>_2017-07-08</small>
+
+##### Julukan
+
+!!! quote " "
+    **Mblaged**
+
+##### Perbaikan
+
+* Istilah  
+    Konsistensi pemakaian istilah pada setiap halaman di bagian beranda dan profil.
+* Direktori  
+    Pengubahan huruf dan peringkasan alur pada setiap direktori;
+* Font  
+    Kembali menggunakan "Ubuntu Mono".
+
+##### Penambahan
+
+* Bagian Tentang  
+    Menambahkan halaman 'Perilisan', 'Partisipasi', 'Penghargaan', 'Rekam Perilisan', dan 'Hak Cipta'.
+
+##### Pengurangan
 
 * Nihil
 
-### 1.7.5 <small>_2017-07-05</small>
+***
 
-<big>"Perilisan beta ke-2".</big>
+### :cat: 2.7.5 <small>_2017-07-05</small>
 
-#### Julukan
+##### Julukan
 
-<big>Clala-clili</big>
+!!! quote " "
+    **Clala-clili**
 
-
-#### Pembenahan
+##### Perbaikan
 
 * Bagian halaman README.md;
 * Sejumput kesalahan tulis.
 * Perombakan susunan, tampilan, dan pemakaian pada admonition dan penanda;
 * Font, kembali menggunakan ~~"Roboto Mono"~~.
 
-#### Penambahan
+##### Penambahan
 
 * Tampilan "Petanda";
 * Warna pada *Adress-bar*.
 
-#### Pengurangan
+##### Pengurangan
 
 * Piranti komentar *disqus*.
 
-### 1.7.1 <small>_2017-07-01</small>
+***
 
-#### Deskripsi
+### :cat: 1.7.1 <small>_2017-07-01</small>
 
-<big>"Perilisan versi stabil pertama".</big>
+##### Julukan
 
-#### Julukan
+!!! quote " "
+    **Kemrungsung**
 
-<big>Kemrungsung</big>
-
-#### Pembenahan
+##### Perbaikan
 
 * Bagian "*footer*" halaman;
 * Segudang kesalahan tulis;
@@ -90,28 +128,28 @@ Format penulisan mengadopsi apa yang tertera pada [perilisan MkDocs-Material](ht
 * Warna tema dari "Biru muda" ke warna "Biru";
 * Tampilan ekstensi "Detail" pada bagian *quote*.
 
-#### Penambahan
+##### Penambahan
 
 * Font "Libre Baskerville";
 * Tampilan "penanda";
 * Gambar di halaman "Prakata";
 * Label css guna keterangan Gambar.
 
-#### Pengurangan
+##### Pengurangan
 
 * Nihil.
 
-### 0.6.21 <small>_2017-06-21</small>
+***
 
-#### Deskripsi
+### :cat: 0.6.21 <small>_2017-06-21</small>
 
-<big>"Perilisan Awal (beta)".</big>
+##### Kondisi
 
-#### Kondisi
+!!! quote " "
+    **beta**
 
-<big>beta</big>
+##### Julukan
 
-#### Julukan
-
-<big>Ruag</big>
+!!! quote " "
+    **Ruag**
 

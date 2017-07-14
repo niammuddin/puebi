@@ -1,4 +1,4 @@
-description: Pemakaian tanda koma <small><span class="penanda">,</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+description: Pemakaian tanda koma sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
 
 # Tanda Koma <small><span class="penanda">,</span></small>
 

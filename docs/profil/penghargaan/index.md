@@ -56,6 +56,14 @@ Namun, seperti apa yang seringkali tertera pada paragraf-paragraf ucapan terimak
 
     Konten utama Materi PUEBI kesemuanya diekstraksi dari buku elektronik PUEBI. Lantaran buku tersebut masih berbentuk pdf, maka proses ekstraksi teksnya dilakukan dengan memanfaatkan sarana [konversi pdf ke teks][11] secara daring.
 
-  [11]: http://go4convert.com 
+  [11]: http://go4convert.com
+
+* **ResponsiveVoice**
+
+    Penyisipan suara yang tersedia di "Materi PUEBI" tidak mungkin dapat terwujud tanpa bantuan dari [**ResponsiveVoice**][12].<div style="width:300px;vertical-align:top;font-family: Arial;font-size:9pt;line-height: normal">
+<a rel="license" href="//responsivevoice.org/"><img title="ResponsiveVoice Text To Speech" src="https://responsivevoice.org/wp-content/uploads/2014/08/120x31.png" style="float:left;padding-right:2px" /></a><span xmlns:dct="https://purl.org/dc/terms/" property="dct:title"><a href="//responsivevoice.org/" target="_blank" title="ResponsiveVoice Text To Speech">ResponsiveVoice</a></span> used under <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" title="Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License">Non-Commercial License</a></div>
+<div style="clear:both;">&nbsp;</div>
+
+  [12]: http://go4convert.com
 
 

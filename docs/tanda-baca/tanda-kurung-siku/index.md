@@ -1,4 +1,4 @@
-description: Pemakaian tanda kurung siku <small><span class="penanda">[...]</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+description: Pemakaian tanda kurung siku sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
 
 # Tanda Kurung Siku <small><span class="penanda">[...]</span></small>
 

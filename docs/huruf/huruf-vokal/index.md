@@ -94,5 +94,6 @@ description: Pemakaian huruf vokal sesuai dengan Panduan Umum Ejaan Bahasa Indon
 
     Upacara itu dihadiri pejabat _teras_ (têras) Bank Indonesia.
 
-    _Kecap_ (k<em>ê</em>cap) dulu makanan itu.
+    _Kecap_ (kêcap) dulu makanan itu.
+
 

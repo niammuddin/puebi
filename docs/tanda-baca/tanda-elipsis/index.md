@@ -1,4 +1,4 @@
-description: Pemakaian tanda elipsis <small><span class="penanda">…</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+description: Pemakaian tanda elipsis sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
 
 # Tanda Elipsis <small><span class="penanda">…</span></small>
 

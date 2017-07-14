@@ -1,4 +1,4 @@
-description: Pemakaian tanda kurung <small><span class="penanda">(...)</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+description: Pemakaian tanda kurung sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
 
 # Tanda Kurung <small><span class="penanda">(...)</span></small>
 

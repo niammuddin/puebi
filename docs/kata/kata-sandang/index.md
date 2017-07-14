@@ -1,4 +1,4 @@
-description: Penulisan kata sandang <small>*si* &amp; *sang*</small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+description: Penulisan kata sandang sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
 
 # Kata Sandang <small>*si* &amp; *sang*</small>
 

@@ -1,4 +1,4 @@
-description: Pemakaian tanda tanya <small><span class="penanda">?</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+description: Pemakaian tanda tanya sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
 
 # Tanda Tanya <small><span class="penanda">?</span></small>
 

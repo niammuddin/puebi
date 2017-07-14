@@ -1,4 +1,4 @@
-description: Pemakaian tanda titik <small><span class="penanda">.</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+description: Pemakaian tanda titik sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
 
 # Tanda Titik <small><span class="penanda">.</span></small>
 

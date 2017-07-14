@@ -1,4 +1,4 @@
-description: Pemakaian tanda petik <small><span class="penanda">“...”</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+description: Pemakaian tanda petik sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
 
 # Tanda Petik <small><span class="penanda">“...”</span></small>
 

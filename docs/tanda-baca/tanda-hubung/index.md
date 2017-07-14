@@ -1,4 +1,4 @@
-description: Pemakaian tanda hubung <small><span class="penanda">-</span></small> sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
+description: Pemakaian tanda hubung sesuai dengan Panduan Umum Ejaan Bahasa Indonesia.
 
 # Tanda Hubung <small><span class="penanda">-</span></small>
 
