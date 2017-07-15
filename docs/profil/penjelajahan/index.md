@@ -16,9 +16,9 @@ Kondisi ini tentu saja memberikan keuntungan bagi Para Pembaca yang mengakses "M
 **Fitur pencarian** di sudut kiri atas layar juga diharapkan mampu mempercepat para pembaca dalam menemukan pembahasan yang dibutuhkan.
 
 !!! bug " "
-    Namun terdapat beberapa keterbatasan mengenai dukungan *browser* atau peramban yang benar-benar mampu menampilkan "Materi PUEBI" sebagaimana mestinya.
+    Terdapat beberapa keterbatasan mengenai dukungan *browser* atau peramban yang benar-benar mampu menampilkan "Materi PUEBI" sebagaimana mestinya.
 
-    Sangat dianjurkan untuk mengakses "Materi PUEBI" melalui peramban "**Chrome**", peramban seperti *UC Browser* sebaiknya dihindari, sebab tidak mendukung beberapa fitur krusial di "Materi PUEBI".
+    Sangat dianjurkan untuk mengakses "Materi PUEBI" melalui peramban "**Chrome**", peramban seperti *UC Browser* sebaiknya dihindari, sebab tidak mendukung beberapa fitur krusial yang tersedia pada "Materi PUEBI".
 
 ## Struktur Penulisan
 
@@ -55,6 +55,10 @@ Ketentuan ini dilakukan semata karena fungsi halaman tersebut mampu digantikan d
 ### Penyisipan Gambar
 
 Beberapa halaman yang memuat teks panjang seperti halaman "PRAKATA" sengaja disisipi gambar guna terlihat lebih segar dan tidak membosankan.
+
+### Pelafalan Abjad
+
+Meski hanya sekelumit, penyisipan suara yang tersedia di Materi PUEBI diharapkan mampu meningkatkan proses pemahaman Pedoman Umum Ejaan Bahasa Indonesia.
 
 ### Serba-serbi
 
