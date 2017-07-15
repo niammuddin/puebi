@@ -26,7 +26,7 @@ Sebelum menilik rekam perilisan atau catatan perilisan, berikut ini sederet tuga
 
 Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pada halaman [perilisan MkDocs-Material](http://squidfunk.github.io/mkdocs-material/release-notes/#changelog) dengan berusaha meneladani ketentuan yang tertera pada "[Keep a Changelog](http://keepachangelog.com/en/1.0.0/)", meski dengan beberapa penyesuaian berdasarkan selera pribadi.
 
-### :cat: 3.7.15 <small>_2017-07-15</small>
+### :cat: 3.7.16 <small>_2017-07-16</small>
 
 ##### Julukan
 
@@ -55,7 +55,8 @@ Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pa
     Deskripsi pada setiap konten yang memuat penjabaran.
 * *Pymdownx*  
     Pengaya *pymdownx* berupa *ProgressBar* sebagai indikasi keterselesaian senarai tugas dan *extra* guna mempermudah penyisipan sintak markdown dalam *html block elements*.
-
+* Halaman 404
+    Penambahan tampilan halaman 404 dengan penyesuaian yang ditujukan demi keinformatifan halaman.
 ##### Pengurangan
 
 * *Markdown extensions extra*  
