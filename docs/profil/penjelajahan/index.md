@@ -3,7 +3,7 @@
 
 # Menjelajahi Materi PUEBI
 
-Sebelum melahap habis konten "Materi PUEBI"—amin—, berikut ini sederet informasi mengenai "Materi PUEBI" yang sekiranya dapat mempermudah proses eksplorasi dan pemahaman setiap konten yang terdapat di "Materi PUEBI".
+Sebelum melahap habis konten "Materi PUEBI"—amin, berikut ini sederet informasi mengenai "Materi PUEBI" yang sekiranya dapat mempermudah proses eksplorasi dan pemahaman setiap konten yang terdapat di "Materi PUEBI".
 
 ## Ramah Ponsel
 
