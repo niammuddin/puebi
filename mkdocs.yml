@@ -2,9 +2,14 @@
 
 ## Informasi Website
 site_name: 'Materi PUEBI'
-site_description: 'Materi Panduan Umum Ejaan Bahasa Indonesia bernuansa Desain Material'
+site_description: 'Materi Panduan Umum Ejaan Bahasa Indonesia'
 site_author: 'MughniMind'
-site_url: 'https://mughnimind.github.io/materi-puebi/'
+site_url: 'https://mughnimind.github.io/materi-puebi'
+### Hak cipta
+copyright: 'Dibuat sepenuh hati oleh &copy; MughniMind'
+### Gudang Github
+repo_name: 'mughnimind/materi-puebi'
+repo_url: 'https://github.com/mughnimind/materi-puebi'
 
 ## Pembagian Halaman
 pages:
@@ -57,13 +62,6 @@ pages:
     - 'Penghargaan': 'profil/penghargaan/index.md'
     - 'Rekam Perilisan': 'profil/perilisan/index.md'
     - 'Hak Cipta': 'profil/hak-cipta/index.md'
-
-## Hak cipta
-copyright: 'Dibuat sepenuh hati oleh &copy; MughniMind'
-
-## Gudang Github
-repo_name: 'mughnimind/materi-puebi'
-repo_url: 'https://github.com/mughnimind/materi-puebi'
 
 ## Dokumentasi dan Tema
 theme: 'material'
