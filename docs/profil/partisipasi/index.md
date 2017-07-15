@@ -28,7 +28,7 @@ Mohon bantuannya ... :pray:.
   [1]: https://id.m.wikipedia.org/wiki/GitHub
   [2]: https://github.com/join
   [3]: https://github.com/mughnimind/materi-puebi/issues
-  [4]: https://github.com/mughnimind/materi-puebi
+  [4]: https://github.com/mughnimind/materi-puebi/
 
   <!--- Catatan kaki --->
 
