@@ -260,7 +260,7 @@ table { margin-top: 0 !important; }
 
 .penanda {
   word-break: break-word;
-  margin: 0;
+  margin: .15em 0em;
   padding: 0em .25em;
   display: inline-block;
   background-color: rgba(103, 58, 183,.15);
@@ -276,7 +276,7 @@ table { margin-top: 0 !important; }
 
 .petanda {
   word-break: break-word;
-  margin: 0;
+  margin: .15em 0em;
   padding: 0em .25em;
   display: inline-block;
   background-color: rgba(0,191,165,.15);
