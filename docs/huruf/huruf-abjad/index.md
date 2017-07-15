@@ -115,7 +115,7 @@ description: Pemakaian huruf abjad sesuai dengan Panduan Umum Ejaan Bahasa Indon
     <td style="text-align: center">Q</td>
     <td style="text-align: center">q</td>
     <td style="text-align: center">ki</td>
-    <td style="text-align: center">ki<span class="suara" onclick="responsiveVoice.speak('ki', 'Indonesian Female');" type="button" value="Play">:sound:</span></td>
+    <td style="text-align: center">ki<span class="suara" onclick="responsiveVoice.speak('q', 'Indonesian Female');" type="button" value="Play">:sound:</span></td>
   </tr>
   <tr style="background:#E1F5FE">
     <td style="text-align: center">R</td>
@@ -157,7 +157,7 @@ description: Pemakaian huruf abjad sesuai dengan Panduan Umum Ejaan Bahasa Indon
     <td style="text-align: center">X</td>
     <td style="text-align: center">x</td>
     <td style="text-align: center">eks</td>
-    <td style="text-align: center">èks<span class="suara" onclick="responsiveVoice.speak('eks', 'Indonesian Female');" type="button" value="Play">:sound:</span></td>
+    <td style="text-align: center">èks<span class="suara" onclick="responsiveVoice.speak('x', 'Indonesian Female');" type="button" value="Play">:sound:</span></td>
   </tr>
   <tr>
     <td style="text-align: center">Y</td>
