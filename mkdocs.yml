@@ -4,9 +4,9 @@
 site_name: 'Materi PUEBI'
 site_description: 'Materi Panduan Umum Ejaan Bahasa Indonesia'
 site_author: 'MughniMind'
-site_url: 'https://mughnimind.github.io/materi-puebi'
+site_url: 'https://mughnimind.github.io/materi-puebi/'
 ### Hak cipta
-copyright: 'Dibuat sepenuh hati oleh &copy; MughniMind'
+copyright: 'Dibuat sepenuh hati oleh &copy; <a href="https://github.com/mughnimind">MughniMind</a>'
 ### Gudang Github
 repo_name: 'mughnimind/materi-puebi'
 repo_url: 'https://github.com/mughnimind/materi-puebi'
