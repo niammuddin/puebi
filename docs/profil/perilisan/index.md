@@ -2,25 +2,29 @@
 
 ## Senarai Tugas
 
-Sebelum menilik rekam perilisan atau catatan perilisan, tidak ada salahnya terlebih dahulu saya paparkan sederet tugas yang jadi tolok ukur keterselesaian proses penyelarasan "PUEBI" ke dalam struktur dokumen berorientasi web.
+Sebelum menilik rekam perilisan atau catatan perilisan, berikut ini sederet tugas yang dapat dijadikan tolok ukur keterselesaian pengerjaan "Materi PUEBI".
 
-* [x] Merampungkan Penyuntingan; [=100% "100%"]
-* [ ] Merapikan suntingan; [=85% "85%"]
-* [x] Membenahi halaman beranda; [=100% "100%"]
-* [ ] Merapikan penambahan *css* dan *js*; [=25% "25%"]
-* [ ] Mengganti *favicon* dan logo; [=0% "0%"]
-* [ ] Memperbaiki halaman Tentang [=20% "20%"]
-    * [ ] Memperjelas penjabaran;
-    * [x] Pemisahan Judul;
-    * [ ] Penambahan panduan partisipasi;
-* [ ] Menyisipkan catatan kaki; [=21% "21%"]
-* [ ] Memperbaharui daftar tugas. [=43% "43%"]
+* [x] **Merampungkan Penyuntingan**. [=100% "100%"]
+* [ ] **Merapikan suntingan**. [=85% "85%"]
+* [x] **Membenahi halaman beranda**. [=100% "100%"]
+* [ ] **Merapikan penambahan _css_ dan _js_**. [=25% "25%"]
+* [ ] **Mengganti _favicon_ dan logo**. [=0% "0%"]
+* [ ] **Memperbaiki halaman Tentang**.
+    * [ ] Memperjelas penjabaran.
+    * [x] Pemisahan Judul.
+    * [ ] Penambahan panduan partisipasi
+
+    [=20% "20%"]
+
+* [ ] **Menyisipkan catatan kaki**. [=21% "21%"]
+* [ ] **Menyisipkan suara pada penjabaran _Diakritik_**. [=5% "5%"]
+* [ ] **Memperbaharui daftar tugas**. [=43% "43%"]
 
 ## Catatan Perilisan
 
 >Segala Pengubahan penting di setiap perilisan termuat pada bagian ini.
 
-Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pada [perilisan MkDocs-Material](http://squidfunk.github.io/mkdocs-material/release-notes/#changelog) dengan berusaha meneladani ketentuan yang tertera pada "[Keep a Changelog](http://keepachangelog.com/en/1.0.0/)", meski dengan beberapa penyesuaian berdasarkan selera pribadi.
+Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pada halaman [perilisan MkDocs-Material](http://squidfunk.github.io/mkdocs-material/release-notes/#changelog) dengan berusaha meneladani ketentuan yang tertera pada "[Keep a Changelog](http://keepachangelog.com/en/1.0.0/)", meski dengan beberapa penyesuaian berdasarkan selera pribadi.
 
 ### :cat: 3.7.15 <small>_2017-07-15</small>
 
@@ -37,7 +41,7 @@ Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pa
     * Penjelajahan  
         Membenahi contoh penggunaan *penanda* dan *petanda*.
     * Penghargaan  
-        Menambahkan atribusi pada *ResponsiveVoice*;
+        Menambahkan atribusi pada *ResponsiveVoice*.
     * Rekam Perilisan  
         Meningkatkan tingkat keterbacaan.
 * Penulisan  
@@ -46,9 +50,9 @@ Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pa
 ##### Penambahan
 
 * *ResponsiveVoice*  
-    Sebagai sarana pelafalan setiap Abjad;
+    Sebagai sarana pelafalan setiap Abjad.
 * *Meta descriptions*  
-    Deskripsi pada setiap konten yang memuat penjabaran;
+    Deskripsi pada setiap konten yang memuat penjabaran.
 * *Pymdownx*  
     Pengaya *pymdownx* berupa *ProgressBar* sebagai indikasi keterselesaian senarai tugas dan *extra* guna mempermudah penyisipan sintak markdown dalam *html block elements*.
 
@@ -71,7 +75,7 @@ Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pa
 * Istilah  
     Konsistensi pemakaian istilah pada setiap halaman di bagian beranda dan profil.
 * Direktori  
-    Pengubahan huruf dan peringkasan alur pada setiap direktori;
+    Pengubahan huruf dan peringkasan alur pada setiap direktori.
 * Font  
     Kembali menggunakan "Ubuntu Mono".
 
@@ -95,19 +99,25 @@ Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pa
 
 ##### Perbaikan
 
-* Bagian halaman README.md;
-* Sejumput kesalahan tulis.
-* Perombakan susunan, tampilan, dan pemakaian pada admonition dan penanda;
-* Font, kembali menggunakan ~~"Roboto Mono"~~.
+* Bagian halaman README.md.
+* *Typo*  
+    Sejumput kesalahan tulis.
+* *Admonition*  
+    Perombakan susunan, tampilan, dan pemakaian pada admonition dan penanda.
+* *Font*  
+    Tergesa-gesa kembali menggunakan ~~'Roboto Mono'~~.
 
 ##### Penambahan
 
-* Tampilan "Petanda";
-* Warna pada *Adress-bar*.
+* Petanda
+    Menambahkan tampilan "Petanda".
+* *Adress-bar*  
+    Menambahkan pewarnaan pada *Adress-bar*.
 
 ##### Pengurangan
 
-* Piranti komentar *disqus*.
+* *Disqus*  
+    Meniadakan piranti komentar *disqus* guna mempercepat proses pemuatan situs.
 
 ***
 
@@ -120,20 +130,30 @@ Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pa
 
 ##### Perbaikan
 
-* Bagian "*footer*" halaman;
-* Segudang kesalahan tulis;
-* Penulisan "Rekam Perilisan";
-* Struktur Halaman "Judul" dan "Beranda"; 
-* Oenerapan admonition;
-* Warna tema dari "Biru muda" ke warna "Biru";
-* Tampilan ekstensi "Detail" pada bagian *quote*.
+* *Footer*  
+    Pembenahan sekat pada bagian '*footer*' halaman.
+* *Typo*  
+    Pembenahan segudang kesalahan tulis.
+* Halaman
+    * Rekam Perilisan  
+        Mulai mempersiapkan penulisan "Rekam Perilisan".
+    * Struktur  
+        Perbaikan struktur halaman "Judul" dan "Beranda".
+* *Admonition*  
+    Perubahan penerapan admonition.
+* Warna  
+    Pergantian warna tema dari 'Biru muda' ke warna 'Biru'.
+* Pengaya  
+    Menyunting tampilan ekstensi atau pengaya "Detail" pada bagian *quote*.
 
 ##### Penambahan
 
-* Font "Libre Baskerville";
-* Tampilan "penanda";
-* Gambar di halaman "Prakata";
-* Label css guna keterangan Gambar.
+* Font
+    Pergantian font pada setiap Tajuk dari 'Roboto' ke 'Libre Baskerville'.
+* Penanda  
+    Menambahkan tampilan 'penanda'.
+* Gambar  
+    Menyisipkan gambar di halaman 'Prakata', sekaligus penambahan 'Label css' guna menyertakan keterangan Gambar.
 
 ##### Pengurangan
 
@@ -153,3 +173,7 @@ Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pa
 !!! quote " "
     **Ruag**
 
+##### Deskripsi
+
+!!! quote " "
+    **Perilisan awal**.
