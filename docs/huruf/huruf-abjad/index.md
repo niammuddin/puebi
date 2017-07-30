@@ -5,6 +5,8 @@ description: Pemakaian huruf abjad sesuai dengan Panduan Umum Ejaan Bahasa Indon
 !!! summary " "
     Abjad yang dipakai dalam ejaan bahasa Indonesia terdiri atas 26 huruf berikut.
 
+<script src="http://code.responsivevoice.org/responsivevoice.js"></script>
+
 <table markdown="1">
   <tr>
     <th colspan="2" style="text-align:center;font-weight:700; background:#0288D1;">HURUF</th>
@@ -173,4 +175,3 @@ description: Pemakaian huruf abjad sesuai dengan Panduan Umum Ejaan Bahasa Indon
   </tr>
 </table>
 
-<script src="http://code.responsivevoice.org/responsivevoice.js"></script>
