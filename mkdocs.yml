@@ -100,7 +100,6 @@ extra_css:
   - 'assets/ekstra/label.css'
 extra_javascript:
   - 'assets/ekstra/pymdown.js'
-  - 'http://code.responsivevoice.org/responsivevoice.js'
 
 ## Google Analitik
 google_analytics:

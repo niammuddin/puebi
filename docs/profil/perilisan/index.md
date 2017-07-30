@@ -17,14 +17,35 @@ Sebelum menilik rekam perilisan atau catatan perilisan, berikut ini sederet tuga
     [=20% "20%"]
 
 * [ ] **Menyisipkan catatan kaki**. [=21% "21%"]
-* [ ] **Menyisipkan suara pada penjabaran _Diakritik_**. [=5% "5%"]
-* [ ] **Memperbaharui daftar tugas**. [=43% "43%"]
+* [ ] **Memperbaharui daftar tugas**. [=55% "55%"]
 
 ## Catatan Perilisan
 
 >Segala Pengubahan penting di setiap perilisan termuat pada bagian ini.
 
 Format penulisan "Catatan Perilisan" berikut ini mengadopsi apa yang tertulis pada halaman [perilisan MkDocs-Material](http://squidfunk.github.io/mkdocs-material/release-notes/#changelog) dengan berusaha meneladani ketentuan yang tertera pada "[Keep a Changelog](http://keepachangelog.com/en/1.0.0/)", meski dengan beberapa penyesuaian berdasarkan selera pribadi.
+
+### :cat: 3.7.30 <small>_2017-07-30</small>
+
+##### Julukan
+
+!!! quote " "
+    **Mbringsung**
+
+##### Perbaikan
+
+* Halaman "Huruf Abjad".  
+    Menghilangkan ResposiveVoice.js.
+
+##### Penambahan
+
+* Nihil
+
+##### Pengurangan
+
+* ResposiveVoice.js.
+
+***
 
 ### :cat: 3.7.16 <small>_2017-07-16</small>
 
